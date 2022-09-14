@@ -1,0 +1,27 @@
+T2	Claim 303 338	the river is in bad shape this year
+T3	Premise 340 468	It has already dried to a dusty ribbon of sand in some parts, and most of the water that does flow is diverted to irrigate crops
+T5	Claim 642 722	irrigation water may run out at the end of July, three months earlier than usual
+T8	Premise 886 951	The monsoon rains he is counting on are notoriously unpredictable
+T9	Claim 962 1104	So he and many of the other farmers who work 62,000 acres along 140 miles of the Rio Grande in central New Mexico may get by — or they may not
+T10	Claim 1630 1694	the long-term outlook for the river is clouded by climate change
+T11	Premise 1697 1840	The Rio Grande is a classic “feast or famine” river, with a dry year or two typically followed by a couple of wet years that allow for recovery
+T15	Premise 2033 2126	The effect of long-term warming is to make it harder to count on snowmelt runoff in wet times
+T21	Premise 2806 3090	A study last year of the Colorado River, which provides water to 40 million people and is far bigger than the Rio Grande, found that flows from 2000 to 2014 were nearly 20 percent below the 20th century average, with about a third of the reduction attributable to human-caused warming
+T22	Claim 3117 3264	if climate change continued unabated, human-induced warming could eventually reduce Colorado flows by at least an additional one-third this century
+T25	Claim 3597 3666	the Rio Grande has also been hurt by declines in winter precipitation
+T29	Claim 4563 4680	spring temperatures have an impact, too, with warmer air causing more snow to turn to vapor and essentially disappear
+T40	Claim 7643 7679	Others may not have to hope for rain
+T41	Premise 7681 7845	Chris Sichler, who farms 650 acres near San Antonio, has wells to pump groundwater onto his fields should the irrigation canals dry up and the rains not materialize
+T46	Premise 8415 8498	His father and uncles, who have been farming far longer than him, have seen changes
+T47	Premise 8501 8552	“This is the worst they’ve seen it in their lives,”
+R0	supports Arg1:T2 Arg2:T10
+R1	supports Arg1:T3 Arg2:T2
+R2	supports Arg1:T5 Arg2:T2
+R3	supports Arg1:T8 Arg2:T9
+R4	supports Arg1:T9 Arg2:T10
+R5	supports Arg1:T11 Arg2:T9
+R6	supports Arg1:T15 Arg2:T11
+R7	supports Arg1:T21 Arg2:T22
+R8	supports Arg1:T41 Arg2:T40
+R9	joint Arg1:T46 Arg2:T47
+R10	supports Arg1:T47 Arg2:T10

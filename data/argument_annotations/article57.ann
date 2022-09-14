@@ -1,0 +1,36 @@
+T3	MajorClaim 371 594	Experts and state water officials say California is seeing more of these intense weather swings as temperatures warm, which has profound implications for the droughts and floods the state may face in the generations to come
+T4	Premise 623 828	a new series of late-season storms is expected to vault this winter into the history books, making this year the wettest winter for California’s northern Sierra Nevada in nearly a century of record-keeping
+T6	Claim 998 1069	just two years before, the state was experiencing record dry conditions
+T8	Claim 1439 1541	The extreme cycles of dry and wet weather appear to have been intensifying over the last three decades
+T9	Premise 1583 1679	When you look at the other five wettest years other than this one, the earliest of those is 1982
+T11	Claim 1790 1892	The shift has coincided with increases in California temperatures that scientists say began about 1980
+T14	Claim 2187 2279	Warming global temperatures can have a profound effect on weather patterns across the planet
+T15	Premise 2281 2442	Changing the distribution of warmth in the ocean drives changes in the atmosphere, which ultimately decides how much precipitation gets to California, Mount said
+T19	Premise 2894 2985	Warm temperatures in 2015 made the precipitation that did fall drop as rain instead of snow
+T22	Claim 3278 3376	this winter’s near disaster at the overflowing Lake Oroville was in part caused by warm storms too
+T26	Premise 3774 4054	Now some officials believe they will have to change the infrastructure — such as building or raising dams and constructing two giant tunnels underneath the confluence of the state’s two largest rivers — to deal with more precipitation falling as rain and snow melting more quickly
+T27	Claim 4057 4187	Not everyone is convinced that the evidence is in that climate change is responsible for extreme swings between drought and deluge
+T28	Premise 4201 4310	humans have only been recording rainfall and the snowpack for a relatively short period of time in California
+T31	Premise 4490 4633	Whether this is occurring because of climate change or because we’re unlucky kind of doesn’t matter, because we have to deal with it either way
+T34	Premise 5072 5141	The drought hurt ski resorts and changed the landscape of the Sierras
+T37	Premise 5257 5329	This winter, however, many residents say they’ve never seen so much snow
+T51	Premise 6859 6965	The intense winter prompted Gov. Jerry Brown last week to finally declare the drought over in all counties
+T52	Claim 7111 7157	the above-ground water supply is much improved
+T59	Premise 7856 7920	The next drought, officials say, could be just around the corner
+R0	supports Arg1:T4 Arg2:T3
+R1	supports Arg1:T6 Arg2:T3
+R2	supports Arg1:T8 Arg2:T3
+R3	supports Arg1:T9 Arg2:T8
+R4	supports Arg1:T11 Arg2:T8
+R5	supports Arg1:T14 Arg2:T3
+R6	supports Arg1:T15 Arg2:T14
+R7	supports Arg1:T19 Arg2:T26
+R8	supports Arg1:T22 Arg2:T26
+R9	attacks Arg1:T27 Arg2:T14
+R10	supports Arg1:T28 Arg2:T27
+R11	attacks Arg1:T31 Arg2:T27
+R12	supports Arg1:T34 Arg2:T37
+R13	supports Arg1:T37 Arg2:T3
+R14	supports Arg1:T51 Arg2:T52
+R15	supports Arg1:T52 Arg2:T59
+R16	supports Arg1:T59 Arg2:T3

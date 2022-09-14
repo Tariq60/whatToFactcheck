@@ -1,0 +1,32 @@
+T4	MajorClaim 597 694	Arctic ice loss is potentially negatively impacting the planet's largest ocean circulation system
+T5	Claim 696 812	While scientists do have some analogs as to how this may impact the world, we will be largely in uncharted territory
+T11	Claim 1533 1717	What's more important, and the basis for concern of many scientists is this mechanism is one of the most efficient ways Earth transports heat from the tropics to the northern latitudes
+T12	Premise 1719 1865	The warm water transported from the tropics to the North Atlantic releases heat to the atmosphere, playing a key role in warming of western Europe
+T13	Premise 1867 2020	You likely have heard of one of the more popular components of the AMOC, the Gulf Stream which brings warm tropical water to the western coasts of Europe
+T14	Claim 2023 2170	Evidence is growing that the comparatively cold zone within the Northern Atlantic could be due to a slowdown of this global ocean water circulation
+T15	Claim 2172 2273	Hence, a slowdown in the planet's ability to transfer heat from the tropics to the northern latitudes
+T16	Claim 2275 2347	The cold zone could be due to melting of ice in the Arctic and Greenland
+T17	Claim 2349 2457	This would cause a cold fresh water cap over the North Atlantic, inhibiting sinking of salty tropical waters
+T18	Claim 2459 2567	This would in effect slow down the global circulation and hinder the transport of warm tropical waters north
+T19	Claim 2696 2769	Melting of the Arctic sea ice has rapidly increased in the recent decades
+T20	Premise 2771 2871	Satellite image records indicate that September Arctic sea ice is 30% less today than it was in 1979
+T21	Claim 2873 2963	This trend of increased sea ice melting during summer months does not appear to be slowing
+T22	Claim 2993 3065	we will see a continued weakening of the global ocean circulation system
+T23	Premise 3068 3187	This scenario of a collapse in AMOC and global ocean circulation is the premise for the movie "The Day After Tomorrow."
+T24	Claim 3188 3366	As a disclaimer, the plot line in which much of New England and Western Europe gets plunged into an ice age is significantly over exaggerated and unrealistic on human time scales
+T25	Claim 3465 3513	scientists are largely unsure of what lies ahead
+R0	supports Arg1:T11 Arg2:T4
+R1	supports Arg1:T12 Arg2:T11
+R2	supports Arg1:T13 Arg2:T11
+R3	supports Arg1:T14 Arg2:T4
+R4	supports Arg1:T15 Arg2:T14
+R5	supports Arg1:T16 Arg2:T14
+R6	supports Arg1:T17 Arg2:T16
+R7	supports Arg1:T18 Arg2:T14
+R8	supports Arg1:T19 Arg2:T4
+R9	supports Arg1:T20 Arg2:T19
+R10	supports Arg1:T21 Arg2:T4
+R11	supports Arg1:T22 Arg2:T4
+R12	supports Arg1:T23 Arg2:T24
+R13	attacks Arg1:T24 Arg2:T23
+R14	restate Arg1:T25 Arg2:T5

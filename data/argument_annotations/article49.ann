@@ -1,0 +1,74 @@
+T1	MajorClaim 141 322	A large research synthesis, published in one of the world’s most influential scientific journals, has detected a decline in the amount of dissolved oxygen in oceans around the world
+T3	Premise 617 711	found a decline of more than 2 percent in ocean oxygen content worldwide between 1960 and 2010
+T4	Claim 713 779	The loss, however, showed up in some ocean basins more than others
+T5	Premise 781 980	The largest overall volume of oxygen was lost in the largest ocean — the Pacific — but as a percentage, the decline was sharpest in the Arctic Ocean, a region facing Earth’s most stark climate change
+T6	Claim 983 1293	The loss of ocean oxygen “has been assumed from models, and there have been lots of regional analysis that have shown local decline, but it has never been shown on the global scale, and never for the deep ocean,” said Schmidtko, who conducted the research with Lothar Stramma and Martin Visbeck, also of GEOMAR
+T7	Premise 1296 1337	Ocean oxygen is vital to marine organisms
+T8	Premise 1495 1624	Moreover, he added, just 1 percent of all the Earth’s available oxygen mixes into the ocean; the vast majority remains in the air
+T9	Claim 1627 1711	Climate change models predict the oceans will lose oxygen because of several factors
+T10	Premise 1713 1780	Most obvious is simply that warmer water holds less dissolved gases
+T11	Premise 1800 1879	“It’s the same reason we keep our sparkling drinks pretty cold,” Schmidtko said
+T12	Claim 1886 1946	another factor is the growing stratification of ocean waters
+T13	Premise 1948 2069	Oxygen enters the ocean at its surface, from the atmosphere and from the photosynthetic activity of marine microorganisms
+T14	Premise 2071 2253	But as that upper layer warms up, the oxygen-rich waters are less likely to mix down into cooler layers of the ocean because the warm waters are less dense and do not sink as readily
+T15	Premise 2256 2403	“When the upper ocean warms, less water gets down deep, and so therefore, the oxygen supply to the deep ocean is shut down or significantly reduced
+T16	Claim 2423 2545	The new study represents a synthesis of literally “millions” of separate ocean measurements over time, according to GEOMAR
+T17	Premise 2547 2647	The authors then used interpolation techniques for areas of the ocean where they lacked measurements
+T18	Premise 2650 2755	The resulting study attributes less than 15 percent of the total oxygen loss to sheer warmer temperatures
+T19	Premise 2787 2853	The rest was attributed to other factors, such as a lack of mixing
+T20	Claim 2856 3112	Matthew Long, an oceanographer from the National Center for Atmospheric Research who has published on ocean oxygen loss, said he considers the new results “robust” and a “major advance in synthesizing observations to examine oxygen trends on a global scale
+T22	Premise 3209 3343	ocean oxygen loss was expected to occur and that it should soon be possible to demonstrate that in the real world through measurements
+T24	Claim 3439 3478	That’s just what the new study has done
+T25	Claim 3481 3601	“Natural variations have obscured our ability to definitively detect this signal in observations,” Long said in an email
+T26	Claim 3603 3797	“In this study, however, Schmidtko et al. synthesize all available observations to show a global-scale decline in oxygen that conforms to the patterns we expect from human-driven climate warming
+T27	Claim 3799 3970	They do not make a definitive attribution statement, but the data are consistent with and strongly suggestive of human-driven warming as a root cause of the oxygen decline
+T28	Claim 3974 4057	It is alarming to see this signal begin to emerge clearly in the observational data
+T29	Claim 4071 4181	“Schmidtko and colleagues’ findings should ring yet more alarm bells about the consequences of global warming,
+T30	Premise 4367 4534	Because oxygen in the global ocean is not evenly distributed, the 2 percent overall decline means there is a much larger decline in some areas of the ocean than others
+T31	Premise 4537 4642	Moreover, the ocean already contains so-called oxygen minimum zones, generally found in the middle depths
+T32	Claim 4644 4797	The great fear is that their expansion upward, into habitats where fish and other organism thrive, will reduce the available habitat for marine organisms
+T33	Claim 4800 4967	In shallower waters, meanwhile, the development of ocean “hypoxic” areas, or so-called “dead zones,” may also be influenced in part by declining oxygen content overall
+T34	Claim 4970 5075	On WB_wombat_top of all of that, declining ocean oxygen can also worsen global warming in a feedback loop
+T35	Premise 5077 5198	In or near low oxygen areas of the oceans, microorganisms tend to produce nitrous oxide, a greenhouse gas, Gilbert writes
+T36	Premise 5200 5326	Thus the new study “implies that production rates and efflux to the atmosphere of nitrous oxide … will probably have increased
+T37	Claim 5330 5477	The new study underscores once again that some of the most profound consequences of climate change are occurring in the oceans, rather than on land
+T38	Premise 5479 5609	In recent years, incursions of warm ocean water have caused large die-offs of coral reefs, and in some cases, kelp forests as well
+T39	Premise 5611 5817	Meanwhile, warmer oceans have also begun to destabilize glaciers in Greenland and Antarctica, and as they melt, these glaciers freshen the ocean waters and potentially change the nature of their circulation
+T40	Claim 5820 5992	When it comes to ocean deoxygenation, as climate change continues, this trend should also increase — studies suggest a loss of up to 7 percent of the ocean’s oxygen by 2100
+T42	Premise 6118 6197	Far-reaching implications for marine ecosystems and fisheries can be expected,”
+R0	supports Arg1:T3 Arg2:T1
+R1	supports Arg1:T4 Arg2:T1
+R2	supports Arg1:T5 Arg2:T4
+R3	supports Arg1:T6 Arg2:T1
+R4	supports Arg1:T7 Arg2:T4
+R5	supports Arg1:T8 Arg2:T7
+R6	supports Arg1:T9 Arg2:T1
+R7	supports Arg1:T10 Arg2:T9
+R8	joint Arg1:T11 Arg2:T10
+R9	supports Arg1:T12 Arg2:T1
+R10	supports Arg1:T13 Arg2:T12
+R11	supports Arg1:T14 Arg2:T12
+R12	supports Arg1:T15 Arg2:T12
+R13	supports Arg1:T16 Arg2:T1
+R14	supports Arg1:T17 Arg2:T16
+R15	supports Arg1:T18 Arg2:T16
+R16	supports Arg1:T19 Arg2:T16
+R17	supports Arg1:T20 Arg2:T1
+R18	supports Arg1:T22 Arg2:T20
+R19	supports Arg1:T24 Arg2:T20
+R20	attacks Arg1:T26 Arg2:T25
+R21	supports Arg1:T27 Arg2:T1
+R22	supports Arg1:T28 Arg2:T27
+R23	supports Arg1:T29 Arg2:T1
+R24	supports Arg1:T30 Arg2:T29
+R25	supports Arg1:T31 Arg2:T29
+R26	supports Arg1:T32 Arg2:T29
+R27	supports Arg1:T33 Arg2:T29
+R28	supports Arg1:T34 Arg2:T29
+R29	supports Arg1:T35 Arg2:T34
+R30	joint Arg1:T36 Arg2:T35
+R31	supports Arg1:T37 Arg2:T1
+R32	supports Arg1:T38 Arg2:T37
+R33	supports Arg1:T39 Arg2:T37
+R34	supports Arg1:T40 Arg2:T1
+R35	supports Arg1:T42 Arg2:T37

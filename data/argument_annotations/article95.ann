@@ -1,0 +1,30 @@
+T2	Claim 442 563	Scientists obviously weren’t excited about more carbon dioxide emissions, but it was better than the alternative: methane
+T5	MajorClaim 733 813	methane releases could be considerably more prevalent as Arctic permafrost thaws
+T6	Premise 839 965	in waterlogged wetland soils, where oxygen is not prevalent, tiny microorganisms will produce a considerable volume of methane
+T8	Premise 1405 1464	Knoblauch and his colleagues conducted a lengthy experiment
+T9	Claim 1709 1777	other studies have not examined waterlogged Arctic soils for as long
+T12	Premise 2183 2229	So much methane was produced in the experiment
+T14	Claim 2439 2590	This finding, if further confirmed, could reorient calculations of the overall potential of permafrost to worsen global warming over the coming century
+T15	Claim 2768 2807	drier soils would be the bigger problem
+T16	Claim 2811 2953	In spite of the more potent greenhouse gas CH4, a unit of newly thawed permafrost carbon could have a greater impact on climate over a century
+T17	Claim 3117 3162	The new study would appear to contradict this
+T18	Claim 3193 3342	more research would have to be done to go from these results to a forecast for just how much methane could waft from permafrost in the coming decades
+T21	Claim 3726 3939	The research, she said, could help bridge the gap between field studies of waterlogged permafrost that have detected methane emissions and laboratory studies that have seemed to play down the importance of the gas
+T23	Claim 4168 4423	the total amount of permafrost carbon that could be vulnerable because of global warming during this century — perhaps 10 percent of it, which would be more than enough to undermine global climate goals — probably won’t change in light of the new research
+T26	Claim 4776 4988	Róisín Commane, a research associate at Harvard who studies the Arctic atmosphere and also was not involved in this research, was more skeptical about relying on this study to assume a worse verdict about methane
+T27	Claim 5039 5124	the tendency of wet soils to produce methane could be counteracted by several factors
+T28	Premise 5126 5230	The soils could also become host to organisms that devour that methane — and turn it into carbon dioxide
+R0	supports Arg1:T2 Arg2:T5
+R1	supports Arg1:T6 Arg2:T5
+R2	supports Arg1:T8 Arg2:T6
+R3	supports Arg1:T12 Arg2:T14
+R4	supports Arg1:T14 Arg2:T6
+R5	supports Arg1:T15 Arg2:T5
+R6	restate Arg1:T16 Arg2:T15
+R7	attacks Arg1:T17 Arg2:T16
+R8	attacks Arg1:T18 Arg2:T17
+R9	supports Arg1:T21 Arg2:T5
+R10	supports Arg1:T23 Arg2:T5
+R11	attacks Arg1:T26 Arg2:T14
+R12	supports Arg1:T27 Arg2:T26
+R13	supports Arg1:T28 Arg2:T27

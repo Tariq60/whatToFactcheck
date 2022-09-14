@@ -1,0 +1,18 @@
+T1	MajorClaim 97 226	The far-left ThinkProgress reports that scientists have finally proven that the theory of man-made Global Warming is a total hoax
+T2	Claim 229 299	Of course, no one will admit it, but that is exactly what has happened
+T4	Claim 672 759	three million — million — years ago CO2 levels on Earth were the same as they are today
+T8	Claim 1167 1265	there were probably no human beings on Earth, at least not human in the way we use that term today
+T10	Claim 1333 1371	But I thought humans warmed the planet
+T15	Premise 1823 2037	According to the study, scientists also discovered that during this period of Global Warming “there were no ice sheets covering either Greenland or West Antarctica, and much of the East Antarctic ice sheet was gone
+T17	Premise 2147 2295	Temperatures were up to 7 degrees Fahrenheit warmer globally, at least double that at the poles, and sea levels were some 20 meters (65 feet) higher
+T19	Claim 2406 2596	Naturally, even in the face of a study that totally debunks the whole concept of man-made Global Warming, ThinkProgress is sticking with that hoax but is also forced to concede the following
+T26	Claim 3166 3461	Even worse, the climate policy agenda President Donald Trump is pushing — actions that include rolling back U.S. laws that reduce carbon pollution and abandoning the Paris climate agreement — would lock us in to such high CO2 levels, sea levels would rise a foot per decade in just a few decades
+T27	MajorClaim 3464 3591	No, actually, what this study proves is that there is nothing we can do to stop  the Earth’s naturally occurring climate cycles
+R0	supports Arg1:T1 Arg2:T4
+R1	supports Arg1:T2 Arg2:T1
+R2	supports Arg1:T4 Arg2:T1
+R3	supports Arg1:T8 Arg2:T1
+R4	supports Arg1:T15 Arg2:T4
+R5	supports Arg1:T17 Arg2:T4
+R6	supports Arg1:T19 Arg2:T1
+R7	restate Arg1:T27 Arg2:T1

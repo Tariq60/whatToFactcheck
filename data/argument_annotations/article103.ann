@@ -1,0 +1,35 @@
+T1	Claim 141 255	One of the most important numbers in the world goes by the catchy title of Equilibrium Climate Sensitivity, or ECS
+T5	Premise 690 852	The United Nations Intergovernmental Panel on Climate Change (IPCC) says ECS is likely between 1.5 and 4.5 degrees Celsius, but it can’t be more precise than that
+T16	Premise 1726 1910	The first is to use a climate model, double the modeled CO2 concentration from the pre-industrial level, and let it run until temperatures stabilize a few hundred years into the future
+T17	Premise 1912 2117	This approach, called the model-based method, depends for its accuracy on the validity of the climate model, and since models differ quite a bit from one another, it yields a wide range of possible answers
+T21	Premise 2473 2741	The second method is to use long-term historical data on temperatures, solar activity, carbon-dioxide emissions and atmospheric chemistry to estimate ECS using a simple statistical model derived by applying the law of conservation of energy to the planetary atmosphere
+T23	Premise 2785 2981	It relies on some extrapolation to satisfy the definition of ECS but has the advantage of taking account of the available data showing how the actual atmosphere has behaved over the past 150 years
+T26	Claim 3219 3328	Clearly these two methods give differing answers, and the question of which one is more accurate is important
+T27	Premise 3331 3401	Climate modelers have put forward two explanations for the discrepancy
+T30	Claim 3877 4035	This argument has been a bit of a tough sell, since the correlations involved are often weak, and it doesn’t explain why the Energy Balance results are so low
+T31	Premise 4038 4099	The second approach is based on so-called “forcing efficacies
+T32	Claim 4355 4401	This, too, has been a controversial suggestion
+T33	Premise 4404 4520	A recent Energy Balance ECS estimate was just published in the Journal of Climate by Nicholas Lewis and Judith Curry
+T35	Claim 4592 4771	First, they rely on IPCC estimates of greenhouse gases, solar changes and other climate forcings, so they can’t be accused of putting a finger on the scale by their choice of data
+T36	Claim 4773 4847	Second, they take into account the efficacy issue and discuss it at length
+T38	Claim 5022 5200	Third, they compute their estimates over a variety of start and end dates to check that their ECS estimate is not dependent on the relative warming hiatus of the past two decades
+T40	Premise 5291 5380	Their ECS estimate is 1.5 degrees, with a probability range between 1.05 and 2.45 degrees
+T42	Claim 5449 5709	But it is part of a long list of studies from independent teams (as this interactive graphic shows), using a variety of methods that take account of critical challenges, all of which conclude that climate models exhibit too much sensitivity to greenhouse gases
+T43	Claim 5712 5811	Policy-makers need to pay attention, because this debate directly impacts the carbon-tax discussion
+T46	Premise 6076 6304	The result was that the estimated economic damages of greenhouse gas emissions fell by between 40 and 80 per cent, and in the case of one model the damages had a 40 per cent probability of being negative for the next few decades
+T48	Claim 6350 6499	The new Lewis and Curry ECS estimate is even lower than their old one, so if we re-did the same study we would find even lower social costs of carbon
+T49	Claim 6502 6660	If ECS is as low as the Energy Balance literature suggests, it means that the climate models we have been using for decades run too hot and need to be revised
+R0	joint Arg1:T16 Arg2:T17
+R1	supports Arg1:T17 Arg2:T16
+R2	joint Arg1:T21 Arg2:T23
+R3	supports Arg1:T23 Arg2:T21
+R4	supports Arg1:T27 Arg2:T30
+R5	supports Arg1:T31 Arg2:T32
+R6	supports Arg1:T33 Arg2:T40
+R7	supports Arg1:T35 Arg2:T33
+R8	joint Arg1:T36 Arg2:T38
+R9	joint Arg1:T38 Arg2:T35
+R10	supports Arg1:T40 Arg2:T49
+R11	supports Arg1:T42 Arg2:T40
+R12	supports Arg1:T46 Arg2:T48
+R13	supports Arg1:T48 Arg2:T49

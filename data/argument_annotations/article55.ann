@@ -1,0 +1,27 @@
+T1	MajorClaim 136 444	Ever since 2012, scientists have been debating a complex and frankly explosive idea about how a warming planet will alter our weather — one that, if it’s correct, would have profound implications across the Northern Hemisphere and especially in its middle latitudes, where hundreds of millions of people live
+T2	Premise 447 616	The idea is that climate change doesn’t merely increase the overall likelihood of heat waves, say, or the volume of rainfall — it also changes the flow of weather itself
+T5	Premise 985 1127	This basic idea has sparked half a decade of criticism and debate, and at the cutting edge of research, scientists continue to grapple with it
+T6	Premise 1129 1195	And now, a new study once again reinforces one of its core aspects
+T7	Premise 1289 1428	a group of colleagues at research institutes in the United States, Germany and the Netherlands find that at least in the spring and summer,
+T9	Premise 1547 1670	The study, its authors write, “adds to the weight of evidence for a human influence on the occurrence of devastating events
+T14	Premise 2223 2409	The Northern Hemisphere jet stream flows in a wavy pattern from west to east, driven by the rotation of the Earth and the difference in temperature between the equator and the North Pole
+T16	Premise 2476 2687	But when the Arctic warms up faster than the equator does — which is part of the fundamental definition of global warming, and which is already happening — the jet stream’s flow can become weakened and elongated
+T20	Claim 3036 3113	What the new study is saying is that in summer, in particular, this can occur
+T21	Claim 3115 3298	Moreover, it finds that a particular temperature pattern is linked to that behavior — and this temperature pattern, featuring an extra warm Arctic, is becoming more frequent over time
+T24	Premise 3519 3759	One researcher who co-wrote an influential 2012 study suggesting that changes in the Arctic could be driving mid-latitude weather extremes, Stephen Vavrus of the University of Wisconsin, praised the new research in an emailed comment Monday
+T26	Claim 3958 4061	But other scientific authors have expressed considerable skepticism of these kinds of ideas in the past
+T27	Premise 4063 4337	A recent study in Nature Geoscience, for instance, called into question whether the Arctic’s melting, and in particular its sea ice loss, has been causing winter cooling over Eurasia, another idea that has been swept up in the debate over the jet stream and weather extremes
+T31	Claim 4991 5069	The current study really only covers weather extremes in the spring and summer
+R0	supports Arg1:T2 Arg2:T5
+R1	supports Arg1:T5 Arg2:T6
+R2	supports Arg1:T6 Arg2:T20
+R3	supports Arg1:T7 Arg2:T6
+R4	supports Arg1:T9 Arg2:T6
+R5	supports Arg1:T14 Arg2:T7
+R6	supports Arg1:T16 Arg2:T7
+R7	supports Arg1:T20 Arg2:T1
+R8	supports Arg1:T21 Arg2:T1
+R9	supports Arg1:T24 Arg2:T21
+R10	attacks Arg1:T26 Arg2:T1
+R11	supports Arg1:T27 Arg2:T26
+R12	supports Arg1:T31 Arg2:T20

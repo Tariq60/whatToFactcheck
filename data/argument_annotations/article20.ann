@@ -1,0 +1,28 @@
+T1	Claim 88 206	Forget what global warming activists would lead you to believe – 2015 was not even close to the hottest year on record
+T2	Premise 209 335	Satellite temperature readings going back to 1979 show 1998 was by far the warmest year in the satellite era, followed by 2010
+T5	Claim 413 441	2015 should have been warmer
+T6	Premise 443 542	This past year saw what is likely the most powerful El Nino during the satellite temperature record
+T10	Claim 636 775	A record El Nino resulting in less-than-record temperatures is another sign that global warming is not all that activists crack it up to be
+T12	Claim 907 1007	18 years after 1998, global warming still has not created the runaway warming we were told to expect
+T14	Claim 1255 1342	it is not too difficult for activists to paint a picture of an exceptionally warm world
+T15	Premise 1456 1639	Global warming activists do not extend “the record” back any further, they say, because it has only been since the late 1800s that we have had a global network of mercury thermometers
+T16	Claim 1645 1719	we do have other reliable indicators of temperatures before the late 1800s
+T18	Premise 1922 2127	Scientists measuring oxygen isotopes from ice cores drilled in Greenland and Antarctica (among other methods) report that temperatures were significantly warmer than today for most of the past 10,000 years
+T21	Claim 2500 2661	The answer is misleading head-fakes, doctored temperature records, and a compliant media that is more than willing to push the agenda of global warming activists
+T25	Claim 2940 3126	This calls for a little more discussion of the relative reliability of satellite temperature measurements, surface temperature measurements, and adjusted surface temperature measurements
+T40	Claim 5181 5279	One would expect that the government overseers would simply report the raw data that was collected
+T42	Claim 5634 5752	government overseers adjust the data to add more recent warming than is being reported in the raw temperature readings
+T45	Claim 6003 6540	The most objective and scientifically justifiable current hierarchy is, in order, (1) satellite readings (2) raw, unadjusted surface readings culled solely from the best-maintained surface stations (3) raw surface temperature readings from the network as a whole, adjusted downward in recent years to reflect creeping urbanization (4) raw, unadjusted surface temperature readings from the network as a whole and (5) surface temperature readings adjusted upward in recent years in defiance of common sense and objective scientific studies
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T5 Arg2:T1
+R2	supports Arg1:T6 Arg2:T5
+R3	supports Arg1:T10 Arg2:T1
+R4	supports Arg1:T12 Arg2:T10
+R5	supports Arg1:T14 Arg2:T1
+R6	supports Arg1:T15 Arg2:T14
+R7	supports Arg1:T16 Arg2:T1
+R8	supports Arg1:T18 Arg2:T16
+R9	supports Arg1:T21 Arg2:T1
+R10	supports Arg1:T25 Arg2:T1
+R11	supports Arg1:T40 Arg2:T1
+R12	supports Arg1:T42 Arg2:T1

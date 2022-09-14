@@ -1,0 +1,39 @@
+T1	MajorClaim 200 261	there’s a common thread tying together this “extreme” weather
+T5	Claim 456 601	They’ve been going up, in fits and starts, for more than 150 years, or since a miserably cold and pestilential period known as the Little Ice Age
+T8	Claim 895 971	Whether temperatures have warmed much since then depends on what you look at
+T9	Premise 973 1107	Until last June, most scientists acknowledged that warming reached a peak in the late 1990s, and since then had plateaued in a “hiatus
+T10	Premise 1110 1187	There are about 60 different explanations for this in the refereed literature
+T11	Claim 1190 1308	That changed last summer, when the National Oceanic and Atmospheric Administration (NOAA) decided to overhaul its data
+T14	Claim 1977 2263	NOAA’s alteration of its measurement standard and other changes produced a result that could have been predicted: a marginally significant warming trend in the data over the past several years, erasing the temperature plateau that vexed climate alarmists have found difficult to explain
+T15	Claim 2265 2322	Yet the increase remains far below what had been expected
+T16	Premise 2325 2510	It is nonetheless true that 2015 shows the highest average surface temperature in the 160-year global history since reliable records started being available, with or without the “hiatus
+T17	Claim 2513 2549	But that is also not very surprising
+T18	Premise 2551 2593	Early in 2015, a massive El Niño broke out
+T21	Premise 2908 3003	The Pacific reversal releases massive amounts of heat, and therefore surface temperature spikes
+T32	Premise 4103 4167	Instead of relying on debatable surface-temperature information,
+T34	Premise 4467 4570	the rate of warming in the satellite-sensed data is barely a third of what it was supposed to have been
+T35	Premise 4645 4714	Balloon data, averaged over the four extant data sets, shows the same
+T37	Claim 4828 5013	Doing so would mean that the world—without any political effort at all—won’t warm by the dreaded 3.6 degrees Fahrenheit by 2100 that the United Nations regards as the climate apocalypse
+T38	Claim 5016 5124	The notion that world-wide weather is becoming more extreme is just that: a notion, or a testable hypothesis
+T39	Premise 5126 5346	As data from the world’s biggest reinsurer, Munich Re, and University of Colorado environmental-studies professor Roger Pielke Jr. have shown, weather-related losses haven’t increased at all over the past quarter-century
+T40	Claim 5348 5416	In fact, the trend, while not statistically significant, is downward
+T41	Premise 5418 5534	Last year showed the second-smallest weather-related loss of Global World Productivity, or GWP, in the entire record
+T42	Claim 5537 5622	Without El Niño, temperatures in 2015 would have been typical of the post-1998 regime
+R0	supports Arg1:T5 Arg2:T8
+R1	supports Arg1:T8 Arg2:T1
+R2	supports Arg1:T9 Arg2:T8
+R3	supports Arg1:T10 Arg2:T8
+R4	supports Arg1:T11 Arg2:T14
+R5	supports Arg1:T15 Arg2:T14
+R6	supports Arg1:T16 Arg2:T14
+R7	supports Arg1:T18 Arg2:T17
+R8	joint Arg1:T21 Arg2:T18
+R9	supports Arg1:T32 Arg2:T37
+R10	supports Arg1:T34 Arg2:T32
+R11	supports Arg1:T35 Arg2:T32
+R12	supports Arg1:T37 Arg2:T1
+R13	supports Arg1:T38 Arg2:T1
+R14	supports Arg1:T39 Arg2:T40
+R15	supports Arg1:T40 Arg2:T38
+R16	supports Arg1:T41 Arg2:T40
+R17	supports Arg1:T42 Arg2:T38

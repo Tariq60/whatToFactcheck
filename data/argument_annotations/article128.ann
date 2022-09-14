@@ -1,0 +1,37 @@
+T2	Premise 352 451	Extreme weather events are extraordinarily expensive for Canadians, our communities and our economy
+T4	MajorClaim 564 658	While members of the media may nod along to such claims, the evidence paints a different story
+T6	Premise 826 998	He found convincing evidence that climate change was not leading to higher rates of weather-related damages worldwide, once you correct for increasing population and wealth
+T8	Claim 1172 1233	Pielke was subjected to a vicious, well-funded smear campaign
+T11	Claim 1507 1610	With so much misinformation nowadays about supposed climate emergencies, it’s worth reviewing carefully
+T14	Claim 2008 2326	They concluded that trends toward rising climate damages were mainly due to increased population and economic activity in the path of storms, that it was not currently possible to determine the portion of damages attributable to greenhouse gases, and that they didn’t expect that situation to change in the near future
+T15	Premise 2349 2646	the Intergovernmental Panel on Climate Change (IPCC) released its 2007 report, largely agreeing with the Hohenkammer Consensus, while cherry-picking one unpublished study (and highlighting it in the Summary for Policymakers) that suggested a link between greenhouse gases and storm-related damages
+T16	Premise 2652 2802	the author of that study — who just happened to be the same IPCC lead author who injected it into the report — later admitted his claim was incorrect,
+T18	Premise 3143 3227	In 2013 Pielke testified to the United States Congress and relayed the IPCC findings
+T19	Premise 3229 3475	Shortly thereafter, Obama’s science advisor John Holdren accused him of misleading Congress and launched a lengthy but ill-informed attack on Pielke, which prompted congressional Democrats to open an investigation into Pielke’s sources of funding
+T20	Claim 3550 3635	left-wing groups succeeded in getting him fired from a popular internet news platform
+T25	Claim 3962 4077	Globally there’s no clear evidence of trends and patterns in extreme events such as droughts, hurricanes and floods
+T28	Claim 4255 4321	There’s no trend in U.S. hurricane landfall frequency or intensity
+T29	Claim 4336 4379	the past 50 years has been relatively quiet
+T30	Claim 4389 4438	no trend in hurricane-related flooding in the U.S
+T32	Claim 4497 4591	Since 1965, more parts of the U.S. have seen a decrease in flooding than have seen an increase
+T36	Claim 4825 4860	There’s no trend in global droughts
+T38	MajorClaim 4932 5186	The bottom line is there’s no solid connection between climate change and many major indicators of extreme weather that politicians keep talking about, such as hurricanes, tornadoes, droughts, rainfall and floods, despite Trudeau’s claims to the contrary
+T40	Claim 5288 5369	Powerful people get away with it because so few people know what the numbers show
+R0	supports Arg1:T2 Arg2:T4
+R1	attacks Arg1:T4 Arg2:T2
+R2	supports Arg1:T6 Arg2:T8
+R3	supports Arg1:T8 Arg2:T4
+R4	supports Arg1:T11 Arg2:T4
+R5	supports Arg1:T14 Arg2:T4
+R6	supports Arg1:T15 Arg2:T14
+R7	joint Arg1:T16 Arg2:T15
+R8	supports Arg1:T19 Arg2:T8
+R9	supports Arg1:T20 Arg2:T38
+R10	supports Arg1:T25 Arg2:T38
+R11	supports Arg1:T28 Arg2:T25
+R12	supports Arg1:T29 Arg2:T25
+R13	supports Arg1:T30 Arg2:T25
+R14	supports Arg1:T32 Arg2:T30
+R15	supports Arg1:T36 Arg2:T29
+R16	restate Arg1:T38 Arg2:T4
+R17	supports Arg1:T40 Arg2:T38

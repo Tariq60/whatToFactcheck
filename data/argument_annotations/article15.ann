@@ -1,0 +1,56 @@
+T1	MajorClaim 106 277	Updated data from NASA satellite instruments reveal the Earth’s polar ice caps have not receded at all since the satellite instruments began measuring the ice caps in 1979
+T2	Claim 279 383	Since the end of 2012, moreover, total polar ice extent has largely remained above the post-1979 average
+T3	MajorClaim 385 532	The updated data contradict one of the most frequently asserted global warming claims – that global warming is causing the polar ice caps to recede
+T4	Claim 535 646	The timing of the 1979 NASA satellite instrument launch could not have been better for global warming alarmists
+T5	Premise 648 704	The late 1970s marked the end of a 30-year cooling trend
+T6	Premise 706 814	As a result, the polar ice caps were quite likely more extensive than they had been since at least the 1920s
+T7	Premise 816 960	Nevertheless, this abnormally extensive 1979 polar ice extent would appear to be the “normal” baseline when comparing post-1979 polar ice extent
+T8	Premise 963 1094	Updated NASA satellite data show the polar ice caps remained at approximately their 1979 extent until the middle of the last decade
+T9	Premise 1096 1168	Beginning in 2005, however, polar ice modestly receded for several years
+T10	Premise 1170 1255	By 2012, polar sea ice had receded by approximately 10 percent from 1979 measurements
+T11	Claim 1258 1439	Total polar ice area – factoring in both sea and land ice – had receded by much less than 10 percent, but alarmists focused on the sea ice loss as “proof” of a global warming crisis
+T12	Claim 1443 1572	A 10-percent decline in polar sea ice is not very remarkable, especially considering the 1979 baseline was abnormally high anyway
+T13	Claim 1574 1742	Regardless, global warming activists and a compliant news media frequently and vociferously claimed the modest polar ice cap retreat was a sign of impending catastrophe
+T14	Premise 1744 1820	Al Gore even predicted the Arctic ice cap could completely disappear by 2014
+T15	Premise 1823 1922	In late 2012, however, polar ice dramatically rebounded and quickly surpassed the post-1979 average
+T16	Claim 1924 2016	Ever since, the polar ice caps have been at a greater average extent than the post-1979 mean
+T17	Premise 2019 2132	Now, in May 2015, the updated NASA data show polar sea ice is approximately 5 percent above the post-1979 average
+T18	Claim 2135 2245	During the modest decline in 2005 through 2012, the media presented a daily barrage of melting ice cap stories
+T20	Claim 2335 2438	The frequency of polar ice cap stories may have abated, but the tone and content has not changed at all
+T22	Premise 2574 2634	Climate change is melting more than just the polar ice caps”
+T23	Premise 2637 2677	2020: Antarctic ice shelf could collapse
+T24	Premise 2681 2737	An Arctic ice cap’s shockingly rapid slide into the sea”
+T25	Premise 2740 2810	New satellite maps show polar ice caps melting at ‘unprecedented rate’
+T26	Premise 2813 2964	The only Google News items even hinting that the polar ice caps may not have melted so much (indeed not at all) came from overtly conservative websites
+T27	Claim 2966 3158	The “mainstream” media is alternating between maintaining radio silence on the extended run of above-average polar ice and falsely asserting the polar ice caps are receding at an alarming rate
+T28	Claim 3161 3281	To be sure, receding polar ice caps are an expected result of the modest global warming we can expect in the years ahead
+T29	Claim 3283 3498	In and of themselves, receding polar ice caps have little if any negative impact on human health and welfare, and likely a positive benefit by opening up previously ice-entombed land to human, animal, and plant life
+T30	Claim 3500 3612	Nevertheless, polar ice cap extent will likely be a measuring stick for how much the planet is or is not warming
+R0	supports Arg1:T1 Arg2:T3
+R1	supports Arg1:T2 Arg2:T3
+R2	supports Arg1:T3 Arg2:T1
+R3	supports Arg1:T4 Arg2:T3
+R4	supports Arg1:T5 Arg2:T4
+R5	supports Arg1:T6 Arg2:T4
+R6	supports Arg1:T7 Arg2:T4
+R7	supports Arg1:T8 Arg2:T11
+R8	attacks Arg1:T9 Arg2:T8
+R9	supports Arg1:T10 Arg2:T9
+R10	supports Arg1:T11 Arg2:T3
+R11	supports Arg1:T12 Arg2:T3
+R12	attacks Arg1:T13 Arg2:T12
+R13	supports Arg1:T14 Arg2:T13
+R14	supports Arg1:T15 Arg2:T16
+R15	supports Arg1:T16 Arg2:T15
+R16	supports Arg1:T17 Arg2:T16
+R17	supports Arg1:T18 Arg2:T3
+R18	supports Arg1:T20 Arg2:T3
+R19	supports Arg1:T22 Arg2:T20
+R20	supports Arg1:T23 Arg2:T20
+R21	supports Arg1:T24 Arg2:T20
+R22	supports Arg1:T25 Arg2:T20
+R23	supports Arg1:T26 Arg2:T27
+R24	supports Arg1:T27 Arg2:T3
+R25	supports Arg1:T28 Arg2:T30
+R26	supports Arg1:T29 Arg2:T28
+R27	supports Arg1:T30 Arg2:T3

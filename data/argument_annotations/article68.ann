@@ -1,0 +1,15 @@
+T1	MajorClaim 129 233	Much of recent global warming has been fabricated by climate scientists to make it look more frightening
+T2	Premise 255 551	The peer-reviewed study by two scientists and a veteran statistician looked at the global average temperature datasets (GAST) which are used by climate alarmists to argue that recent years have been “the hottest evah” and that the warming of the last 120 years has been dramatic and unprecedented
+T3	Premise 554 678	What they found is that these readings are “totally inconsistent with published and credible U.S. and other temperature data
+T4	Claim 682 851	That is, the adjusted data used by alarmist organizations like NASA, NOAA, and the UK Met Office differs so markedly from the original raw data that it cannot be trusted
+T7	Premise 1117 1264	Note how most of the downward adjustments take place in the early twentieth century and most of the upward take place in the late twentieth century
+T9	Premise 1474 1543	Nearly all of the warming they are now showing are in the adjustments
+T10	Premise 1552 1628	Each dataset pushed down the 1940s warming and pushed up the current warming
+T13	MajorClaim 1971 2041	they all use the same corrupted global average temperature (GAST) data
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T1
+R2	supports Arg1:T4 Arg2:T1
+R3	supports Arg1:T7 Arg2:T4
+R4	supports Arg1:T9 Arg2:T4
+R5	supports Arg1:T10 Arg2:T4
+R6	restate Arg1:T13 Arg2:T1

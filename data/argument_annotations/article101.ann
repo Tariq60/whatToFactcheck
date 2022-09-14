@@ -1,0 +1,37 @@
+T3	Claim 490 595	While having a cyclone travel with less speed may seem like a good thing, it's actually just the opposite
+T4	Premise 597 760	Wind speeds within the storm remain high, but the whole system itself moves slower across the landscape, allowing punishing rains to linger longer over communities
+T5	MajorClaim 779 1028	these two studies suggest that climate change is already increasing the dangers posed by hurricanes and typhoons in far more ways than previously thought, and it will continue to compound many of the hazards, especially the threat of severe flooding
+T6	Claim 1032 1073	Nothing good comes out of a slowing storm
+T7	Premise 1279 1306	It can increase storm surge
+T10	Premise 1593 1684	warmer sea and air temperatures pumped more moisture into the storm—which then fell as rain
+T11	Claim 1686 1791	Climate change increased both the intensity of the rainfall and the likelihood that the storm would occur
+T13	Premise 1912 2012	from 1949 to 2016, tropical cyclones across the globe slowed their movement by 10 percent on average
+T17	Claim 2257 2337	With the exception of the Indian Ocean region, which tends to behave differently
+T19	Claim 2593 2692	the shift is precisely what he and other cyclone experts said would be expected from climate change
+T22	Premise 2982 3200	Christina Patricola, a scientist with the climate and ecosystem sciences division of California's Lawrence Berkeley National Laboratory, called Kossin's work "important and new" and says she found it "pretty convincing
+T23	Premise 3205 3251	I was not surprised by his findings," she says
+T25	Claim 3354 3405	she points out that it raises several new questions
+T26	Premise 3421 3604	if exceptionally slow-moving storms have grown more likely in recent years, does that mean "stalled" storms like Harvey—which seemed to get stuck in place for days—are increasing, too
+T27	Premise 3724 3816	Given that storms in some regions are migrating poleward and already increasing in intensity
+T30	Premise 4276 4474	By plugging storm data into computer models representing a future with temperatures that are up to five degrees warmer, they found that these cyclones moved 9 percent slower and were far, far wetter
+T32	Claim 4522 4591	We're showing that it not only slows down, but that it's more intense
+T33	Claim 4609 4683	That has serious implications for inland flooding and urban infrastructure
+T35	Claim 4868 4901	there are limits to each approach
+T38	Claim 5041 5119	The fact that their results show quite similar trends should be a wake-up call
+R0	supports Arg1:T3 Arg2:T5
+R1	supports Arg1:T4 Arg2:T3
+R2	restate Arg1:T6 Arg2:T3
+R3	supports Arg1:T7 Arg2:T6
+R4	supports Arg1:T10 Arg2:T11
+R5	supports Arg1:T11 Arg2:T5
+R6	supports Arg1:T13 Arg2:T11
+R7	supports Arg1:T17 Arg2:T5
+R8	supports Arg1:T22 Arg2:T19
+R9	supports Arg1:T23 Arg2:T19
+R10	attacks Arg1:T25 Arg2:T19
+R11	supports Arg1:T26 Arg2:T25
+R12	supports Arg1:T30 Arg2:T32
+R13	supports Arg1:T32 Arg2:T5
+R14	supports Arg1:T33 Arg2:T5
+R15	attacks Arg1:T35 Arg2:T5
+R16	attacks Arg1:T38 Arg2:T35

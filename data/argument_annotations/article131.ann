@@ -1,0 +1,43 @@
+T3	Claim 224 332	Scientists should openly address the uncertainties and exaggera-tions in their predictions of global warming
+T6	Claim 587 718	The geological archive reveals that Earth’s climate has varied as long as the planet has existed, with natural cold and warm phases
+T7	Premise 720 764	The Little Ice Age ended as recently as 1850
+T8	Claim 777 844	it is no surprise that we now are expe-riencing a period of warming
+T9	Claim 846 950	Only very few peer-reviewed papers even go so far as to say that recent warming is chiefly anthropogenic
+T11	Premise 990 1171	The world has warmed at less than half the originally-predicted rate, and at less than half the rate to be expected on the basis of net anthropogenic forcing and radiative imbalance
+T12	Claim 1173 1234	It tells us that we are far from understanding climate change
+T14	Claim 1280 1364	Climate models have many shortcomings and are not remotely plausible as policy tools
+T15	Premise 1376 1446	they most likely exaggerate the effect of greenhouse gases such as CO2
+T16	Premise 1461 1535	they ignore the fact that enriching the atmos-phere with CO2 is beneficial
+T18	Claim 1588 1610	CO2 is not a pollutant
+T19	Premise 1612 1648	It is essential to all life on Earth
+T20	Claim 1650 1678	Photosynthesis is a blessing
+T21	Claim 1680 1733	More CO2 is beneficial for nature, greening the Earth
+T23	Claim 1806 1837	It is also good for agriculture
+T26	Claim 1933 2092	There is no statistical evidence that global warming is intensifying hurricanes, floods, droughts and suchlike natural disasters, or making them more fre-quent
+T27	Claim 2103 2161	CO2-mitigation measures are as damaging as they are costly
+T28	Premise 2177 2213	wind turbines kill birds and insects
+T31	MajorClaim 2348 2377	There is no climate emergency
+T32	Claim 2390 2427	there is no cause for panic and alarm
+T33	Claim 2429 2513	We strongly oppose the harmful and unrealistic net-zero CO2 policy proposed for 2050
+T34	Claim 2515 2588	If better approaches emerge, we will have ample time to reflect and adapt
+T35	Claim 2590 2712	The aim of international policy should be to provide reliable and affordable energy at all times, and throughout the world
+R0	supports Arg1:T6 Arg2:T8
+R1	supports Arg1:T7 Arg2:T6
+R2	supports Arg1:T8 Arg2:T31
+R3	supports Arg1:T9 Arg2:T8
+R4	supports Arg1:T11 Arg2:T12
+R5	supports Arg1:T12 Arg2:T31
+R6	supports Arg1:T15 Arg2:T14
+R7	supports Arg1:T16 Arg2:T14
+R8	supports Arg1:T18 Arg2:T31
+R9	supports Arg1:T19 Arg2:T18
+R10	supports Arg1:T20 Arg2:T18
+R11	supports Arg1:T21 Arg2:T18
+R12	supports Arg1:T23 Arg2:T18
+R13	supports Arg1:T26 Arg2:T31
+R14	supports Arg1:T27 Arg2:T31
+R15	supports Arg1:T28 Arg2:T27
+R16	supports Arg1:T31 Arg2:T32
+R17	supports Arg1:T32 Arg2:T31
+R18	supports Arg1:T33 Arg2:T34
+R19	supports Arg1:T35 Arg2:T33

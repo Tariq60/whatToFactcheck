@@ -1,0 +1,204 @@
+T1	Premise 73 150	The first time my father’s basement flooded, it was shortly after he moved in
+T10	Claim 872 960	Ask nearly anyone in the Miami area about flooding and they’ll have an anecdote to share
+T12	Premise 1032 1054	The data backs them up
+T17	Claim 1671 1737	One reason is that water levels here are rising especially quickly
+T18	Premise 1739 1887	The most frequently-used range of estimates puts the likely range between 15-25cm (6-10in) above 1992 levels by 2030, and 79-155cm (31-61in) by 2100
+T19	Premise 2053 2127	many of south Florida’s drainage systems and seawalls are no longer enough
+T20	Premise 2140 2264	not only more flooding, but challenges for the infrastructure that residents depend on every day, from septic tanks to wells
+T21	Premise 2267 2367	The consequences of sea level rise are going to occur way before the high tide reaches your doorstep
+T22	Claim 2528 2558	it poses particular risks here
+T23	Premise 2593 2681	Miami has the most to lose in terms of financial assets of any coastal city in the world
+T26	Premise 3004 3053	population of all three counties here was growing
+T27	Premise 3176 3254	Florida has more residents at risk from climate change than any other US state
+T28	Premise 3286 3348	south Florida is home to historic properties which are at risk
+T29	Claim 3419 3452	It has more property at risk, too
+T30	Premise 3476 3590	developers had 1.6 million sq ft (149,000 sq m) of office space and 1.8 million of retail space under construction
+T34	Premise 3938 3995	Many of the wealthiest people in the US reside in Florida
+T42	Premise 5080 5138	The 105 miles (169km) of roads being raised in Miami Beach
+T47	Claim 5417 5458	The communities aren’t short of solutions
+T50	Premise 5710 5864	Even those tasked with making their cities resilient admit that, at some point in the future, certain areas here will no longer be “viable” places to live
+T51	Claim 5874 6032	the challenge is to do enough to ensure that the economy as a whole continues to thrive and that tourists still come to enjoy the sun, sand – and swelling sea
+T54	Claim 6278 6451	Getting there, though, requires a shift in how everyone from mayors to taxpayers, insurers to engineers, property developers to urban planners thinks about their communities
+T64	Premise 7266 7306	And the answer is: it affects everything
+T65	MajorClaim 7312 7336	Sea level rise is global
+T67	Premise 7592 7798	While there has been a mean rise of a little more than 3mm per year worldwide since the 1990s, in the last decade, the NOAA Virginia Key tide gauge just south of Miami Beach has measured a 9mm rise annually
+T69	Claim 7866 7903	the whole story of what residents see
+T79	Claim 8998 9067	Not only are sea levels rising, but the pace seems to be accelerating
+T81	Premise 9196 9280	After 2006, sea level rose faster than before – and much faster than the global rate
+T88	Premise 9822 9955	Like other popular areas including Sunny Isles and Hollywood Beach, Miami Beach is a narrow barrier island with the ocean on one side
+T104	Claim 11522 11578	even the worst-case estimates may turn out to be too low
+T105	Premise 11593 11799	researchers recently discovered that ice is melting more rapidly than expected from both Antarctica and Greenland, plus gained a better understanding of how melting ice sheets actually affect sea-level rise
+T108	Premise 11990 12091	coastal communities are already experiencing more storms and extremely high tides known as king tides
+T111	Claim 12324 12357	rising seas heighten their effect
+T117	Claim 12907 12969	Even without floods, the rising water table affects everything
+T118	Premise 12971 13016	The cities here are built on porous limestone
+T119	Premise 13018 13097	The water doesn’t just come over seawalls; it seeps up from beneath the streets
+T120	Premise 13113 13243	the drinking water in south Florida comes from aquifers, and these are finding their fresh water pushed further and further inland
+T126	Claim 13733 13763	Another issue is beach erosion
+T127	Premise 13765 13971	Florida’s sand may be one of its biggest draws for tourist dollars, but it, too, is vulnerable: though sand never stays put, rising sea levels and worsening storms mean the need to replenish is intensifying
+T129	Claim 14171 14240	another part of the problem is that south Florida is built on a swamp
+T131	Premise 14436 14533	Residents cut canals to drain inland areas, using the fill to raise the land and build properties
+T132	Premise 14535 14601	These canals are now open doors for tidal flooding and storm surge
+T133	Premise 14603 14698	They also cut down mangrove forests and levelled sand dunes – both natural barriers to flooding
+T143	Premise 15522 15549	But we’re not doing nothing
+T144	Claim 15553 15569	That’s point one
+T147	Premise 15729 15836	Purple means an area is likely to be underwater at 2ft (61cm) of sea level rise; orange means it’s possible
+T148	Premise 15838 15900	A surprisingly small amount of the map is splashed with colour
+T151	Premise 16105 16201	these areas are not in places you’d expect – and we’ll have time to address some of these issues
+T153	Claim 16301 16338	Not every community might be so lucky
+T154	Premise 16493 16656	the same 2ft (61cm) rise could put streets and most properties of an entire square-mile swathe underwater – not insignificant for a city measuring just 30 sq miles
+T165	Premise 17795 17842	Fort Lauderdale is dubbed the Venice of America
+T167	Claim 17997 18094	For both Fort Lauderdale and other communities across south Florida, the main problem is drainage
+T168	Premise 18096 18179	The systems here were designed to let stormwater drain into the ocean when it rains
+T172	Premise 18429 18570	With sea levels now often higher than the exits to the run-off pipes, saltwater is instead running up through the system and into the streets
+T173	Premise 18626 18699	it can breach the seawall, flood people’s yards and flow down to the road
+T174	Premise 18754 18821	right now, it is lower than the water level, meaning it can't drain
+T214	Claim 22282 22330	It’s not just residents who need to make changes
+T217	Premise 22485 22530	getting the funds is just the first challenge
+T222	Premise 22857 22897	there’s both a public and a private cost
+T230	Premise 23679 23857	Roads are being raised, too, sometimes by up to 2ft (61cm), to an elevation which the Southeast Florida Climate Compact’s projections put as a likely sea level height around 2065
+T234	Claim 24159 24183	It’s an ambitious agenda
+T235	Claim 24189 24212	it’s one that’s working
+T236	Premise 24214 24289	Areas where roads have been raised and pumps installed have been much drier
+T241	Premise 24586 24603	But they can fail
+T243	Premise 24839 24887	the restaurant flooded, with diners stuck inside
+T245	Premise 24954 25168	According to the Federal Emergency Management Agency (Fema), which runs a national flood insurance programme for at-risk business and property owners like Gallo, anything below street level is considered a basement
+T250	Claim 25604 25655	resilience also can be built into existing projects
+T251	Premise 25657 25796	A lot of public infrastructure is built to last for at least 50 or 75 years, and that means planning for what the world will look like then
+T256	Premise 26142 26220	a 4,200ft-long (1280m) tunnel that runs from the Port of Miami to highway I395
+T257	Premise 26238 26324	its main objective was to re-route lorries that previously went through downtown Miami
+T263	Premise 26747 26830	a barrier island where Biscayne Bay and the ocean meet, just east of downtown Miami
+T267	Premise 27201 27319	The plant already had a $500 million project on the go, making changes to comply with new Clean Water Act requirements
+T274	Premise 28084 28195	The new chlorine building, currently under construction, is designed to start at 16ft (4.8m) above ground level
+T275	Claim 28222 28283	Private developers will need to think about these issues, too
+T278	Claim 28534 28585	But many developers aren’t thinking to 2050 or 2100
+T280	Premise 28695 28799	a lot of investors are foreign or periodic visitors, that timeframe is far shorter – a few years at most
+T282	Claim 28965 29078	Until regulations enforce common building standards, few private developers are likely to adopt resilient designs
+T301	Claim 31268 31320	Thinking about any of this is a relatively new trend
+T302	Premise 31399 31486	the topic only saw real traction among local governments and businesses a few years ago
+T304	Premise 31563 31742	Most officials say that the Compact, signed in 2010, has been a major driver in helping local governments collect the data they need and coordinate together on what to do about it
+T305	Premise 31939 32034	The Florida governor is a climate change sceptic and has directed attention away from the issue
+T307	Premise 32125 32425	Ignoring the issue now appears to pervade the highest levels of US government: the new Environmental Protection Agency (EPA) chief doubts whether carbon dioxide plays a primary role in climate change, while President Trump recently signed an executive order overturning emissions-slashing regulations
+T314	Claim 33437 33496	Yet the impact from these changes won’t stop at party lines
+T315	Premise 33498 33540	Even President Trump’s family isn’t immune
+T316	Premise 33542 33570	Three feet of sea level rise
+T319	Premise 33890 33927	The water doesn’t care about politics
+T323	Claim 34237 34382	Some of the communities in south Florida doing the most to adapt to the effects of sea level rise are doing so largely because of public pressure
+T324	Premise 34384 34458	In 1993, Miami-Dade put together its first plan to reduce carbon emissions
+T326	Premise 34544 34681	a hearing on the county’s budget was dominated by one resident after another asking why the county wasn’t doing more about sea level rise
+T338	Claim 35852 36100	Despite how awareness of the issue has grown in some communities – particularly those, like Miami Beach and Fort Lauderdale, that have seen the most flooding – it’s still common for sea-level rise to get shunted to the end of the list of priorities
+T356	Premise 37634 37781	As shown by the Compact chart’s steep orange line, if emissions continue to rise, adaptation will become increasingly difficult – if not impossible
+T357	Premise 37839 37906	that, of course, can’t be controlled by a community or region alone
+T358	Premise 37909 38013	Climate change mitigation to reduce greenhouse gases is a global issue and has to be dealt with globally
+R0	supports Arg1:T1 Arg2:T10
+R1	supports Arg1:T12 Arg2:T10
+R2	supports Arg1:T17 Arg2:T19
+R3	supports Arg1:T18 Arg2:T17
+R4	supports Arg1:T19 Arg2:T17
+R5	supports Arg1:T20 Arg2:T17
+R6	supports Arg1:T21 Arg2:T17
+R7	supports Arg1:T23 Arg2:T22
+R8	supports Arg1:T26 Arg2:T27
+R9	supports Arg1:T27 Arg2:T22
+R10	supports Arg1:T28 Arg2:T29
+R11	supports Arg1:T29 Arg2:T22
+R12	supports Arg1:T30 Arg2:T29
+R13	supports Arg1:T34 Arg2:T29
+R14	supports Arg1:T42 Arg2:T47
+R15	supports Arg1:T47 Arg2:T51
+R16	supports Arg1:T50 Arg2:T54
+R17	supports Arg1:T51 Arg2:T54
+R18	supports Arg1:T54 Arg2:T64
+R19	supports Arg1:T64 Arg2:T65
+R20	supports Arg1:T65 Arg2:T22
+R21	supports Arg1:T67 Arg2:T65
+R22	supports Arg1:T69 Arg2:T65
+R23	supports Arg1:T79 Arg2:T65
+R24	supports Arg1:T81 Arg2:T79
+R25	supports Arg1:T88 Arg2:T81
+R26	supports Arg1:T104 Arg2:T65
+R27	supports Arg1:T105 Arg2:T104
+R28	supports Arg1:T108 Arg2:T104
+R29	supports Arg1:T111 Arg2:T108
+R30	supports Arg1:T117 Arg2:T65
+R31	supports Arg1:T118 Arg2:T117
+R32	supports Arg1:T119 Arg2:T117
+R33	supports Arg1:T120 Arg2:T117
+R34	supports Arg1:T126 Arg2:T65
+R35	supports Arg1:T127 Arg2:T126
+R36	supports Arg1:T129 Arg2:T65
+R37	supports Arg1:T131 Arg2:T129
+R38	supports Arg1:T132 Arg2:T129
+R39	supports Arg1:T133 Arg2:T129
+R40	supports Arg1:T143 Arg2:T144
+R41	attacks Arg1:T144 Arg2:T65
+R42	joint Arg1:T147 Arg2:T148
+R43	supports Arg1:T148 Arg2:T144
+R44	supports Arg1:T151 Arg2:T144
+R45	attacks Arg1:T153 Arg2:T144
+R46	supports Arg1:T154 Arg2:T153
+R47	supports Arg1:T165 Arg2:T167
+R48	supports Arg1:T167 Arg2:T65
+R49	supports Arg1:T168 Arg2:T167
+R50	supports Arg1:T172 Arg2:T167
+R51	supports Arg1:T173 Arg2:T167
+R52	supports Arg1:T174 Arg2:T167
+R53	supports Arg1:T214 Arg2:T234
+R54	supports Arg1:T217 Arg2:T214
+R55	supports Arg1:T222 Arg2:T214
+R56	supports Arg1:T230 Arg2:T234
+R57	supports Arg1:T234 Arg2:T214
+R58	supports Arg1:T235 Arg2:T234
+R59	supports Arg1:T236 Arg2:T235
+R60	attacks Arg1:T241 Arg2:T235
+R61	supports Arg1:T243 Arg2:T241
+R62	joint Arg1:T245 Arg2:T243
+R63	supports Arg1:T250 Arg2:T214
+R64	supports Arg1:T251 Arg2:T250
+R65	supports Arg1:T256 Arg2:T250
+R66	supports Arg1:T257 Arg2:T256
+R67	supports Arg1:T263 Arg2:T250
+R68	supports Arg1:T267 Arg2:T263
+R69	supports Arg1:T274 Arg2:T263
+R70	supports Arg1:T275 Arg2:T214
+R71	attacks Arg1:T278 Arg2:T275
+R72	supports Arg1:T280 Arg2:T278
+R73	supports Arg1:T282 Arg2:T278
+R74	supports Arg1:T301 Arg2:T65
+R75	supports Arg1:T302 Arg2:T301
+R76	supports Arg1:T304 Arg2:T302
+R77	supports Arg1:T305 Arg2:T302
+R78	supports Arg1:T307 Arg2:T302
+R79	supports Arg1:T314 Arg2:T358
+R80	supports Arg1:T315 Arg2:T314
+R81	supports Arg1:T316 Arg2:T315
+R82	supports Arg1:T319 Arg2:T314
+R83	supports Arg1:T323 Arg2:T301
+R84	supports Arg1:T324 Arg2:T323
+R85	supports Arg1:T326 Arg2:T323
+R86	supports Arg1:T338 Arg2:T323
+R87	supports Arg1:T356 Arg2:T358
+R88	supports Arg1:T357 Arg2:T358
+R89	supports Arg1:T358 Arg2:T65
+T2	SuperAnnotatorPremise 1331 1369	Sea levels are rising around the world
+T3	SuperAnnotatorPremise 1375 1414	in the US, south Florida is ground zero
+T4	SuperAnnotatorPremise 5461 5532	Nobody’s doing better adaptation work in the country than south Florida
+T5	SuperAnnotatorClaim 5636 5708	the question isn’t whether this work will save every community: it won’t
+T6	SuperAnnotatorPremise 7921 8019	extreme events like king tides (extremely high tides), which have been getting dramatically higher
+T7	SuperAnnotatorClaim 8196 8219	every millimetre counts
+T8	SuperAnnotatorPremise 8307 8422	across the region, underground infrastructure – like aquifers or septic tanks – lies even closer to the water table
+T9	SuperAnnotatorPremise 8221 8301	Most of Miami Beach’s built environment sits at an elevation of 60-120cm (2-6ft)
+T11	SuperAnnotatorClaim 9685 9740	This warming of the planet has been growing for a while
+T13	SuperAnnotatorClaim 9753 9818	It’s probably a different process than what happened 60 years ago
+T14	SuperAnnotatorClaim 10143 10191	Modelling specific future scenarios is difficult
+T15	SuperAnnotatorClaim 10462 10578	enough credible projections have been done to put together a range of scenarios that researchers are confident about
+T16	SuperAnnotatorClaim 16869 16949	the problem, as overwhelming as it seems, can be broken down into smaller pieces
+T24	SuperAnnotatorPremise 18246 18291	the streets flood first in a storm, by design
+T25	SuperAnnotatorPremise 22332 22411	The city also owns a seawall along this stretch; it, too, was breached recently
+T31	SuperAnnotatorPremise 26330 26424	the tunnel was also given a huge gate that, in a hurricane, drops down to seal it at both ends
+T32	SuperAnnotatorPremise 27609 27714	the results told us was that we ought to be building stuff at 17-20ft (5-6m) above sea level on the coast
+T33	SuperAnnotatorPremise 28353 28460	current projections put between $15 billion and $23 billion of existing Florida property underwater by 2050
+T35	SuperAnnotatorPremise 28462 28531	By the end of the century, that leaps to between $53 and $208 billion
+T36	SuperAnnotatorPremise 31331 31397	scientists began speaking about sea level rise for several decades
+T37	SuperAnnotatorPremise 32036 32122	Former employees have said they even were told not to utter the phrase “climate change
+T38	SuperAnnotatorClaim 37909 38013	Climate change mitigation to reduce greenhouse gases is a global issue and has to be dealt with globally

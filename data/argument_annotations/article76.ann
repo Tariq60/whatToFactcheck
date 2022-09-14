@@ -1,0 +1,43 @@
+T1	MajorClaim 236 370	the climate models have overestimated the amount of global warming and failed to predict what climatologists call the warming “hiatus,
+T2	Premise 496 604	acknowledges that most of the models of warming trends failed to predict the “slowdown” in warming post-2000
+T4	MajorClaim 731 895	The report in part intends to “reset” the estimations for the new predictions on when the earth will hit what the U.N. has determined to be dangerous warming levels
+T5	Premise 1021 1220	the Intergovernmental Panel on Climate Change (IPCC) models overestimated temperature increases, consequently setting key benchmarks for warming earlier than they need to be, given the actual numbers
+T6	Premise 1224 1324	The models end up with a warming which is larger than the observed warming for the current emissions
+T7	Premise 1429 1485	So, therefore, they derive a budget which is much lower,
+T8	Claim 1616 1666	the models used by the IPCC have made two mistakes
+T10	Premise 1777 1896	These two small discrepancies accumulate over time and lead to an slight underestimation of the remaining carbon budget
+T11	Claim 1912 2006	The new study, he said, attempts to “reset the uncertainties, starting from where we are today
+T12	Premise 2029 2127	a study by another team of climate scientists published in June 2017 that likewise determined that
+T15	Premise 2272 2431	In the early twenty-first century, satellite-derived tropospheric warming trends were generally smaller than trends estimated from a large multi-model ensemble
+T16	Premise 2433 2627	Because observations and coupled model simulations do not have the same phasing of natural internal variability, such decadal differences in simulated and observed warming rates invariably occur
+T18	Claim 2852 3037	We find that in the last two decades of the twentieth century, differences between modelled and observed tropospheric temperature trends are broadly consistent with internal variability
+T19	Premise 3039 3259	Over most of the early twenty-first century, however, model tropospheric warming is substantially larger than observed; warming rate differences are generally outside the range of trends arising from internal variability
+T20	Premise 3261 3446	The probability that multi-decadal internal variability fully explains the asymmetry between the late twentieth and early twenty-first century results is low (between zero and about 9%)
+T21	Premise 3448 3583	It is also unlikely that this asymmetry is due to the combined effects of internal variability and a model error in climate sensitivity
+T22	Premise 3585 3794	We conclude that model overestimation of tropospheric warming in the early twenty-first century is partly due to systematic deficiencies in some of the post-2000 external forcings used in the model simulations
+T23	Premise 3797 3819	The Daily Caller notes
+T26	Premise 4075 4212	Cato Institute scientists Patrick Michaels and Chip Knappenberger have noted the climate models have been over-hyping warming for decades
+T27	Premise 4214 4320	Scientist John Christy of the University of Alabama-Huntsville has testified before Congress on the matter
+T28	Premise 4327 4444	Christy’s research has shown climate models show 2.5 times more warming in the bulk atmosphere than has been observed
+T30	Premise 4618 4760	That study found “satellite-derived tropospheric warming trends were generally smaller than trends estimated from a large multi-model ensemble
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T4 Arg2:T1
+R2	supports Arg1:T5 Arg2:T1
+R3	supports Arg1:T6 Arg2:T5
+R4	supports Arg1:T7 Arg2:T5
+R5	supports Arg1:T8 Arg2:T1
+R6	supports Arg1:T10 Arg2:T8
+R7	supports Arg1:T11 Arg2:T1
+R8	supports Arg1:T12 Arg2:T11
+R9	supports Arg1:T15 Arg2:T8
+R10	supports Arg1:T16 Arg2:T15
+R11	supports Arg1:T18 Arg2:T15
+R12	supports Arg1:T19 Arg2:T18
+R13	supports Arg1:T20 Arg2:T22
+R14	supports Arg1:T21 Arg2:T22
+R15	supports Arg1:T22 Arg2:T15
+R16	supports Arg1:T23 Arg2:T8
+R17	supports Arg1:T26 Arg2:T23
+R18	supports Arg1:T27 Arg2:T23
+R19	supports Arg1:T28 Arg2:T23
+R20	supports Arg1:T30 Arg2:T23

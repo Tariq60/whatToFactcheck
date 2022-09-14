@@ -1,0 +1,132 @@
+{"credibility": ["high", "very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Eight"}
+{"credibility": ["low", "very_low"], "tags": ["Cherry-picking", "Flawed reasoning", "Misleading"], "number_of_annotators": "Seven"}
+{"credibility": ["high", "very_high"], "tags": ["Insightful"], "number_of_annotators": "Six"}
+{"credibility": ["high"], "tags": ["Insightful", "Unbiased"], "number_of_annotators": "Seven"}
+{"credibility": ["high"], "tags": ["Accurate", "Sound reasoning"], "number_of_annotators": "Nine"}
+{"credibility": ["low", "very_low"], "tags": ["Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Six"}
+{"credibility": ["very_low"], "tags": ["Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Eight"}
+{"credibility": ["mixed"], "tags": ["Alarmist"], "number_of_annotators": "Seven"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Five"}
+{"credibility": ["very_low"], "tags": ["Biased", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Seven"}
+{"credibility": ["very_low"], "tags": ["Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Nine"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Six"}
+{"credibility": ["high"], "tags": ["Accurate", "Sound reasoning"], "number_of_annotators": "Six"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate"], "number_of_annotators": "Six"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Eight"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Twelve"}
+{"credibility": ["low", "very_low"], "tags": ["Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Twelve"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Eight"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning", "Unbiased"], "number_of_annotators": "Eight"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Derogatory", "Flawed reasoning", "Inaccurate"], "number_of_annotators": "Ten"}
+{"credibility": ["low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Ten"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Seven"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["very_high", "high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Seven"}
+{"credibility": ["very_low", "low"], "tags": ["Biased", "Cherry-picking", "Misleading"], "number_of_annotators": "Ten"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Six"}
+{"credibility": ["very_low", "low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Fourteen"}
+{"credibility": ["high", "neutral"], "tags": ["Accurate", "Sound reasoning", "Unbiased"], "number_of_annotators": "Eight"}
+{"credibility": ["low"], "tags": ["Alarmist", "Inaccurate", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["very_high"], "tags": ["Accurate"], "number_of_annotators": "Ten"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Eight"}
+{"credibility": ["high"], "tags": ["Accurate", "Sound reasoning"], "number_of_annotators": "Seven"}
+{"credibility": ["low"], "tags": ["Alarmist", "Misleading"], "number_of_annotators": "Seven"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Twelve"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning", "Unbiased"], "number_of_annotators": "Seven"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Derogatory", "Misleading"], "number_of_annotators": "Nine"}
+{"credibility": ["very_low", "low"], "tags": ["Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["low"], "tags": ["Biased", "Flawed reasoning", "Misleading"], "number_of_annotators": "Twelve"}
+{"credibility": ["very_low"], "tags": ["Biased", "Inaccurate", "Misleading"], "number_of_annotators": "Eight"}
+{"credibility": ["very_low"], "tags": ["Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Six"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Unbiased"], "number_of_annotators": "Five"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate", "Sound reasoning", "Unbiased"], "number_of_annotators": "Five"}
+{"credibility": ["very_low"], "tags": ["Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Seven"}
+{"credibility": ["high", "neutral"], "tags": ["Insightful"], "number_of_annotators": "Six"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Inaccurate", "Misleading"], "number_of_annotators": "Six"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Twelve"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Five"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Six"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful", "Unbiased"], "number_of_annotators": "Three"}
+{"credibility": ["low", "very_low"], "tags": ["Flawed reasoning", "Inappropriate sources", "Misleading"], "number_of_annotators": "Four"}
+{"credibility": ["very_low"], "tags": ["Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Nine"}
+{"credibility": ["very_high"], "tags": ["Accurate"], "number_of_annotators": "Four"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate"], "number_of_annotators": "Eight"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Six"}
+{"credibility": ["very_high"], "tags": [], "number_of_annotators": "Four"}
+{"credibility": ["high"], "tags": ["Accurate", "Sound reasoning"], "number_of_annotators": "Four"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Five"}
+{"credibility": ["very_low"], "tags": ["Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Seven"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Inaccurate", "Inappropriate sources", "Misleading"], "number_of_annotators": "Eight"}
+{"credibility": ["neutral"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Nine"}
+{"credibility": ["very_low"], "tags": ["Biased", "Inaccurate", "Misleading"], "number_of_annotators": "Four"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Misleading"], "number_of_annotators": "Eight"}
+{"credibility": ["very_low"], "tags": ["Cherry-picking", "Derogatory", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Four"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["very_low"], "tags": ["Biased", "Inaccurate", "Misleading"], "number_of_annotators": "Seven"}
+{"credibility": ["low"], "tags": ["Alarmist", "Imprecise/Unclear", "Misleading"], "number_of_annotators": "Seventeen"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Four"}
+{"credibility": ["very_low", "low"], "tags": ["Biased", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning", "Unbiased"], "number_of_annotators": "Five"}
+{"credibility": ["high", "very_high"], "tags": ["Insightful"], "number_of_annotators": "Three"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Three"}
+{"credibility": ["very_low"], "tags": ["Biased", "Inaccurate", "Misleading"], "number_of_annotators": "Four"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate"], "number_of_annotators": "Thirteen"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["very_low"], "tags": ["Biased", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Nine"}
+{"credibility": ["low"], "tags": ["Flawed reasoning", "Inappropriate sources", "Misleading"], "number_of_annotators": "Three"}
+{"credibility": ["mixed"], "tags": ["Insightful", "Misleading"], "number_of_annotators": "Four"}
+{"credibility": ["high"], "tags": ["Accurate", "Alarmist", "Insightful", "Sound reasoning"], "number_of_annotators": "Six"}
+{"credibility": ["low"], "tags": ["Cherry-picking", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["neutral", "low"], "tags": ["Misleading"], "number_of_annotators": "Three"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Three"}
+{"credibility": ["neutral", "high"], "tags": [], "number_of_annotators": "Three"}
+{"credibility": ["low"], "tags": ["Biased", "Cherry-picking", "Derogatory", "Misleading"], "number_of_annotators": "Three"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Three"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Three"}
+{"credibility": ["mixed"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["neutral"], "tags": ["Accurate", "Misleading"], "number_of_annotators": "Three"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Sound reasoning"], "number_of_annotators": "Four"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Misleading"], "number_of_annotators": "Three"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Sound reasoning"], "number_of_annotators": "Three"}
+{"credibility": ["very_low"], "tags": ["Derogatory", "Flawed reasoning", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["low"], "tags": ["Biased", "Misleading"], "number_of_annotators": "Four"}
+{"credibility": ["neutral"], "tags": ["Confused"], "number_of_annotators": "Six"}
+{"credibility": ["very_low"], "tags": ["Biased", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["high"], "tags": ["Sound reasoning"], "number_of_annotators": "Two"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Four"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Four"}
+{"credibility": ["low"], "tags": ["Cherry-picking", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["neutral"], "tags": [], "number_of_annotators": "Six"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Five"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate"], "number_of_annotators": "Two"}
+{"credibility": ["very_high"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["high"], "tags": ["Insightful"], "number_of_annotators": "Five"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Inaccurate", "Inappropriate sources", "Misleading"], "number_of_annotators": "Eight"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful"], "number_of_annotators": "Five"}
+{"credibility": ["very_low", "low"], "tags": ["Biased", "Flawed reasoning", "Misleading"], "number_of_annotators": "Four"}
+{"credibility": ["neutral", "high"], "tags": ["Accurate", "Imprecise/Unclear", "Unbiased"], "number_of_annotators": "Six"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Seven"}
+{"credibility": ["high"], "tags": ["Accurate", "Insightful", "Sound reasoning"], "number_of_annotators": "Three"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Four"}
+{"credibility": ["very_low"], "tags": ["Biased", "Flawed reasoning", "Imprecise/Unclear", "Inaccurate", "Misleading"], "number_of_annotators": "Six"}
+{"credibility": ["very_high"], "tags": ["Accurate", "Sound reasoning"], "number_of_annotators": "Two"}
+{"credibility": ["very_high"], "tags": ["Accurate"], "number_of_annotators": "Two"}
+{"credibility": ["high", "very_high"], "tags": ["Accurate"], "number_of_annotators": "Two"}
+{"credibility": ["high"], "tags": ["Accurate"], "number_of_annotators": "Two"}
+{"credibility": ["neutral"], "tags": [], "number_of_annotators": "Four"}
+{"credibility": ["mixed"], "tags": ["Imprecise/Unclear"], "number_of_annotators": "Five"}
+{"credibility": ["high", "very_high"], "tags": [], "number_of_annotators": "Two"}
+{"credibility": ["very_low"], "tags": ["Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Three"}
+{"credibility": ["very_low"], "tags": ["Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Ten"}
+{"credibility": ["very_low"], "tags": ["Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["low"], "tags": ["Alarmist", "Misleading"], "number_of_annotators": "Six"}
+{"credibility": ["low"], "tags": ["Cherry-picking", "Flawed reasoning", "Misleading"], "number_of_annotators": "Four"}
+{"credibility": ["very_high"], "tags": ["Accurate"], "number_of_annotators": "Three"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Flawed reasoning", "Inaccurate", "Misleading"], "number_of_annotators": "Five"}
+{"credibility": ["very_low"], "tags": ["Biased", "Cherry-picking", "Inaccurate", "Misleading"], "number_of_annotators": "Six"}
+{"credibility": ["very_low"], "tags": ["Cherry-picking", "Flawed reasoning", "Inaccurate", "Inappropriate sources", "Misleading"], "number_of_annotators": "Six"}

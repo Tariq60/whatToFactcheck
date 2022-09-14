@@ -1,0 +1,44 @@
+T3	Premise 496 651	Some models suggest that the storm will linger over the area until Wednesday night, dumping 50 inches of water in total on Houston and the surrounding area
+T5	Premise 877 914	Catastrophic flooding is now underway
+T6	Claim 1087 1193	perhaps tens of thousands of people—are facing a terrifying and all-too-real struggle to survive right now
+T7	MajorClaim 1350 1505	Climate scientists, who specialize in thinking about the Earth system as a whole, are often reticent to link any one weather event to global climate change
+T10	Premise 1761 1872	Climate change is caused by the release of greenhouse gases like carbon dioxide and methane into the atmosphere
+T12	Premise 2036 2138	This warmer air causes evaporation to happen faster, which can lead to more moisture in the atmosphere
+T14	Premise 2220 2420	Storms like Harvey are helped by one of the consequences of climate change: As the air warms, some of that heat is absorbed by the ocean, which in turn raises the temperature of the sea’s upper layers
+T15	Premise 2423 2490	Harvey benefited from unusually toasty waters in the Gulf of Mexico
+T16	Premise 2492 2628	As the storm roared toward Houston last week, sea-surface waters near Texas rose to between 2.7 and 7.2 degrees Fahrenheit above average
+T20	Premise 2992 3165	Although these storms occur naturally, the storm is apt to be more intense, maybe a bit bigger, longer-lasting, and with much heavier rainfalls [because of that ocean heat].
+T21	Claim 3168 3254	This also suggests an explanation for one of Harvey’s strangest and scariest behaviors
+T22	Premise 3256 3388	The storm intensified up until the moment of landfall, achieving category-four strength hours before it slammed into the Texas coast
+T23	Claim 3390 3481	This is not only rare for tropical cyclones in the western Gulf of Mexico: It may be unique
+T24	Premise 3483 3595	In the past 30 years of records, no storms west of Florida have intensified in the last 12 hours before landfall
+T30	Premise 4025 4203	The hurricane churned up water 100 or even 200 meters below the surface, said Trenberth, but this water was still warm—meaning that the storm could keep growing and strengthening
+T32	Claim 4371 4446	a storm like Harvey could have happened even if there was no climate change
+T33	Claim 4448 4541	Planning experts have long fretted over the possibility of a major hurricane striking Houston
+T34	Premise 4543 4677	Harvey is also a powerful hurricane forming in one of the most hurricane-friendly regions of the world at the peak of hurricane season
+T35	Claim 4679 4725	Storms similar to it would form in any climate
+T36	Claim 4752 4878	the extra heat could make the storm more costly and more powerful, overpowering and eventually breaking local drainage systems
+T38	Premise 4992 5143	“It may have been a strong storm, and it may have caused a lot of problems anyway—but [human-caused climate change] amplifies the damage considerably.”
+T39	Claim 5161 5273	it’s still unclear what effect climate change is having on hurricane formation across the greater Atlantic Ocean
+T41	Claim 5527 5588	Houston has been ground zero for super-damaging storms lately
+T45	Claim 5963 6022	Yet even compared to recent storms, Harvey is unprecedented
+T46	Premise 6113 6315	Harvey has already dumped more water on Harris County than Tropical Storm Allison, the area’s previous worst-ever flooding disaster in 2001, though it has only lasted half the time of that earlier storm
+R0	supports Arg1:T3 Arg2:T6
+R1	supports Arg1:T5 Arg2:T6
+R2	supports Arg1:T10 Arg2:T12
+R3	supports Arg1:T12 Arg2:T7
+R4	joint Arg1:T14 Arg2:T12
+R5	supports Arg1:T15 Arg2:T14
+R6	supports Arg1:T16 Arg2:T15
+R7	supports Arg1:T21 Arg2:T23
+R8	supports Arg1:T22 Arg2:T21
+R9	supports Arg1:T24 Arg2:T23
+R10	supports Arg1:T30 Arg2:T23
+R11	attacks Arg1:T32 Arg2:T7
+R12	supports Arg1:T33 Arg2:T32
+R13	supports Arg1:T34 Arg2:T33
+R14	supports Arg1:T35 Arg2:T33
+R15	supports Arg1:T38 Arg2:T36
+R16	supports Arg1:T39 Arg2:T36
+R17	supports Arg1:T45 Arg2:T7
+R18	supports Arg1:T46 Arg2:T45

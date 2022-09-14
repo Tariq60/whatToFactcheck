@@ -1,0 +1,26 @@
+T1	MajorClaim 100 216	All sea life will be affected because carbon dioxide emissions from modern society are making the oceans more acidic
+T2	Claim 310 356	infant sea creatures will be especially harmed
+T3	Claim 374 437	number of baby cod growing to adulthood could fall to a quarter
+T6	Claim 800 861	some creatures may benefit directly from the chemical changes
+T8	Claim 996 1137	changes through acidification will be made worse by climate change, pollution, coastal development, over-fishing and agricultural fertilisers
+T9	Premise 1140 1290	Ocean acidification is happening because as CO2 from fossil fuels dissolves in seawater, it produces carbonic acid and this lowers the pH of the water
+T10	Premise 1458 1584	Since the beginning of the Industrial Revolution, the average pH of global ocean surface waters have fallen from pH 8.2 to 8.1
+T14	Premise 1883 1965	Acidification affects marine life across all groups, although to different degrees
+T17	Premise 2188 2334	even if an organism isn't directly harmed by acidification it may be affected indirectly through changes in its habitat or changes in the food web
+T19	Premise 2459 2731	scientists working under the BIOACID programme have studied how marine creatures are affected by acidification during different life stages; how these reactions reverberate through the marine food web; and whether the challenges can be mitigated by evolutionary adaptation
+T21	Claim 3027 3154	almost half of the marine animal species tested reacted negatively to already moderate increases in seawater CO2 concentrations
+T22	Premise 3157 3261	Early life stages were affected in Atlantic cod, blue mussels, starfish, sea urchins and sea butterflies
+T23	Premise 3264 3344	But an experiment with barnacles showed they were not sensitive to acidification
+T27	Claim 3871 4014	"It's also explored how in combination with ocean warming and other stressors it might play out at the ecosystem level and affect human society
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T1
+R2	supports Arg1:T6 Arg2:T1
+R3	supports Arg1:T8 Arg2:T1
+R4	supports Arg1:T9 Arg2:T8
+R5	supports Arg1:T10 Arg2:T8
+R6	supports Arg1:T14 Arg2:T8
+R7	supports Arg1:T19 Arg2:T21
+R8	supports Arg1:T21 Arg2:T1
+R9	supports Arg1:T22 Arg2:T21
+R10	supports Arg1:T23 Arg2:T21
+R11	supports Arg1:T27 Arg2:T1

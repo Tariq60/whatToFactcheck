@@ -1,0 +1,64 @@
+T1	Claim 158 284	If you dig deep enough into the Earth’s climate change archives, you hear about the Palaeocene-Eocene Thermal Maximum, or PETM
+T2	Claim 286 309	And then you get scared
+T3	Premise 455 550	concentrations of carbon dioxide in the atmosphere to spike, far higher than they are right now
+T4	Premise 552 712	The planet proceeded to warm rapidly, at least in geologic terms, and major die-offs of some marine organisms followed due to strong acidification of the oceans
+T5	Claim 715 760	The cause of the PETM has been widely debated
+T6	Premise 762 833	Some think it was an explosion of carbon from thawing Arctic permafrost
+T7	Premise 835 1020	Some think there was a huge release of subsea methane that somehow made its way to the atmosphere — and that the series of events might have been kickstarted by major volcanic eruptions
+T8	Premise 1036 1124	the result was a hothouse world from pole to pole, some 5 degrees Celsius warmer overall
+T9	Claim 1126 1336	But now, new research suggests, even the drama of the PETM falls short of our current period, in at least one key respect: We’re putting carbon into the atmosphere at an even faster rate than happened back then
+T10	Claim 1339 1552	Such is the result of a new study in Nature Geoscience, led by Richard Zeebe of the University of Hawaii at Manoa, and colleagues from the University of Bristol in the UK and the University of California-Riverside
+T11	Premise 1555 1778	“If you look over the entire Cenozoic, the last 66 million years, the only event that we know of at the moment, that has a massive carbon release, and happens over a relatively short period of time, is the PETM,” says Zeebe
+T12	Premise 1844 1936	in the more recent past, we don’t see anything comparable to what humans are currently doing
+T13	Claim 1951 2024	this time period is so crucial to study — as a possible window on our own
+T14	Premise 2067 2188	about as much as contained the fossil fuel reserves that humans have either already burned, or could still burn, combined
+T15	Premise 2241 2308	The result was a major warming event that lasted over 100,000 years
+T16	Claim 2310 2376	But precisely how rapidly the emissions occurred is another matter
+T17	Claim 2380 2529	If anthropogenic emissions rates have no analogue in Earth’s recent history, then unforeseeable future responses of the climate system are possible,”
+T18	Premise 2550 2671	To examine what happened in the PETM, the researchers used a deep ocean core of sediment from off the coast of New Jersey
+T19	Claim 2673 2831	The goal was to determine the ratios between different isotopes, or slightly different elemental forms, of carbon and oxygen, in the sediments during the PETM
+T20	Premise 2834 3079	The relationship between the two lets researchers determine how atmospheric carbon dioxide levels, as reflected in the ratio of carbon 12 to carbon 13, in turn influenced temperatures (which can be inferred based on oxygen isotopes in the ocean)
+T21	Premise 3114 3221	the first shows us when the carbon went into the system, and the second tells us when the climate responded
+T22	Premise 3237 3397	It turns out that there is a lag time between massive pulses of carbon in the atmosphere and subsequent warming, because the oceans have a large thermal inertia
+T23	Claim 3399 3542	Therefore, a large lag would indicate a greater carbon release, whereas the lack of one actually means that carbon dioxide came out more slowly
+T24	Premise 3545 3603	The geologic evidence from the new core did not show a lag
+T25	Premise 3781 3816	it played out over some 4,000 years
+T26	Premise 3818 3878	So only about 1 billion tons of carbon were emitted per year
+T27	Premise 3880 3987	In contrast, humans are now emitting about 10 billion tons annually — changing the planet much more rapidly
+T28	Premise 3991 4149	The anthropogenic release outpaces carbon release during the most extreme global warming event of the past 66 million years, by at least an order of magnitude
+T29	Claim 4286 4358	The analogy between the PETM and the present, then, is less than perfect
+T31	Premise 4404 4527	The two main conclusions is that ocean acidification will be more severe, ecosystems may be hit harder because of the rate”
+T32	MajorClaim 4560 4750	And not only have we only begun to see the changes that will result from current warming, but there may be other changes that lack any ancient parallel, because of the current rate of change
+T33	Premise 4754 4841	Given that the current rate of carbon release is unprecedented throughout the Cenozoic,
+R0	supports Arg1:T1 Arg2:T32
+R1	supports Arg1:T2 Arg2:T1
+R2	supports Arg1:T3 Arg2:T1
+R3	supports Arg1:T4 Arg2:T2
+R4	supports Arg1:T5 Arg2:T32
+R5	supports Arg1:T6 Arg2:T5
+R6	joint Arg1:T7 Arg2:T6
+R7	supports Arg1:T8 Arg2:T5
+R8	supports Arg1:T9 Arg2:T32
+R9	supports Arg1:T10 Arg2:T9
+R10	supports Arg1:T11 Arg2:T10
+R11	supports Arg1:T12 Arg2:T9
+R12	supports Arg1:T13 Arg2:T32
+R13	supports Arg1:T14 Arg2:T13
+R14	supports Arg1:T15 Arg2:T13
+R15	supports Arg1:T16 Arg2:T32
+R16	supports Arg1:T17 Arg2:T16
+R17	supports Arg1:T18 Arg2:T19
+R18	supports Arg1:T19 Arg2:T17
+R19	supports Arg1:T20 Arg2:T19
+R20	supports Arg1:T21 Arg2:T22
+R21	supports Arg1:T22 Arg2:T23
+R22	supports Arg1:T23 Arg2:T9
+R23	supports Arg1:T24 Arg2:T23
+R24	supports Arg1:T25 Arg2:T29
+R25	supports Arg1:T26 Arg2:T25
+R26	supports Arg1:T27 Arg2:T9
+R27	supports Arg1:T28 Arg2:T27
+R28	supports Arg1:T29 Arg2:T32
+R29	supports Arg1:T31 Arg2:T29
+R30	restate Arg1:T32 Arg2:T17
+R31	supports Arg1:T33 Arg2:T32

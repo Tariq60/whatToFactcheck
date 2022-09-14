@@ -1,0 +1,46 @@
+T1	Claim 76 224	We are bombarded with “facts” every day: This is the “hottest [pick a season] ever”; the ice caps are at a record low; we’ll all be dead in 10 years
+T2	Claim 227 435	For former president Barack Obama, the ever-changing and often contradictory “facts” about global warming (which liberals now call climate change because the globe stopped warming) was simply “settled science
+T3	MajorClaim 439 570	But now it turns out the Arctic sea ice is thicker than ever and, oh yeah, the global temperature trend has not warmed for 19 years
+T5	Premise 598 728	The Telegraph newspaper in the UK has published a fascinating article detailing data from the Danish Meteorological Institute (DMI
+T6	Premise 736 827	Ever since December temperatures in the Arctic have consistently been lower than minus 20 C
+T7	Premise 829 913	In April the extent of Arctic sea ice was back to where it was in April 13 years ago
+T8	Premise 915 1029	Furthermore, whereas in 2008 most of the ice was extremely thin, this year most has been at least two metres thick
+T9	Premise 1031 1118	The Greenland ice cap last winter increased in volume faster than at any time for years
+T10	Premise 1125 1427	As for those record temperatures brought in 2016 by an exceptionally strong El Niño, the satellites now show that in recent months global temperatures have plummeted by more that 0.6 degrees: just as happened 17 years ago after a similarly strong El Niño had also made 1998 the “hottest year on record”
+T11	Claim 1434 1519	This means the global temperature trend has now shown no further warming for 19 years
+T12	Claim 1521 1564	But the BBC won’t be telling us any of this
+T13	Claim 1566 1687	And we are still stuck with that insanely damaging Climate Change Act, which in this election will scarcely get a mention
+T14	Claim 1690 1724	But wait, there’s more — much more
+T15	Premise 1728 1897	Experts told Daily Star Online planet Earth is on course for a “Little Age Ice” within the next three years thanks to a cocktail of climate change and low solar activity
+T16	Premise 1938 2077	Research shows a natural cooling cycle that occurs every 230 years began in 2014 and will send temperatures plummeting even further by 2019
+T17	Premise 2084 2223	Scientists are also expecting a “huge reduction” in solar activity for 33 years between 2020 and 2053 that will cause thermometers to crash
+T18	Claim 2230 2388	Both cycles suggest Earth is entering a global cooling cycle that could have devastating consequences for global economy, human life and society as we know it
+T19	Claim 2395 2538	If predictions of the world-wide big freeze come true, the plot to 2004 film The Day After Tomorrow would not be far from reality during winter
+T20	Premise 2547 2723	David Dilley, CEO of Global Weather Oscillations, told Daily Star Online global warming and cooling cycles are determined by the gravitational forces of the Earth, moon and sun
+T21	Premise 2730 2804	Each cycle lasts around 120,000 years, with sub-cycles of around 230 years
+T22	Premise 2821 2913	We have had five warming cycles since about 900AD, each followed by a dramatic cooling cycle
+T23	Premise 2921 3069	The last global warming cycle ended in 1790 and the year 2020 is 230 following this – thus I have been talking about rapid cooling beginning in 2019
+T24	Premise 3077 3234	He said the oncoming cooling will send temperatures plummeting to lows last seen in the 1940s – when the mercury bottomed out at -21C during winter in the UK
+T25	Premise 3251 3377	Cooling from 2019 into about 2020 to 2021 will bring world temperatures back to where they were in the 1940s through the 1960s
+R0	supports Arg1:T1 Arg2:T3
+R1	supports Arg1:T2 Arg2:T3
+R2	supports Arg1:T5 Arg2:T11
+R3	supports Arg1:T6 Arg2:T5
+R4	supports Arg1:T7 Arg2:T5
+R5	supports Arg1:T8 Arg2:T5
+R6	supports Arg1:T9 Arg2:T5
+R7	supports Arg1:T10 Arg2:T11
+R8	supports Arg1:T11 Arg2:T3
+R9	supports Arg1:T13 Arg2:T12
+R10	supports Arg1:T14 Arg2:T3
+R11	supports Arg1:T15 Arg2:T14
+R12	supports Arg1:T16 Arg2:T14
+R13	supports Arg1:T17 Arg2:T14
+R14	supports Arg1:T18 Arg2:T3
+R15	restate Arg1:T19 Arg2:T18
+R16	supports Arg1:T20 Arg2:T18
+R17	supports Arg1:T21 Arg2:T18
+R18	supports Arg1:T22 Arg2:T18
+R19	joint Arg1:T23 Arg2:T22
+R20	supports Arg1:T24 Arg2:T18
+R21	joint Arg1:T25 Arg2:T24

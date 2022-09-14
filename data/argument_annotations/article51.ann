@@ -1,0 +1,20 @@
+T2	Claim 460 668	The study maintains that the cycle of changes in the climate over the millennia is largely a result of changes in the amount of solar radiation, in part caused by small changes in the orbits of Earth and Mars
+T3	Claim 671 955	While the notion that the impact on earth’s orbital cycle on solar radiation levels is a significant factor determining global temperatures is anything but new, the team of scientists seem to have tied the phenomenon to planetary orbits in a more concrete manner than previous studies
+T4	Claim 1057 1150	the study “provides the first hard proof for what scientists call the ‘chaotic solar system,’
+T6	Claim 1358 1574	the new discovery promise to provide a better understanding of “the mechanics of the solar system,” but also “a better understanding of the link between orbital variations and climate change over geologic time scales
+T9	Premise 2274 2505	In the context of the solar system, the phenomenon occurs when two orbiting bodies periodically tug at one another, as occurs when a planet in its track around the sun passes in relative proximity to another planet in its own orbit
+T10	Premise 2507 2755	These small but regular ticks in a planet’s orbit can exert big changes on the WB_wombat_location and orientation of a planet on its axis relative to the sun and, accordingly, change the amount of solar radiation a planet receives over a given area
+T13	Claim 2835 3082	Over the ages, the subtle variations in the orbits of Earth and Mars, the scientists theorize, have impacted the amount of Earth’s exposure to solar radiation and thus led to shifts in global temperatures, impacting the pattern of Earth’s ice ages
+T14	Claim 3090 3153	The impact of astronomical cycles on climate can be quite large
+T16	Claim 3535 3719	studies like these inadvertently highlight that there are complex natural phenomena impacting the planet that are utterly out of our control and about which we still have much to learn
+R0	supports Arg1:T2 Arg2:T16
+R1	supports Arg1:T3 Arg2:T16
+R2	supports Arg1:T4 Arg2:T16
+R3	supports Arg1:T6 Arg2:T16
+R4	joint Arg1:T9 Arg2:T10
+R5	supports Arg1:T10 Arg2:T13
+R6	supports Arg1:T13 Arg2:T16
+R7	supports Arg1:T14 Arg2:T16
+R8	supports Arg1:T16 Arg2:T2
+T1	SuperAnnotatorPremise 2757 2832	Where and how much solar radiation a planet gets is a key driver of climate
+T5	SuperAnnotatorMajorClaim 3536 3719	tudies like these inadvertently highlight that there are complex natural phenomena impacting the planet that are utterly out of our control and about which we still have much to learn

@@ -1,0 +1,109 @@
+T1	Premise 108 219	Greece is in mourning after scorching heat and high winds fueled wildfires that have killed more than 80 people
+T2	Premise 221 403	Japan recorded its highest temperature in history, 106 degrees, in a heat wave that killed 65 people in a week and hospitalized 22,000, shortly after catastrophic flooding killed 200
+T3	Premise 406 494	Ouargla, Algeria, hit 124 degrees on July 5, a likely record for the continent of Africa
+T4	Premise 496 620	And the 109-degree reading in Quriyat, Oman, on June 28 amazed meteorologists because that wasn’t the day’s high temperature
+T6	Premise 641 698	It was the hottest low temperature ever recorded on Earth
+T7	Premise 725 797	Montreal hit 98 degrees on July 2, its warmest temperature ever measured
+T8	Premise 799 877	Canadian health officials estimate as many as 70 people died in that heat wave
+T9	Premise 880 990	In the United States, 35 weather stations in the past month have set new marks for warm overnight temperatures
+T10	Premise 992 1060	Southern California has had record heat and widespread power outages
+T11	Premise 1062 1154	In Yosemite Valley, which is imperiled by wildfires, park rangers have told everyone to flee
+T12	MajorClaim 1157 1230	The brutal weather has been supercharged by human-induced climate change,
+T14	Claim 1247 1339	Climate models for three decades have predicted exactly what the world is seeing this summer
+T15	Claim 1342 1442	And they predict that it will get hotter — and that what is a record today could someday be the norm
+T16	Premise 1470 1526	The old records belong to a world that no longer exists,
+T17	Claim 1632 1650	It’s not just heat
+T18	Claim 1652 1771	A warming world is prone to multiple types of extreme weather — heavier downpours, stronger hurricanes, longer droughts
+T19	Premise 1775 1861	You see roads melting, airplanes not being able to take off, there’s not enough water,
+T20	Premise 1951 1996	“Climate change hits us at our Achilles’ heel
+T21	Premise 1998 2039	In the Southwest, it’s water availability
+T24	Premise 2077 2103	In the East, it’s flooding
+T26	Claim 2158 2318	The proximate cause of the Northern Hemisphere bake-off is the unusual behavior of the jet stream, a wavy track of west-to-east-prevailing wind at high altitude
+T27	Premise 2320 2414	The jet stream controls broad weather patterns, such as high-pressure and low-pressure systems
+T29	Premise 2511 2626	This summer, the jet stream has undulated in extreme waves that have tended to block weather systems from migrating
+T30	Premise 2628 2771	The result has been stagnant high-pressure and low-pressure systems with dire results, such as heat waves in some places and flooding elsewhere
+T31	Premise 2774 2963	“When those waves are very big — as they have been for the past few weeks — they tend to get stuck in place,” said Jennifer Francis, a professor of atmospheric science at Rutgers University
+T32	Premise 2965 3137	Last year, scientists published evidence that the conditions leading up to “stuck jet streams” are becoming more common, with warming in the Arctic seen as a likely culprit
+T34	Claim 3223 3345	Now researchers can examine a weather event and estimate how much climate change had to do with causing or exacerbating it
+T35	Premise 3348 3497	Last year, when Hurricane Harvey broke the record for how much rain could fall from a single storm, researchers knew climate change had been a factor
+T36	Premise 3500 3645	Months later, scientists presented findings that Harvey dumped at least 15 percent more rain in Houston than it would have without global warming
+T37	Claim 3669 3725	When the atmosphere is warmer, it can hold more moisture
+T38	Premise 3727 3836	Climate change does not cause hurricanes to spin up or thunderstorms to develop, but it can be an intensifier
+T39	Premise 3839 3984	In Dallas, where the temperature hit 100 on 10 out of 11 days this month, three homeless people have died of heat-related causes in the past week
+T40	Premise 4063 4256	In Phoenix, where this week’s temperature hit 116 degrees, Dustin Nye, 36, who spent the day installing air-conditioning units, said he has suffered heat stroke in the past and still gets woozy
+T43	Premise 4516 4616	It seems like every year, we’ve had some type of temperature anomaly that we normally would not have
+T44	Premise 4619 4835	Residents of beach cities such as Long Beach and Santa Monica, who normally rely on the ocean breeze to cool their homes, have added air-conditioning units, which strains the grid and has contributed to power outages
+T45	Claim 4847 4859	Said Hayhoe:
+T46	Claim 4861 4984	The biggest myth that the largest number of people have bought into is that ‘climate change doesn’t matter to me personally
+T47	Premise 4990 5104	The heat waves have hit hard where people don’t expect them — the Netherlands, Sweden, Britain, Ireland and Canada
+T48	Premise 5108 5148	Our office doesn’t have air conditioning
+T51	Premise 5361 5459	“This kind of event was a 1-in-100-year event in 1900,” he said. “It’s become 20 times more likely
+T52	Premise 5463 5526	It’s Britain’s driest summer since modern records began in 1961
+T53	Premise 5528 5598	Reservoirs are declining rapidly, and water restrictions are in effect
+T54	Premise 5600 5734	The United Kingdom’s national weather service urged people to avoid the sun this week, with temperatures expected to hit 98 Fahrenheit
+T55	Premise 5737 5854	In Ireland, the sun-parched fields revealed a previously hidden footprint of a 5,000-year-old monument near Newgrange
+T56	Claim 5857 6023	Human activity, primarily the burning of fossil fuels, has added greenhouse gases to the atmosphere, trapping heat and making extreme weather events even more extreme
+T57	Premise 6025 6230	The amount of carbon dioxide in the atmosphere reached 410 parts per million in May, the highest the Mauna Loa Observatory in Hawaii had measured since Charles David Keeling started keeping records in 1958
+T58	Premise 6232 6335	NASA estimates Earth has warmed almost one degree Celsius (1.8 degrees Fahrenheit) since the late 1800s
+T59	Premise 6337 6410	Of that, half a degree (around one degree F) has accrued since 1990 alone
+T60	Claim 6413 6625	If nothing is done to curb greenhouse-gas emissions, scientists say, the global temperature increase could reach nine degrees Fahrenheit by the end of the century, with higher spikes on land and at high latitudes
+T63	MajorClaim 7066 7137	Human-made climate change is real, and the impacts have already started
+T64	Premise 7140 7202	Average temperature is rising rapidly across the United States
+T65	Premise 7204 7267	Heat waves are becoming more extreme and will continue to do so
+T66	Premise 7270 7363	Overall precipitation has decreased in the South and West and increased in the North and East
+T70	Premise 7553 7705	Kevin Trenberth, a climate scientist with the National Center for Atmospheric Research, said even modest heat from global warming can build up over time
+T71	Premise 7709 7870	The accumulated energy over one month is equivalent to a small microwave oven at full power for six minutes over every square foot of the planet,” Trenberth said
+R0	supports Arg1:T1 Arg2:T14
+R1	supports Arg1:T2 Arg2:T14
+R2	supports Arg1:T3 Arg2:T14
+R3	joint Arg1:T4 Arg2:T6
+R4	supports Arg1:T6 Arg2:T15
+R5	supports Arg1:T7 Arg2:T14
+R6	joint Arg1:T8 Arg2:T7
+R7	supports Arg1:T9 Arg2:T14
+R8	supports Arg1:T10 Arg2:T14
+R9	supports Arg1:T11 Arg2:T10
+R10	supports Arg1:T12 Arg2:T15
+R11	supports Arg1:T14 Arg2:T12
+R12	supports Arg1:T15 Arg2:T12
+R13	supports Arg1:T16 Arg2:T15
+R14	supports Arg1:T17 Arg2:T15
+R15	restate Arg1:T18 Arg2:T17
+R16	supports Arg1:T19 Arg2:T17
+R17	supports Arg1:T20 Arg2:T17
+R18	supports Arg1:T21 Arg2:T20
+R19	supports Arg1:T24 Arg2:T17
+R20	supports Arg1:T26 Arg2:T12
+R21	supports Arg1:T27 Arg2:T26
+R22	supports Arg1:T29 Arg2:T26
+R23	joint Arg1:T30 Arg2:T29
+R24	supports Arg1:T31 Arg2:T26
+R25	supports Arg1:T32 Arg2:T26
+R26	supports Arg1:T35 Arg2:T34
+R27	supports Arg1:T36 Arg2:T35
+R28	restate Arg1:T37 Arg2:T18
+R29	supports Arg1:T38 Arg2:T34
+R30	supports Arg1:T39 Arg2:T45
+R31	supports Arg1:T40 Arg2:T45
+R32	supports Arg1:T43 Arg2:T45
+R33	supports Arg1:T44 Arg2:T45
+R34	supports Arg1:T45 Arg2:T12
+R35	supports Arg1:T46 Arg2:T15
+R36	supports Arg1:T47 Arg2:T45
+R37	supports Arg1:T48 Arg2:T47
+R38	supports Arg1:T51 Arg2:T47
+R39	supports Arg1:T52 Arg2:T47
+R40	supports Arg1:T53 Arg2:T52
+R41	supports Arg1:T54 Arg2:T52
+R42	supports Arg1:T55 Arg2:T47
+R43	supports Arg1:T56 Arg2:T15
+R44	supports Arg1:T57 Arg2:T56
+R45	joint Arg1:T58 Arg2:T59
+R46	supports Arg1:T59 Arg2:T60
+R47	supports Arg1:T60 Arg2:T56
+R48	supports Arg1:T63 Arg2:T12
+R49	supports Arg1:T64 Arg2:T65
+R50	supports Arg1:T65 Arg2:T63
+R51	supports Arg1:T66 Arg2:T64
+R52	supports Arg1:T70 Arg2:T64
+R53	supports Arg1:T71 Arg2:T70

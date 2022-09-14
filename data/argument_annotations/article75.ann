@@ -1,0 +1,44 @@
+T1	Claim 102 161	This wasn’t supposed to be a bad year for Western wildfires
+T5	Premise 422 463	California’s drought ended in the washout
+T6	Claim 470 506	fires are now raging across the West
+T7	Premise 508 583	More than two dozen named fires currently burn across Washington and Oregon
+T8	Premise 585 635	More than one million acres have burned in Montana
+T9	Premise 734 785	the largest brushfire in the history of Los Angeles
+T16	Claim 1834 1934	The last 60 to 90 days have been exceptionally warm and dry, the perfect recipe for drying out fuels
+T18	Claim 2347 2421	This excessive heat can have an outsize effect on the size of forest fires
+T19	Premise 2489 2572	fire and aridity, which is controlled by heat, exist in an exponential relationship
+T21	MajorClaim 2683 2896	thinking about temperature trends due to human-caused climate change, we think that the western United States is 1.5 [degrees] Celsius, or 3 degrees Fahrenheit, hotter than it would be in absence of climate change
+T26	Claim 3294 3348	global warming is already having an effect on wildfire
+T27	Premise 3472 3617	the total area burned in the western United States over the past 33 years was double the size it would have been without any human-caused warming
+T28	Premise 3621 3759	The added forest fire area—due to just the degree and a half Celsius of warming—equaled the area of Massachusetts and Connecticut combined
+T29	Claim 3781 3834	Other researchers have arrived at similar conclusions
+T30	Premise 3887 4053	large wildfire activity increased suddenly and markedly in the mid-1980s, with higher large-wildfire frequency, longer wildfire durations, and longer wildfire seasons
+T31	Premise 4056 4164	The mid-1980s is also when most scientists argue that the effects of global warming began to be broadly felt
+T33	Claim 4331 4396	Fires have not only been increasing in size due to climate change
+T34	Premise 4398 4537	In the early 20th century, state and federal governments began aggressively fighting wildfires and trying to keep them as small as possible
+T35	Premise 4539 4685	This has caused denser and more fire-prone forests than the long-term average for the West, which has led to more massive and uncontrollable fires
+T36	Claim 4688 4744	People have also lengthened the season by starting fires
+T37	Premise 4847 4972	In a human-free environment, fires could only start after a lightning strike, which only follow from summertime thunderstorms
+T41	Claim 5272 5320	in the meantime, the planet will only get hotter
+T42	Premise 5324 5470	According to climate models, by the end of this century, the western United States is still projected to warm by about another 3.5 degrees Celsius
+R0	attacks Arg1:T1 Arg2:T6
+R1	supports Arg1:T5 Arg2:T1
+R2	attacks Arg1:T6 Arg2:T1
+R3	supports Arg1:T7 Arg2:T6
+R4	supports Arg1:T8 Arg2:T6
+R5	supports Arg1:T9 Arg2:T6
+R6	supports Arg1:T18 Arg2:T21
+R7	supports Arg1:T19 Arg2:T18
+R8	supports Arg1:T26 Arg2:T21
+R9	supports Arg1:T27 Arg2:T26
+R10	supports Arg1:T28 Arg2:T26
+R11	supports Arg1:T29 Arg2:T26
+R12	supports Arg1:T30 Arg2:T29
+R13	joint Arg1:T31 Arg2:T30
+R14	attacks Arg1:T33 Arg2:T26
+R15	joint Arg1:T34 Arg2:T35
+R16	supports Arg1:T35 Arg2:T33
+R17	supports Arg1:T36 Arg2:T33
+R18	supports Arg1:T37 Arg2:T33
+R19	supports Arg1:T41 Arg2:T21
+R20	supports Arg1:T42 Arg2:T41

@@ -1,0 +1,22 @@
+T2	Claim 207 299	The research challenges the ways that researchers have worked out sea temperatures until now
+T3	Claim 373 583	The methodology widely used to understand sea temperatures in the scientific community may be based on a mistake, the new study suggests, and so our understanding of climate change might be fundamentally flawed
+T4	Premise 718 826	The new research suggests that the oceans hundreds of millions of years ago were much cooler than we thought
+T6	Premise 1002 1179	Until now, scientists believed that the temperature of the ocean depths and the surface of the polar ocean 100 million years ago were about 15 degrees warmer than they are today
+T7	Claim 1181 1299	But they might in fact have stayed relatively stable – making the warming we're currently undergoing far more alarming
+T8	Premise 1363 1433	If we are right, our study challenges decades of paleoclimate research
+T12	Claim 1868 2018	The researchers believe that scientists have been overlooking crucial processes when they calculated the temperature of the seas millions of years ago
+T14	Premise 2119 2219	Until now, scientists have calculated the temperature of the ancient seas by looking at foraminifera
+T16	Premise 2509 2637	That working led scientists to believe that the temperature of the seas had fallen by 15 degrees over the last 100 million years
+T17	Premise 2640 2751	But the new research shows that the amount of oxygen in those shells doesn't actually remain constant over time
+T21	Premise 3212 3346	The scientists behind the study claim that the apparent cooling of the oceans was actually just the effect of the process they've seen
+T22	Claim 3348 3530	The changes in the amount of oxygen in the shells isn't a reflection of changing temperatures – just a consequence of the fact that the amount of oxygen seen changes over time anyway
+R0	supports Arg1:T2 Arg2:T3
+R1	supports Arg1:T4 Arg2:T3
+R2	supports Arg1:T6 Arg2:T7
+R3	supports Arg1:T7 Arg2:T8
+R4	supports Arg1:T12 Arg2:T3
+R5	supports Arg1:T14 Arg2:T22
+R6	supports Arg1:T16 Arg2:T22
+R7	supports Arg1:T17 Arg2:T22
+R8	supports Arg1:T21 Arg2:T22
+R9	supports Arg1:T22 Arg2:T21

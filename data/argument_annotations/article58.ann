@@ -1,0 +1,107 @@
+T7	Premise 359 408	Eight countries control land in the Arctic Circle
+T9	Premise 442 467	The temperature is rising
+T12	Claim 543 571	And Russia is gaining ground
+T13	MajorClaim 574 804	The story of the Arctic begins with temperature but it’s so much more—this is a tale about oil and economics, about humanity and science, about politics and borders and the emerging risk of an emboldened and growing Russian empire
+T14	Claim 807 973	Arctic glaciers, such as this one in Russia’s Novaya Zemlya archipelago, have captured the attention of scientists who are trying to understand how they melt and flow
+T15	Premise 1014 1107	The world as a whole has warmed about 0.9 degrees Celsius (1.7 degrees Fahrenheit) since 1880
+T16	Premise 1109 1185	Arctic temperatures have risen twice that amount during the same time period
+T17	Premise 1187 1328	The most recent year analyzed, October 2015 to September 2016, was 3.5C warmer than the early 1900s, according to the 2016 Arctic Report Card
+T19	Premise 1449 1554	Scientists refer to these dramatic physical changes as “Arctic amplification,” or positive feedback loops
+T20	Claim 1556 1596	It’s a little bit like compound interest
+T21	Premise 1598 1688	A small change snowballs, and Arctic conditions become much less Arctic, much more quickly
+T22	Premise 1692 1762	After studying the Arctic and its climate for three-and-a-half decades
+T24	Claim 1940 1994	The heat is making quick work of its natural prey: ice
+T25	Premise 1997 2140	Scientists track the number of “freezing-degree days,” a running seasonal tally of the amount of time it’s been cold enough for water to freeze
+T26	Premise 2142 2260	The 2016-2017 winter season has seen a dramatic shortfall in coldness—more than 20 percent below the average, a record
+T29	MajorClaim 2531 2612	Sea ice has diminished much faster than scientists and climate models anticipated
+T30	Premise 2614 2689	Last month set a new low for March, out-melting 2015 by 23,000 square miles
+T31	Premise 2692 2820	Compared with the 1981-2010 baseline, the average September sea-ice minimum has been dropping by more than 13 percent per decade
+T32	Premise 2943 2990	while the rest occurs because of human activity
+T33	Premise 2993 3113	Receding ice decreases the Earth’s overall reflectivity, making the Arctic darker and therefore absorbing even more heat
+T34	Claim 3116 3206	The ice is not all the same age or thickness, although it has become somewhat more uniform
+T35	Premise 3208 3299	In 1985, about 45 percent of Arctic sea ice was made up of older and thicker multi-year ice
+T36	Premise 3301 3342	By 2016, that number shrank to 22 percent
+T37	Claim 3345 3545	With a greater percentage of seasonal ice, which disappears each Arctic summer, nations of the north have more time and opportunity to explore the resources beneath and within their territorial waters
+T38	Claim 3548 3599	The sea-ice loss is President Vladimir Putin’s gain
+T39	Claim 3601 3778	Already the largest country on the planet, Russia stands to gain access to shipping routes and energy reserves, and a strategic military advantage from the opening of the Arctic
+T40	Premise 3810 3856	which makes up more than half the Arctic total
+T41	Premise 4051 4190	That dynamic helps bring the Northern Sea Route—shippers’ hoped-for Russian express between Western Europe and East Asia—closer to fruition
+T42	Premise 4217 4291	Alaska has warmed about 3 degrees Fahrenheit over the last several decades
+T44	Premise 4415 4527	Sea ice, by definition, is already in the water and therefore doesn't add to rising ocean levels as it dissolves
+T45	Premise 4529 4605	The same logic does not apply to Greenland’s melting glaciers and ice sheets
+T46	Premise 4607 4665	Last year, Greenland saw the second-largest melt on record
+T47	Premise 4667 4771	The hot season lasted a troubling 30 to 40 days longer than usual in the northeast portion of the region
+T48	Premise 4774 4864	There's enough water locked up in Greenland’s ice sheet to raise seas worldwide by 20 feet
+T49	Claim 4866 5030	While it may take centuries to fully melt, scientists are concerned that we have a limited time to act to prevent the climate from locking in the ice sheet’s demise
+T50	Claim 5034 5087	Life in the Arctic is changing along with the climate
+T51	Premise 5090 5129	Green ice” has appeared in recent years
+T52	Premise 5131 5244	Named for its distinctive hue, this ice is so thin that sunlight shines through, allowing phytoplankton to thrive
+T53	Premise 5246 5374	Vegetation growth in parts of Canadian and Russian Arctic waters has boomed to from 5 and 19 percent above the 2003-2015 average
+T54	Claim 5395 5504	What the change means for delicate ecosystems and fish stocks is the subject of increasing research attention
+T55	Claim 5770 5906	“Canada, Russia and parts of the U.S. seem to be the Arctic nations subject to the largest, let’s say, set of diverse regime-shift risks
+T56	Claim 5910 6042	In the long run, every part of the Arctic food web may have to adjust to the warming atmosphere’s byproduct: altered ocean chemistry
+T57	Claim 6045 6121	Oceans do humanity a huge favor by absorbing some atmospheric carbon dioxide
+T58	Premise 6132 6287	when CO2 dissolves into water, it becomes a weak acid that, as it accumulates, may strain ecosystems that have evolved for today’s slightly alkaline waters
+T59	Premise 6289 6379	The change is happening globally, but cold water “acidifies” more quickly than warmer seas
+T60	Premise 6382 6445	Arctic land stores about twice as much carbon as the atmosphere
+T61	Claim 6601 6684	scientists believe the thawing lands are now emitting more carbon than they take in
+T62	Claim 6717 6804	Perhaps the most visually dramatic change in the landscape has been occurring in Russia
+T63	Premise 6806 6889	Warming temperatures have accelerated the rate of natural underground methane leaks
+T64	Premise 6891 6952	The gas builds up in the soil, forming mounds called “pingoes
+T65	Premise 6955 7048	When the pressure becomes too great, the ground explodes, leaving 30 to 40-meter-wide craters
+T66	Premise 7051 7173	Seismologists have begun to install sensors in the Russian Arctic to give advance notice of fields ready to blow their top
+T67	Claim 7175 7284	These local events are a powerful visual example of how the world is changing in dramatic and surprising ways
+T70	Claim 7498 7644	Many scientists who study the Arctic say that there’s simply no way such dramatic change at the top of the world can avoid affecting life below it
+R0	supports Arg1:T12 Arg2:T13
+R1	supports Arg1:T14 Arg2:T13
+R2	supports Arg1:T15 Arg2:T21
+R3	supports Arg1:T16 Arg2:T21
+R4	supports Arg1:T17 Arg2:T21
+R5	supports Arg1:T19 Arg2:T14
+R6	supports Arg1:T20 Arg2:T21
+R7	supports Arg1:T21 Arg2:T20
+R8	supports Arg1:T22 Arg2:T14
+R9	supports Arg1:T24 Arg2:T13
+R10	supports Arg1:T25 Arg2:T24
+R11	supports Arg1:T26 Arg2:T24
+R12	supports Arg1:T29 Arg2:T13
+R13	supports Arg1:T30 Arg2:T33
+R14	supports Arg1:T31 Arg2:T33
+R15	supports Arg1:T32 Arg2:T33
+R16	supports Arg1:T33 Arg2:T13
+R17	supports Arg1:T34 Arg2:T33
+R18	supports Arg1:T35 Arg2:T34
+R19	joint Arg1:T36 Arg2:T35
+R20	supports Arg1:T37 Arg2:T13
+R21	supports Arg1:T38 Arg2:T13
+R22	supports Arg1:T39 Arg2:T38
+R23	supports Arg1:T40 Arg2:T39
+R24	joint Arg1:T41 Arg2:T40
+R25	supports Arg1:T42 Arg2:T49
+R26	supports Arg1:T44 Arg2:T45
+R27	supports Arg1:T45 Arg2:T49
+R28	supports Arg1:T46 Arg2:T45
+R29	supports Arg1:T47 Arg2:T45
+R30	supports Arg1:T48 Arg2:T49
+R31	supports Arg1:T49 Arg2:T13
+R32	supports Arg1:T50 Arg2:T13
+R33	supports Arg1:T51 Arg2:T50
+R34	joint Arg1:T52 Arg2:T51
+R35	supports Arg1:T53 Arg2:T50
+R36	supports Arg1:T54 Arg2:T50
+R37	supports Arg1:T55 Arg2:T56
+R38	supports Arg1:T56 Arg2:T13
+R39	supports Arg1:T57 Arg2:T56
+R40	supports Arg1:T58 Arg2:T56
+R41	supports Arg1:T59 Arg2:T56
+R42	supports Arg1:T60 Arg2:T56
+R43	supports Arg1:T61 Arg2:T60
+R44	supports Arg1:T62 Arg2:T13
+R45	supports Arg1:T63 Arg2:T62
+R46	supports Arg1:T64 Arg2:T63
+R47	joint Arg1:T65 Arg2:T64
+R48	supports Arg1:T66 Arg2:T62
+R49	supports Arg1:T67 Arg2:T13
+R50	supports Arg1:T70 Arg2:T13
+T1	SuperAnnotatorClaim 1869 1934	what has happened over the last year goes beyond even the extreme
+T2	SuperAnnotatorClaim 2531 2612	Sea ice has diminished much faster than scientists and climate models anticipated

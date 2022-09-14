@@ -1,0 +1,53 @@
+T1	MajorClaim 119 317	The record-breaking heat that made 2016 the hottest year ever recorded has continued into 2017, pushing the world into “truly uncharted territory”, according to the World Meteorological Organisation
+T2	Premise 320 494	The WMO’s assessment of the climate in 2016, published on Tuesday, reports unprecedented heat across the globe, exceptionally low ice at both poles and surging sea-level rise
+T3	Claim 497 646	Global warming is largely being driven by emissions from human activities, but a strong El Niño – a natural climate cycle – added to the heat in 2016
+T4	Premise 648 818	The El Niño is now waning, but the extremes continue to be seen, with temperature records tumbling in the US in February and polar heatwaves pushing ice cover to new lows
+T5	MajorClaim 822 992	Even without a strong El Niño in 2017, we are seeing other remarkable changes across the planet that are challenging the limits of our understanding of the climate system
+T7	Premise 1114 1189	Earth is a planet in upheaval due to human-caused changes in the atmosphere
+T8	Claim 1268 1365	“In general, drastically changing conditions do not help civilisation, which thrives on stability
+T9	Claim 1476 1570	The need for concerted action on climate change has never been so stark nor the stakes so high
+T10	Claim 1574 1652	The new WMO assessment also prompted some scientists to criticise Donald Trump
+T11	Premise 1654 1999	“While the data show an ever increasing impact of human activities on the climate system, the Trump administration and senior Republicans in Congress continue to bury their heads in the sand,” said Prof Sir Robert Watson, a distinguished climate scientist at the UK’s University of East Anglia and a former head of the UN’s climate science panel
+T12	Premise 2003 2247	Our children and grandchildren will look back on the climate deniers and ask how they could have sacrificed the planet for the sake of cheap fossil fuel energy, when the cost of inaction exceeds the cost of a transition to a low-carbon economy,
+T13	Claim 2263 2309	Trump is aiming to cut climate change research
+T14	Claim 2364 2513	“Continued investment in climate research and observations is vital if our scientific knowledge is to keep pace with the rapid rate of climate change
+T15	Premise 2517 2607	2016 saw the hottest global average among thermometer measurements stretching back to 1880
+T16	Claim 2609 2801	But scientific research indicates the world was last this warm about 115,000 years ago and that the planet has not experienced such high levels of carbon dioxide in the atmosphere for 4m years
+T17	Premise 2804 2976	2017 has seen temperature records continue to tumble, in the US where February was exceptionally warm, and in Australia, where prolonged and extreme heat struck many states
+T18	Claim 2978 3036	The consequences have been particularly stark at the poles
+T19	Premise 3040 3229	Arctic ice conditions have been tracking at record low conditions since October, persisting for six consecutive months, something not seen before in the [four-decade] satellite data record,
+T20	Premise 3299 3476	“Over in the southern hemisphere, the sea ice also broke new record lows in the seasonal maximum and minimum extents, leading to the least amount of global sea ice ever recorded
+T21	Claim 3538 3611	The Arctic may be remote, but changes that occur there directly affect us
+T22	Premise 3613 3843	The melting of the Greenland ice sheet is already contributing significantly to sea level rise, and new research is highlighting that the melting of Arctic sea ice can alter weather conditions across Europe, Asia and North America
+T23	Premise 3847 3971	Global sea level rise surged between November 2014 and February 2016, with the El Niño event helping the oceans rise by 15mm
+T24	Premise 3973 4115	That jump would have take five years under the steady rise seen in recent decades, as ice caps melt and oceans get warmer and expand in volume
+T25	Claim 4117 4176	Final data for 2016 sea level rise have yet to be published
+T26	Claim 4179 4269	Climate change harms people most directly by increasing the risk of extreme weather events
+T28	Premise 4352 4505	For example, the Arctic heatwaves are made tens of times more likely and the soaring temperatures seen in Australia in February were made twice as likely
+T29	Premise 4509 4680	With levels of carbon dioxide in the atmosphere consistently breaking new records, the influence of human activities on the climate system has become more and more evident
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T1
+R2	supports Arg1:T4 Arg2:T3
+R3	restate Arg1:T5 Arg2:T1
+R4	supports Arg1:T7 Arg2:T3
+R5	supports Arg1:T8 Arg2:T7
+R6	supports Arg1:T9 Arg2:T1
+R7	supports Arg1:T10 Arg2:T1
+R8	supports Arg1:T11 Arg2:T10
+R9	supports Arg1:T12 Arg2:T10
+R10	supports Arg1:T13 Arg2:T10
+R11	attacks Arg1:T14 Arg2:T13
+R12	supports Arg1:T15 Arg2:T18
+R13	supports Arg1:T16 Arg2:T15
+R14	supports Arg1:T17 Arg2:T18
+R15	supports Arg1:T18 Arg2:T1
+R16	supports Arg1:T19 Arg2:T17
+R17	supports Arg1:T20 Arg2:T17
+R18	supports Arg1:T21 Arg2:T1
+R19	supports Arg1:T22 Arg2:T18
+R20	supports Arg1:T23 Arg2:T21
+R21	joint Arg1:T24 Arg2:T23
+R22	supports Arg1:T25 Arg2:T18
+R23	supports Arg1:T26 Arg2:T1
+R24	supports Arg1:T28 Arg2:T26
+R25	supports Arg1:T29 Arg2:T26

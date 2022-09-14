@@ -1,0 +1,64 @@
+T1	Claim 104 199	Extremely hot days, when temperatures soar to 95 degrees Fahrenheit or higher, can be miserable
+T2	Premise 201 225	Crops wilt in the fields
+T3	Premise 227 273	Electric grids strain to keep pace with demand
+T4	Premise 275 310	People are at greater risk of dying
+T5	MajorClaim 312 398	And those hot temperatures are expected to be much more frequent in the coming decades
+T6	Premise 506 589	shows how 95-degree days (35 degrees Celsius) are expected to multiply this century
+T7	Premise 633 808	In this scenario, countries would take some measures, but not drastic ones, to curb emissions — roughly the trajectory of the current pledges under the Paris climate agreement
+T8	Claim 811 892	The resulting global warming would still cause significant shifts for many cities
+T9	Premise 894 1002	In Washington, from 1986 to 2005, an average of seven days each year had temperatures of at least 95 degrees
+T10	Premise 1004 1102	By the end of the century, the city can expect 29 of these extremely hot days per year, on average
+T12	Premise 1155 1234	Phoenix is used to the heat, averaging 124 days per year with 95-degree weather
+T13	Premise 1236 1360	At the end of the century, that’s expected to increase to around 155 days — an extra month of extreme temperatures each year
+T14	Premise 1362 1446	Madrid would go from eight severely hot days per year to 43, Beijing from nine to 35
+T15	Claim 1449 1498	The swings are even greater closer to the equator
+T16	Premise 1500 1618	New Delhi, India’s capital city, has historically averaged 105 days with temperatures of at least 95 degrees each year
+T17	Premise 1620 1680	That’s likely to rise to a range of 137 to 200 days per year
+T18	Claim 1683 1738	Things could get worse if countries fail to take action
+T19	Claim 1740 1978	If the world’s nations took no action on global warming, and emissions continued to rise at the same pace they did in the first decade of this century — with total global warming of 7.2 degrees Fahrenheit or more by the end of the century
+T21	Premise 2037 2152	By 2100, Washington could swelter in 95-degree weather for fully one-fifth of the year — around 74 days, on average
+T22	Premise 2154 2256	Large swaths of Brazil and sub-Saharan Africa would experience these temperatures for most of the year
+T23	Claim 2259 2391	This worst case for global warming now appears less likely as global coal use declines and nations slowly move toward cleaner energy
+T25	Premise 2441 2562	In the United States, electricity use soars as temperatures rise and more households use air-conditioning more frequently
+T26	Premise 2564 2730	One recent study found that the United States’ electric grid would have to handle a 7.2 percent increase in peak demand this century under a moderate warming scenario
+T27	Claim 2733 2809	The flip side is that air-conditioning can be an essential adaptation tactic
+T28	Premise 2811 2905	In countries without widespread cooling, heat deaths rise more sharply during the hottest days
+T29	Premise 2907 3054	One study estimated that heat deaths in India increase by 3.2 percent for every 1.8 degrees Fahrenheit above 68 (or every 1 degree Celsius above 20
+T30	Claim 3057 3150	Energy use in many countries may rise sharply as people struggle to adapt to a hotter climate
+T31	Premise 3153 3402	Other scientists have found that corn and soybean yields in the United States plummet precipitously when temperatures rise above 84 degrees Fahrenheit (29 degrees Celsius), and that worker productivity declines sharply, particularly for outdoor jobs
+T32	Claim 3404 3503	And researchers are trying to understand how crime and conflict might rise as temperatures increase
+T33	Claim 3518 3629	people will be better able to adapt if they have a better idea of what individual cities and regions can expect
+T34	Premise 3690 3885	In the United States, some urban planners are already experimenting with techniques like adding green spaces or increasing the reflectivity of rooftops to cool down city centers during heat waves
+T35	Premise 3888 4002	“Right now, when you start talking to people about higher temperatures, they tend to think, great, more beach days
+T36	Premise 4124 4266	What’s often less appreciated is just how much an extremely hot day can distort our lives in all sorts of ways we don’t often even think about
+R0	supports Arg1:T1 Arg2:T5
+R1	supports Arg1:T2 Arg2:T1
+R2	supports Arg1:T3 Arg2:T1
+R3	supports Arg1:T4 Arg2:T1
+R4	supports Arg1:T6 Arg2:T7
+R5	joint Arg1:T7 Arg2:T6
+R6	supports Arg1:T8 Arg2:T5
+R7	supports Arg1:T9 Arg2:T8
+R8	supports Arg1:T10 Arg2:T8
+R9	supports Arg1:T12 Arg2:T8
+R10	joint Arg1:T13 Arg2:T12
+R11	supports Arg1:T14 Arg2:T8
+R12	restate Arg1:T15 Arg2:T8
+R13	supports Arg1:T16 Arg2:T15
+R14	joint Arg1:T17 Arg2:T16
+R15	supports Arg1:T19 Arg2:T5
+R16	supports Arg1:T21 Arg2:T19
+R17	supports Arg1:T22 Arg2:T19
+R18	attacks Arg1:T23 Arg2:T19
+R19	supports Arg1:T25 Arg2:T23
+R20	supports Arg1:T26 Arg2:T25
+R21	attacks Arg1:T27 Arg2:T25
+R22	supports Arg1:T28 Arg2:T27
+R23	supports Arg1:T29 Arg2:T28
+R24	supports Arg1:T30 Arg2:T27
+R25	supports Arg1:T31 Arg2:T30
+R26	supports Arg1:T32 Arg2:T30
+R27	supports Arg1:T33 Arg2:T30
+R28	supports Arg1:T34 Arg2:T33
+R29	supports Arg1:T35 Arg2:T32
+R30	attacks Arg1:T36 Arg2:T35

@@ -1,0 +1,39 @@
+T1	MajorClaim 197 354	The U.S. government is at it again, hyping meaningless records in a parameter that does not exist in order to frighten us about something that doesn’t matter
+T2	Claim 483 555	July 2015 was the hottest month since instrumental records began in 1880
+T5	Claim 799 939	government spokespeople rarely mention the inconvenient fact that these records are being set by less than the uncertainty in the statistics
+T6	Premise 941 1091	NOAA claims an uncertainty of 14 one-hundredths of a degree in its temperature averages, or near twice the amount by which they say the record was set
+T8	Claim 1225 1272	So, the new temperature records are meaningless
+T10	Claim 1322 1396	Such misrepresentations are now commonplace in NOAA and NASA announcements
+T12	Claim 1512 1570	Scientists within the agencies know that this is dishonest
+T13	Claim 1593 1682	calculating so-called global average temperatures to hundredths of a degree is irrational
+T14	Premise 1684 1772	After all, there is very little data for the 70 percent of Earth’s surface that is ocean
+T19	Claim 2394 2583	In the final analysis, it is no more meaningful to calculate an average temperature for a whole planet than it is to calculate the average telephone number in the Washington D.C. phone book
+T20	Claim 2585 2705	Temperature, like viscosity and density, and of course phone numbers, is not something that can be meaningfully averaged
+T21	Claim 2707 2742	“Global temperature” does not exist
+T22	Premise 2867 2933	Temperature is not an amount of something [like height or weight].
+T23	Claim 3174 3402	Even if enough accurate surface temperature measurements existed to ensure reasonable planetary coverage (it doesn’t) and to calculate some sort of global temperature statistic, interpreting its significance would be challenging
+T24	Claim 3543 3567	Science does not tell us
+T26	Claim 3818 3931	Even if you could calculate some sort of meaningful global temperature statistic, the figure would be unimportant
+T27	Premise 3981 4024	since we all live in regions, not the globe
+T31	Claim 4392 4495	The sad answer will be that it had nothing to do with the realities of science, technology or economics
+T32	Claim 4497 4725	The tragic blunder is based on satisfying political expedience for a privileged few, egged on by vested financial interests, and supported by largely uninformed activists granted the media platforms needed to sway public opinion
+T33	Premise 4804 4864	“It is a scam that dwarfs all others that have come before.”
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T5 Arg2:T1
+R2	supports Arg1:T6 Arg2:T5
+R3	supports Arg1:T8 Arg2:T1
+R4	supports Arg1:T10 Arg2:T1
+R5	supports Arg1:T12 Arg2:T1
+R6	supports Arg1:T13 Arg2:T1
+R7	supports Arg1:T14 Arg2:T13
+R8	supports Arg1:T19 Arg2:T1
+R9	supports Arg1:T20 Arg2:T19
+R10	supports Arg1:T21 Arg2:T19
+R11	supports Arg1:T22 Arg2:T20
+R12	supports Arg1:T23 Arg2:T1
+R13	supports Arg1:T24 Arg2:T23
+R14	supports Arg1:T26 Arg2:T1
+R15	supports Arg1:T27 Arg2:T26
+R16	supports Arg1:T31 Arg2:T32
+R17	supports Arg1:T32 Arg2:T1
+R18	supports Arg1:T33 Arg2:T32

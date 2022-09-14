@@ -1,0 +1,54 @@
+T2	Premise 465 564	for the first time we are seeing both the Arctic and Antarctic sea ice running at record low levels
+T3	Claim 740 787	record low sea ice is nothing new in the Arctic
+T4	Claim 789 842	this is a surprising turn of events for the Antarctic
+T5	Premise 852 934	sea ice in the Arctic has seen a rapid and consistent decline over the past decade
+T7	Premise 1091 1164	from 2012 through 2014 reached a record high for Antarctic sea ice extent
+T8	Claim 1166 1275	Skeptics have long pointed to ice gain in the Southern Hemisphere as evidence climate change wasn't occurring
+T12	Claim 1820 1867	Temperatures in the Arctic have soared recently
+T13	Premise 1958 2059	Air temperatures have been running more than 35 degrees Fahrenheit (20 degrees Celsius) above average
+T14	Premise 2079 2177	sea ice in the northern latitudes is at a lower level than ever observed for this time of the year
+T15	Premise 2179 2260	October and November are typically a time of rapid ice gain for the Arctic region
+T17	Premise 2383 2514	Air temperatures plummet to below zero degrees Fahrenheit and parts of the Arctic Ocean not covered with ice quickly become covered
+T18	Premise 2520 2631	this year, those air temperatures are staying much warmer, closer to the freezing mark of 32 degrees Fahrenheit
+T20	Claim 2755 2831	the water temperatures in the Arctic Ocean are several degrees above average
+T23	Claim 3123 3275	The interaction between Arctic ocean temperatures and the loss of ice formation leading to continuing record minimums is clearly a climate change signal
+T24	Claim 3701 3865	As it becomes clearer that the entire climate system in the Arctic, and potentially the Antarctic, is changing rapidly, the question now is what the impacts will be
+T25	Claim 3971 4025	What happens in the Arctic DOES NOT stay in the Arctic
+T26	Premise 4028 4140	The Arctic region impacts the weather in the rest of the planet -- in particular, North America, Europe and Asia
+T27	Premise 4183 4360	the arctic cold regularly "spills out" into the continents and can usher in major cold air outbreaks with crippling snow and ice storms, along with dangerously cold temperatures
+T28	Premise 4362 4473	Usually, this is regulated by the polar vortex that circles the North Pole several miles up in the stratosphere
+T29	Premise 4720 4854	Any change in the polar vortex would mean a change in the frequency and intensity of winter storms in the areas where most people live
+T30	Claim 4856 5095	Researchers are looking at one such theory, which considers a warm Arctic and cold continents -- basically, a warmer Arctic featuring less sea ice that leads to more frequent spilling of cold air that's normally trapped by the polar vortex
+T31	Premise 5097 5174	That would mean the continents are hit with more frequent shots of Arctic air
+T32	Premise 5176 5354	Even though that Arctic air might not be as cold as normal, it is still plenty frigid to wreak havoc on populated places, locking them into long cold spells and major snow storms
+T33	Claim 5357 5408	There's a classic example of it happening right now
+T34	Premise 5410 5594	Large swaths of Europe and Asia have seen bitter cold and record snows over the past several weeks, all while the Arctic was bathing in temperatures 30 degrees Fahrenheit above average
+T35	Claim 5596 5734	It's far too early to tell if what we are seeing in the Arctic, and now the Antarctic, is a sharp shift towards warmer poles with less ice
+T36	Claim 5736 5873	Scientists are quick to point out that weather in these regions can change quickly, but this is another expected result of climate change
+R0	supports Arg1:T4 Arg2:T12
+R1	supports Arg1:T5 Arg2:T3
+R2	supports Arg1:T7 Arg2:T5
+R3	joint Arg1:T8 Arg2:T7
+R4	supports Arg1:T12 Arg2:T36
+R5	supports Arg1:T13 Arg2:T12
+R6	supports Arg1:T14 Arg2:T12
+R7	supports Arg1:T15 Arg2:T14
+R8	joint Arg1:T17 Arg2:T15
+R9	supports Arg1:T18 Arg2:T14
+R10	supports Arg1:T20 Arg2:T23
+R11	supports Arg1:T23 Arg2:T20
+R12	supports Arg1:T25 Arg2:T24
+R13	supports Arg1:T26 Arg2:T25
+R14	supports Arg1:T27 Arg2:T25
+R15	joint Arg1:T28 Arg2:T27
+R16	supports Arg1:T29 Arg2:T31
+R17	supports Arg1:T30 Arg2:T29
+R18	supports Arg1:T31 Arg2:T30
+R19	supports Arg1:T32 Arg2:T30
+R20	supports Arg1:T33 Arg2:T30
+R21	supports Arg1:T34 Arg2:T33
+R22	supports Arg1:T36 Arg2:T35
+T1	SuperAnnotatorClaim 334 410	sea ice in the Arctic and the Antarctic are at record lows this time of year
+T6	SuperAnnotatorClaim 4720 4854	Any change in the polar vortex would mean a change in the frequency and intensity of winter storms in the areas where most people live
+T9	SuperAnnotatorPremise 4856 5095	Researchers are looking at one such theory, which considers a warm Arctic and cold continents -- basically, a warmer Arctic featuring less sea ice that leads to more frequent spilling of cold air that's normally trapped by the polar vortex
+T10	SuperAnnotatorMajorClaim 5596 5734	It's far too early to tell if what we are seeing in the Arctic, and now the Antarctic, is a sharp shift towards warmer poles with less ice

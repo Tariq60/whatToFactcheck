@@ -1,0 +1,80 @@
+T1	Claim 64 195	The Obama administration released a new report this week that paints a stark picture of how climate change will affect human health
+T2	Claim 197 298	Higher temperatures, we’re told, will be deadly—killing “thousands to tens of thousands” of Americans
+T3	Premise 300 350	The report is subtitled “A Scientific Assessment,”
+T5	MajorClaim 393 484	But the report reads as a political sledgehammer that hypes the bad and skips over the good
+T6	Claim 487 524	It also ignores inconvenient evidence
+T8	Claim 584 670	Climate change is a genuine problem that will eventually be a net detriment to society
+T9	Premise 672 768	Gradually rising temperatures across decades will increase the number of hot days and heat waves
+T10	Claim 770 944	If humans make no attempts whatsoever to adapt—a curious assumption that the report inexplicably relies on almost throughout—the total number of heat-related deaths will rise
+T11	Claim 946 1038	But correspondingly, climate change will also reduce the number of cold days and cold spells
+T13	Claim 1111 1239	Consider a rigorous study published last year in the journal Lancet that examined temperature-related mortality around the globe
+T14	Premise 1241 1491	The researchers looked at data on more than 74 million deaths in 384 locations across 13 areas: cold countries like Canada and Sweden, temperate nations like Spain, South Korea and Australia, and subtropical and tropical ones like Brazil and Thailand
+T15	Premise 1494 1705	The Lancet researchers found that about 0.5%—half a percent—of all deaths are associated with heat, not only from acute problems like heat stroke, but also increased mortality from cardiac events and dehydration
+T16	Premise 1707 1919	But more than 7% of deaths are related to cold—counting hypothermia, as well as increased blood pressure and risk of heart attack that results when the body restricts blood flow in response to frigid temperatures
+T17	Premise 1921 2001	In the U.S. about 9,000 people die from heat each year but 144,000 die from cold
+T18	Claim 2004 2219	The administration’s new report refers to this study—it would be difficult to ignore, since it is the world’s largest—but only in trivial ways, such as to establish the relationship between temperature and mortality
+T19	Claim 2221 2327	Not once does this “scientific assessment” acknowledge that cold deaths significantly outweigh heat deaths
+T20	Premise 2389 2519	“the reduction in premature deaths from cold are expected to be smaller than the increase in deaths from heat in the United States
+T21	Premise 2522 2566	Six footnotes are attached to that statement
+T23	Claim 2631 2748	another flat-out disagrees with this assertion, projecting that cold deaths will fall more than heat deaths will rise
+T25	Claim 2751 2859	Further, the figure that made it into news reports, those “tens of thousands” of additional deaths, is wrong
+T26	Premise 2861 3079	The main model that the administration’s report relies on to estimate temperature-related mortality finds, in a worst-case scenario, 17,680 fewer cold deaths in 2100, but 27,312 more heat deaths—a net increase of 9,632
+T27	Premise 3082 3210	Moreover, the model considers cold deaths only from October to March, focusing on those caused by extreme temperatures in winter
+T28	Premise 3212 3299	Most cold deaths actually occur during moderate temperatures, as the Lancet study shows
+T29	Premise 3301 3400	In the U.S., about 12,000 people die from extreme cold each year but 132,000 die from moderate cold
+T30	Premise 3402 3501	In London, more than 70% of all cold-related deaths occur on days warmer than 41 degrees Fahrenheit
+T32	Claim 3635 3781	Thus, one of the central findings in the administration’s new report is contradicted by a large number of scientific studies from around the globe
+T33	Premise 3783 3917	A 2009 paper from the European Union expects that the reduction in cold deaths will definitely outweigh extra heat deaths in the 2020s
+T34	Premise 3919 4108	Even near the end of the century, in the 2080s, the EU study projects an increase in heat deaths of “between 60,000 and 165,000” and a decrease of cold deaths of “between 60,000 and 250,000
+T35	Claim 4111 4233	In other words, the effects will probably balance each other out, but warming could save as many as 85,000 lives each year
+T36	Premise 4236 4420	An academic paper published two years ago in Environmental Health Perspectives similarly shows that global warming will lead to a net reduction in deaths in both the U.K. and Australia
+T37	Premise 4422 4535	In England and Wales today, the authors write, statistics show that heat kills 1,500 people and cold kills 32,000
+T38	Premise 4537 4615	In the 2080s, they calculate that increased heat will kill an additional 3,500
+T41	Premise 4757 4997	Globally, one estimate of the health effects of climate change, published in 2006 by Ecological Economics, shows 400,000 more respiratory deaths (mostly from heat) by midcentury, but 1.8 million fewer cardiovascular deaths (mostly from cold
+T42	MajorClaim 5001 5166	In pushing too hard for the case that global warming is universally bad for everything, the administration’s report undermines the reasonable case for climate action
+T43	Claim 5168 5255	Focusing on only the bad side of the ledger destroys academic and political credibility
+T44	Claim 5330 5434	there is a much simpler way to gauge whether people in the U.S. consider higher temperatures preferable:
+T45	Premise 5461 5572	Migration patterns show people heading for warm states like Texas and Florida, not snowy Minnesota and Michigan
+T47	Premise 5598 5765	A 2009 paper in the Review of Economics and Statistics estimates that because people seek out warmth, slightly more die from the heat, but many fewer die from the cold
+T48	Premise 5767 5850	In total, the actions of these sun-seekers avert 4,600 deaths in the U.S. each year
+T49	Claim 5852 5957	You won’t be surprised to learn that the study wasn’t mentioned in the administration’s half-baked report
+R0	supports Arg1:T1 Arg2:T5
+R1	supports Arg1:T2 Arg2:T5
+R2	supports Arg1:T3 Arg2:T1
+R3	supports Arg1:T5 Arg2:T6
+R4	supports Arg1:T6 Arg2:T5
+R5	attacks Arg1:T8 Arg2:T5
+R6	supports Arg1:T9 Arg2:T8
+R7	supports Arg1:T10 Arg2:T5
+R8	attacks Arg1:T11 Arg2:T10
+R9	supports Arg1:T13 Arg2:T6
+R10	supports Arg1:T14 Arg2:T13
+R11	supports Arg1:T15 Arg2:T13
+R12	supports Arg1:T16 Arg2:T13
+R13	supports Arg1:T17 Arg2:T13
+R14	supports Arg1:T18 Arg2:T5
+R15	supports Arg1:T19 Arg2:T5
+R16	supports Arg1:T20 Arg2:T6
+R17	supports Arg1:T21 Arg2:T20
+R18	attacks Arg1:T23 Arg2:T20
+R19	supports Arg1:T25 Arg2:T5
+R20	supports Arg1:T26 Arg2:T25
+R21	supports Arg1:T27 Arg2:T25
+R22	supports Arg1:T28 Arg2:T25
+R23	joint Arg1:T29 Arg2:T28
+R24	supports Arg1:T30 Arg2:T25
+R25	supports Arg1:T32 Arg2:T5
+R26	supports Arg1:T33 Arg2:T32
+R27	supports Arg1:T34 Arg2:T32
+R28	supports Arg1:T35 Arg2:T5
+R29	supports Arg1:T36 Arg2:T35
+R30	supports Arg1:T37 Arg2:T35
+R31	supports Arg1:T38 Arg2:T35
+R32	supports Arg1:T41 Arg2:T35
+R33	restate Arg1:T42 Arg2:T5
+R34	supports Arg1:T43 Arg2:T42
+R35	supports Arg1:T44 Arg2:T42
+R36	supports Arg1:T45 Arg2:T44
+R37	supports Arg1:T47 Arg2:T44
+R38	supports Arg1:T48 Arg2:T44
+R39	supports Arg1:T49 Arg2:T42

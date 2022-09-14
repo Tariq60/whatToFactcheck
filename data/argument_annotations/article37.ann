@@ -1,0 +1,47 @@
+T3	Premise 284 480	It was early 2008, and the distinguished scientist was predicting imminent and irreversible global warming, which would soon make large parts of the planet uninhabitably hot or put them underwater
+T4	Claim 609 659	it was too late for ethical consumption to save us
+T8	Premise 913 1158	His Gaia hypothesis, which contends that the earth is a single, self-regulating organism, is now accepted as the founding principle of most climate science, and his invention of a device to detect CFCs helped identify the hole in the ozone layer
+T18	Claim 2039 2112	What has changed dramatically, however, is his position on climate change
+T24	Premise 2472 2513	The computer models just weren’t reliable
+T28	Claim 2799 2862	There are various possible explanations for his change of heart
+T29	Claim 2864 2893	One is that Lovelock is right
+T30	Claim 2974 3045	Another is that his iconoclastic sensibility made revision irresistible
+T33	Premise 3424 3565	All things being equal – “and it’s only got to take one sizable volcano to erupt and all the models, everything else, is right off the board”
+T34	Claim 3568 3741	he expects that before the consequences of global warming can impact on us significantly, something else will have made our world unrecognisable, and threaten the human race
+T74	MajorClaim 7114 7245	Because quite soon – before we’ve reached the end of this century, even – I think that what people call robots will have taken over
+T82	Premise 7487 7600	Nick Bostrom has persuaded many people that artificial intelligence poses a real threat to the future of humanity
+T83	Premise 7602 7700	Elon Musk and Stephen Hawking, among others, have called for urgent research to mitigate the risks
+T86	Premise 7828 7886	“We’re already happily letting computers design themselves
+T88	Claim 8129 8186	Computers will develop independent volition and intuition
+T98	Claim 8675 8758	Lovelock doesn’t sound the least bit troubled by the prospect of robots taking over
+T99	Premise 8819 8989	“Once they become at all established anywhere, that’s the end, because to robots time happens one million times faster – that’s a fairly exact figure – than it does to us
+T100	Premise 8991 9033	That’s rather wonderful in a way, isn’t it
+T101	Premise 9037 9057	I ask him to explain
+T107	Claim 9465 9577	It is possible, he goes on, that human beings may fuse with robots to become a blend of robotic and human tissue
+T114	Claim 9801 9848	The implications for climate change are obvious
+T118	Premise 10096 10152	“They won’t give a fourpenny fuck about the temperature,
+T119	Premise 10250 10368	They could accommodate infinitely greater change through climate change than we can, before things get tricky for them
+T130	Claim 11048 11111	whereas the robots might see no use for our continued existence
+T142	Claim 11661 11785	Lovelock was no less bafflingly cheerful when he believed climate change was about to wipe out 80% of the world’s population
+R0	supports Arg1:T3 Arg2:T4
+R1	supports Arg1:T4 Arg2:T3
+R2	supports Arg1:T8 Arg2:T4
+R3	supports Arg1:T24 Arg2:T29
+R4	supports Arg1:T28 Arg2:T34
+R5	joint Arg1:T29 Arg2:T28
+R6	joint Arg1:T30 Arg2:T28
+R7	supports Arg1:T34 Arg2:T74
+R8	supports Arg1:T74 Arg2:T33
+R9	supports Arg1:T82 Arg2:T74
+R10	supports Arg1:T83 Arg2:T74
+R11	supports Arg1:T86 Arg2:T88
+R12	supports Arg1:T88 Arg2:T74
+R13	supports Arg1:T98 Arg2:T74
+R14	supports Arg1:T99 Arg2:T98
+R15	supports Arg1:T100 Arg2:T98
+R16	supports Arg1:T101 Arg2:T98
+R17	supports Arg1:T107 Arg2:T74
+R18	supports Arg1:T114 Arg2:T33
+R19	supports Arg1:T118 Arg2:T114
+R20	supports Arg1:T119 Arg2:T118
+R21	supports Arg1:T130 Arg2:T33

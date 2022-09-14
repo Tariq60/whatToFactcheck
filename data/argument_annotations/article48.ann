@@ -1,0 +1,68 @@
+T2	MajorClaim 264 460	The disaster unfolding at Oroville, where precipitation is more than double the average, is the latest reminder that the United States needs a climate-smart upgrade of our water management systems
+T3	Claim 463 515	In the West, much of our water infrastructure is old
+T4	Premise 517 602	Oroville Dam, north of Sacramento, was completed in 1968, nearly a half a century ago
+T5	Premise 604 709	Other major components of our water system are generations older, and maintenance has not been a priority
+T6	Claim 711 929	The damage to Oroville Dam, where the primary spillway developed a giant gash and the emergency spillway threatened to erode, illustrates the hazard of relying on aging infrastructure to protect us from extreme weather
+T8	Premise 978 1118	Our water system was designed and built in an old climate, one in which extremely warm years were less common and snowpack was more reliable
+T14	Claim 1889 2002	The recent drought has highlighted the pressure that a changing climate puts on a snowpack-dependent water system
+T15	Premise 2004 2165	With the shift toward more rain rather than snow, and the earlier melting of the snowpack, water managers need to release water more frequently for flood control
+T17	Premise 2342 2485	Because these storms are relatively warm, they are likely to bring rain to the surrounding mountains, speeding the flow of water behind the dam
+T18	Claim 2488 2611	The juxtaposition of five years of hot, dry conditions followed by more rain than reservoirs can store may seem incongruous
+T19	Premise 2622 2716	this is exactly what climate scientists have predicted for California since at least the 1980s
+T20	Premise 2858 2933	Recent work from my lab shows that in fact this pattern is already emerging
+T21	Claim 3046 3135	The other bitter reality is that this extremely wet winter will not wash away the drought
+T22	Premise 3137 3245	Depending where one looks, California lost out on one to three full years of precipitation from 2012 to 2016
+T23	Premise 3247 3371	That is a lot of water to make up in one year, and as of last week almost half of California was still in a state of drought
+T25	Premise 3473 3691	They have caused thousands of California residents to go without running water, resulted in groundwater contamination and permanent loss of aquifer storage capacity, and have severely stressed tens of millions of trees
+T26	Claim 3693 3836	As a result, even after this wet year, rural communities, groundwater aquifers and forest ecosystems will still feel the effects of the drought
+T27	Premise 3839 3948	As the last five years illustrate, California’s water system is not equipped for climate change’s “new normal
+T29	Premise 4197 4252	climate change is pushing our water system to the limit
+T30	Claim 4254 4401	Investments in “climate smart” infrastructure can ensure the safety and security of Americans in the face of climate stresses now and in the future
+T33	Claim 4704 4765	we need to deploy technologies that can increase water supply
+T34	Premise 4860 5080	wastewater recycling technologies have improved to the point that clean, safe water can now be delivered at reduced energy cost and can even be an energy source by using the organic matter in wastewater to produce energy
+T36	Claim 5213 5342	we need to acknowledge that a water system that relies on snowpack for both water storage and flood control is increasingly risky
+T37	Claim 5344 5478	To make up for loss of snowpack, we need to build infrastructure that enables us to use excess runoff to recharge groundwater aquifers
+T39	Claim 5670 5895	we need to prioritize infrastructure that helps us reliably supply safe water to both urban and rural communities while also ensuring that our vibrant agricultural sector and treasured ecosystems have the water that they need
+T40	Premise 5897 6059	Creating new supply and storage will help, but ensuring equity will require that infrastructure investments simultaneously provide for all of these constituencies
+T41	Claim 6062 6203	Fourth, although California has made tremendous progress in improving efficiency, this drought shows that there is still more room to improve
+T42	Premise 6205 6340	New technologies such as “smart” sensors, coupled with expanded water markets, offer opportunities to further increase water efficiency
+T43	Claim 6343 6445	Each of these infrastructure investments would increase the safety and security of Americans right now
+R0	supports Arg1:T3 Arg2:T2
+R1	supports Arg1:T4 Arg2:T3
+R2	supports Arg1:T5 Arg2:T3
+R3	supports Arg1:T6 Arg2:T2
+R4	supports Arg1:T8 Arg2:T6
+R5	supports Arg1:T14 Arg2:T2
+R6	supports Arg1:T15 Arg2:T14
+R7	supports Arg1:T17 Arg2:T14
+R8	supports Arg1:T18 Arg2:T2
+R9	supports Arg1:T19 Arg2:T18
+R10	supports Arg1:T20 Arg2:T18
+R11	supports Arg1:T21 Arg2:T2
+R12	supports Arg1:T22 Arg2:T21
+R13	supports Arg1:T23 Arg2:T22
+R14	supports Arg1:T25 Arg2:T26
+R15	supports Arg1:T26 Arg2:T2
+R16	supports Arg1:T27 Arg2:T30
+R17	supports Arg1:T29 Arg2:T30
+R18	supports Arg1:T30 Arg2:T2
+R19	supports Arg1:T33 Arg2:T43
+R20	supports Arg1:T34 Arg2:T33
+R21	supports Arg1:T36 Arg2:T43
+R22	supports Arg1:T37 Arg2:T36
+R23	supports Arg1:T39 Arg2:T43
+R24	supports Arg1:T40 Arg2:T39
+R25	supports Arg1:T41 Arg2:T43
+R26	supports Arg1:T42 Arg2:T41
+R27	supports Arg1:T43 Arg2:T2
+T1	SuperAnnotatorClaim 936 976	age and upkeep are not the only problems
+T7	SuperAnnotatorPremise 1138 1214	we use the same dams and reservoirs for both water storage and flood control
+T9	SuperAnnotatorPremise 1219 1421	during the wet season, reservoir managers continuously balance the dual pressures of storing as much water as possible for the dry summer and releasing sufficient water to create room for the next storm
+T10	SuperAnnotatorClaim 1424 1488	This system relies on the natural reservoir of mountain snowpack
+T11	SuperAnnotatorPremise 1701 1796	When precipitation falls as snow, it stays in the mountains rather than flowing into reservoirs
+T12	SuperAnnotatorPremise 1798 1886	This leaves more room in reservoirs to prevent flooding downstream during heavy rainfall
+T13	SuperAnnotatorPremise 3373 3471	The moisture deficits that have accumulated during the drought have not been seen in our lifetimes
+T16	SuperAnnotatorClaim 3839 3948	As the last five years illustrate, California’s water system is not equipped for climate change’s “new normal
+T24	SuperAnnotatorPremise 3951 4107	That water system must simultaneously provide for the country’s largest population and agricultural sector, and one of its most diverse natural environments
+T28	SuperAnnotatorPremise 5082 5202	Investments in infrastructure to capture, store and clean urban storm water will also create new sources of water supply
+T31	SuperAnnotatorPremise 5480 5660	This will have the dual benefit of replenishing groundwater that is drawn down during hot dry spells and capturing storm water that is lost when water is released for flood control

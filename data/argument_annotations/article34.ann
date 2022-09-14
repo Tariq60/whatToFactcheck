@@ -1,0 +1,82 @@
+T4	MajorClaim 715 937	For decades, as the global warming created by human emissions caused land ice to melt and ocean water to expand, scientists warned that the accelerating rise of the sea would eventually imperil the United States’ coastline
+T7	Claim 1158 1330	Federal scientists have documented a sharp jump in this nuisance flooding — often called “sunny-day flooding” — along both the East Coast and the Gulf Coast in recent years
+T8	Claim 1332 1436	The sea is now so near the brim in many places that they believe the problem is likely to worsen quickly
+T11	Claim 1788 1888	In coastal regions, that compounds the damage from the increasingly heavy rains plaguing the country
+T12	Claim 1955 2034	Scientists say these rains are also a consequence of human greenhouse emissions
+T15	Claim 2328 2405	Local governments, under pressure from annoyed citizens, are beginning to act
+T16	Premise 2407 2486	Elections are being won on promises to invest money to protect against flooding
+T18	Claim 2680 2724	mayors of both parties are sounding an alarm
+T19	Premise 2728 2816	I’m a Republican, but I also realize, by any objective analysis, the sea level is rising
+T20	Claim 2954 3009	local leaders say they cannot tackle this problem alone
+T21	Premise 3011 3182	They are pleading with state and federal governments for guidance and help, including billions to pay for flood walls, pumps and road improvements that would buy them time
+T22	Claim 3189 3229	Congress has largely ignored these pleas
+T26	Premise 3639 3825	The federal government spends billions of taxpayer dollars in ways that add to the risks, by subsidizing local governments and homeowners who build in imperiled locations along the coast
+T27	Claim 3828 3909	As the problem worsens, experts are warning that national security is on the line
+T31	Premise 5786 5832	Because the land is sinking as the ocean rises
+T34	Claim 6158 6223	The biggest problems involve frequent flooding of homes and roads
+T35	Premise 6225 6355	As the sea rises, hundreds of tidal creeks and marshes that thread through the region are bringing saltwater to people’s doorsteps
+T38	Premise 7690 7782	The Obama administration recently gave Virginia more than $100 million to carry the plan out
+T39	Claim 7924 8023	the size of that grant illustrates the scope of the problem confronting the region, and the country
+T40	Premise 8025 8119	protecting a single neighborhood from rising water can easily cost tens of millions of dollars
+T41	Premise 8121 8164	Sea walls and streets may have to be raised
+T43	Claim 8252 8426	While the Obama administration is trying to create a few showcase neighborhoods, there is no sign Congress is prepared to spend the money that cities and states say they need
+T47	Premise 9178 9336	an effort by the Pentagon to appoint officers to take charge of climate resilience led to a House vote prohibiting taxpayer money from being spent on the plan
+T48	Premise 9339 9581	“When we distract our military with a radical climate change agenda, we detract from their main purpose of defending America from enemies” like the Islamic State, said Mr. Buck of Colorado, the Republican congressman who sponsored the measure
+T51	Claim 11762 11993	The opponents of climate science in Congress, and the tiny group of climate researchers allied with them, have argued that the concerns of thousands of mainstream scientists about the future are based on unproven computer forecasts
+T52	Claim 12050 12100	mounting evidence of what has happened in the past
+T53	Claim 12132 12267	it has become clear that human civilization, roughly 6,000 years old, developed during an unusually stable period for global sea levels
+T60	Premise 13390 13510	The research, likely to take years, may supply a figure for how quickly the ocean was able to rise under past conditions
+T62	Premise 13571 13722	The release of greenhouse gases from human activity is causing the planet to warm rapidly, perhaps faster than at any other time in the Earth’s history
+T65	Claim 13941 14020	recent research suggests the breakup of West Antarctica could occur much faster
+T66	Claim 14022 14184	In the worst-case scenario, this research suggests, the rate of sea-level rise could reach a foot per decade by the 22nd century, about 10 times faster than today
+T67	Claim 14187 14290	In 2013, scientists reached a consensus that three feet was the highest plausible rise by the year 2100
+T77	Claim 15155 15373	Along the East Coast, scientists with the National Oceanic and Atmospheric Administration say that many communities have already, or will soon, pass a threshold where sunny-day flooding starts to happen much more often
+T78	Premise 15376 15469	“When you look at the historical record, there’s no trend saying the flooding is going down,”
+T79	Premise 15504 15623	The trends are all very clear. They’re going up, and they’re going up in many of these areas in an accelerating fashion
+T80	Claim 15715 15803	It is fragile, and might not survive if Donald J. Trump is elected president in November
+T82	Premise 15834 15937	But the air is already so full of greenhouse gases that most land ice on the planet has started to melt
+T83	Claim 15942 16051	even if the deal survives, it will, at best, slow the rise of the sea and perhaps limit the ultimate increase
+T91	Claim 18672 18699	one likely to cost billions
+R0	supports Arg1:T7 Arg2:T4
+R1	supports Arg1:T8 Arg2:T4
+R2	supports Arg1:T11 Arg2:T4
+R3	supports Arg1:T12 Arg2:T4
+R4	supports Arg1:T15 Arg2:T11
+R5	supports Arg1:T16 Arg2:T15
+R6	supports Arg1:T18 Arg2:T15
+R7	supports Arg1:T19 Arg2:T18
+R8	supports Arg1:T20 Arg2:T15
+R9	supports Arg1:T21 Arg2:T20
+R10	attacks Arg1:T22 Arg2:T20
+R11	supports Arg1:T27 Arg2:T4
+R12	supports Arg1:T31 Arg2:T7
+R13	supports Arg1:T34 Arg2:T4
+R14	supports Arg1:T35 Arg2:T34
+R15	supports Arg1:T38 Arg2:T39
+R16	supports Arg1:T39 Arg2:T4
+R17	supports Arg1:T40 Arg2:T39
+R18	supports Arg1:T41 Arg2:T39
+R19	supports Arg1:T43 Arg2:T22
+R20	attacks Arg1:T47 Arg2:T26
+R21	attacks Arg1:T51 Arg2:T4
+R22	attacks Arg1:T52 Arg2:T51
+R23	joint Arg1:T62 Arg2:T60
+R24	supports Arg1:T65 Arg2:T66
+R25	supports Arg1:T66 Arg2:T4
+R26	supports Arg1:T67 Arg2:T52
+R27	supports Arg1:T77 Arg2:T4
+R28	supports Arg1:T78 Arg2:T77
+R29	supports Arg1:T79 Arg2:T77
+R30	supports Arg1:T80 Arg2:T83
+R31	supports Arg1:T82 Arg2:T83
+R32	supports Arg1:T83 Arg2:T26
+T1	SuperAnnotatorPremise 2488 2644	Miami Beach is leading the way, increasing local fees to finance a $400 million plan that includes raising streets, installing pumps and elevating sea walls
+T2	SuperAnnotatorClaim 2038 2106	Once impacts become noticeable, they’re going to be upon you quickly
+T3	SuperAnnotatorClaim 2285 2324	It’s not a hundred years off — it’s now
+T5	SuperAnnotatorPremise 1556 1717	These tidal floods are often just a foot or two deep, but they can stop traffic, swamp basements, damage cars, kill lawns and forests, and poison wells with salt
+T6	SuperAnnotatorPremise 1729 1785	the high seas interfere with the drainage of storm water
+T9	SuperAnnotatorClaim 987 1024	The inundation of the coast has begun
+T10	SuperAnnotatorClaim 3523 3637	the United States lacks not only a broad national policy on sea-level rise, it has something close to the opposite
+T13	SuperAnnotatorClaim 6475 6517	the ocean is gradually invading the region
+T14	SuperAnnotatorPremise 6875 7019	There’s just more and more visible impacts: water on the street, water that won’t clear from the ditch, these intense rain events, higher tides,
+T17	SuperAnnotatorPremise 7040 7247	It’s beginning to catch the attention of citizens, restaurant owners, business people, politicians. There’s just much more of a conversation, and it’s not just in the politically safe places. It’s everywhere

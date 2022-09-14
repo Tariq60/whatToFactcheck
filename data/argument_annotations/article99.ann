@@ -1,0 +1,29 @@
+T2	Claim 187 292	efforts to determine what causes seas to rise are marred by poor data and disagreements about methodology
+T6	Premise 831 975	I chose to assess the sea-level trend from 1915-45, when a genuine, independently confirmed warming of approximately 0.5 degree Celsius occurred
+T7	Claim 1002 1047	sea-level rise is not affected by the warming
+T8	Premise 1049 1164	it continues at the same rate, 1.8 millimeters a year, according to a 1990 review by Andrew S. Trupin and John Wahr
+T9	MajorClaim 1166 1290	I therefore conclude—contrary to the general wisdom—that the temperature of sea water has no direct effect on sea-level rise
+T13	Claim 1573 1653	there is also good data showing sea levels are in fact rising at a constant rate
+T18	Claim 2013 2139	I conclude that it must be ice accumulation, through evaporation of ocean water, and subsequent precipitation turning into ice
+T19	Premise 2141 2279	Evidence suggests that accumulation of ice on the Antarctic continent has been offsetting the steric effect for at least several centuries
+T21	Premise 2456 2517	thermal expansion of water and evaporation of water molecules
+T23	Claim 2685 2773	Melting of glaciers and ice sheets adds water to the ocean and causes sea levels to rise
+T24	Claim 2898 3066	After the rapid melting away of northern ice sheets, the slow melting of Antarctic ice at the periphery of the continent may be the main cause of current sea-level rise
+T27	Premise 3247 3339	We can see melting happening right now at the Ross Ice Shelf of the West Antarctic Ice Sheet
+T32	MajorClaim 3763 3848	sea-level rise does not seem to depend on ocean temperature, and certainly not on CO2
+T34	Claim 3945 4036	By 2100 the seas will rise another 6 inches or so—a far cry from Al Gore’s alarming numbers
+T35	Claim 4038 4104	There is nothing we can do about rising sea levels in the meantime
+R0	supports Arg1:T2 Arg2:T9
+R1	joint Arg1:T6 Arg2:T8
+R2	supports Arg1:T7 Arg2:T9
+R3	supports Arg1:T8 Arg2:T7
+R4	restate Arg1:T9 Arg2:T32
+R5	supports Arg1:T13 Arg2:T18
+R6	supports Arg1:T18 Arg2:T9
+R7	supports Arg1:T19 Arg2:T18
+R8	supports Arg1:T21 Arg2:T18
+R9	supports Arg1:T23 Arg2:T18
+R10	supports Arg1:T24 Arg2:T23
+R11	supports Arg1:T27 Arg2:T24
+R12	supports Arg1:T34 Arg2:T35
+R13	supports Arg1:T35 Arg2:T32

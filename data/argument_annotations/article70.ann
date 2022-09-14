@@ -1,0 +1,21 @@
+T1	Claim 108 287	Normally, the hottest years on record occur when the underlying human-caused global warming trend gets a temporary boost from an El Niño’s enhanced warming in the tropical Pacific
+T2	MajorClaim 290 417	So it’s been a surprise to climate scientists that 2017 has been so remarkably warm — because the last El Niño ended a year ago
+T3	Premise 419 659	The National Oceanic and Atmospheric Administration (NOAA) reported Tuesday that the first half of 2017 was the second-warmest January-June on record for Earth, topped only by 2016, which was boosted by one of the biggest El Niños on record
+T4	Premise 663 796	As if it wasn’t shocking enough to see three consecutive record-breaking years, in 2014, 2015, and 2016, for the first time on record
+T7	Premise 1340 1379	This year has been extremely remarkable
+T8	Claim 1383 1500	Usually we see global records in years when the short-term El Niño warming adds to the long-term global warming trend
+T9	Premise 1520 1692	As NOAA noted in its March report, without an El Niño, no month before March 2017 had ever exceeded the “normal” temperature (the 1981–2010 average) by a full 1.8°F (1.0°C)
+T11	Claim 2055 2252	This matters because when a month — or six-month period — sees record high global temperatures in the absence of an El Niño, that is a sign the underlying global warming trend is stronger than ever
+T12	Claim 2254 2395	The latest NOAA report is “a reminder that climate change has not, despite the insistence of climate contrarians ‘paused’ or even slowed down
+T13	MajorClaim 2423 2541	Human-caused global warming continues at a dangerous pace, and only human action to slash carbon pollution can stop it
+R0	supports Arg1:T1 Arg2:T2
+R1	supports Arg1:T2 Arg2:T13
+R2	supports Arg1:T3 Arg2:T2
+R3	supports Arg1:T4 Arg2:T2
+R4	supports Arg1:T7 Arg2:T2
+R5	supports Arg1:T8 Arg2:T2
+R6	supports Arg1:T9 Arg2:T8
+R7	supports Arg1:T11 Arg2:T13
+R8	supports Arg1:T12 Arg2:T11
+R9	supports Arg1:T13 Arg2:T2
+T5	SuperAnnotatorPremise 871 1001	we’re now seeing near-record temperatures even in the absence of the El Nino ‘assist’ that the previous record year benefited from

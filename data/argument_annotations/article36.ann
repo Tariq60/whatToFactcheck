@@ -1,0 +1,48 @@
+T2	Premise 175 269	The latest Democratic Party platform compares the fight against global warming to World War II
+T3	Premise 272 419	Using terms such as "battlefield," "siege," and "front," those opposed this "war effort" have been labeled anything from Nazis to Holocaust deniers
+T5	Claim 547 594	The upcoming election has inspired dire concern
+T8	Claim 998 1153	Equating the Third Reich with the free society’s fossil-fuel reliance, and charging Republicans with climate destruction, is from the theater of the absurd
+T9	Claim 1155 1243	Americans care greatly about the future; to say otherwise is to deny their very humanity
+T12	Claim 1613 1714	there is good news in the ugliness of desperate activists who are trying to get their issue out front
+T15	Claim 1893 1999	Until civility returns, our side can ask whether the critics are acting like the Gestapo of global warming
+T17	MajorClaim 2079 2260	Global warming activists tout their commitment to evidence and reason. Yet their dismal track record seems to lead to only more drama and hyperbole, not humility and open-mindedness
+T18	Claim 2263 2394	Back in 2006, Al Gore prophesied that unless the world dramatically reduced greenhouse gasses, we would hit a "point of no return."
+T20	Claim 2677 2755	Time is up on Gore’s “point of no return” and Hansen’s “critical tipping point
+T22	Claim 2952 3009	Many others have followed the same scare-and-hide pattern
+T24	Premise 3167 3304	Back in the late 1980s, the UN claimed that if global warming were not checked by 2000, rising sea levels would wash entire counties away
+T25	Premise 3306 3471	Four years ago, Peter Wadhams, professor of ocean physics at the University of Cambridge, predicted “global disaster” from the demise of Arctic sea ice—in four years
+T27	Claim 3498 3538	There is some levity in all this charade
+T28	Premise 3577 3670	Gordon Brown predicted that the world had only 50 days to save the planet from global warming
+T29	Claim 3752 3879	Falsified and sure-to-be-falsified exaggerations from a parade of Ph.D. scientists are ruining the reputation of science itself
+T30	Claim 3881 3949	Physical science has turned into profit-maximizing political science
+T31	Claim 3995 4207	In their efforts to promote their “cause,” the scientific establishment behind the global warming issue has been drawn into the trap of seriously understating the uncertainties associated with the climate problem
+T32	Claim 4209 4272	This behavior risks destroying science’s reputation for honesty
+T34	Premise 4361 4451	Without this objectivity and honesty, scientists become regarded as another lobbyist group
+T35	Claim 4814 4863	There is good news as good science drives out bad
+T38	Premise 5375 5520	Sensitivity estimates—defined as the temperature effect from the enhanced greenhouse effect—have been coming down in the peer-reviewed literature
+T40	Claim 5727 5861	Such new thinking, long overdue, would shift the mainstream to a new view of the beneficence of plentiful, affordable, reliable energy
+T42	Premise 5971 6106	“Fossil fuels don’t take a clean environment and make it dirty,” noted Alex Epstein, "they take a dirty environment and make it clean.”
+T44	Claim 6230 6291	The real news is good news in contradiction to doom-and-gloom
+R0	supports Arg1:T3 Arg2:T8
+R1	supports Arg1:T5 Arg2:T8
+R2	supports Arg1:T8 Arg2:T17
+R3	supports Arg1:T9 Arg2:T8
+R4	supports Arg1:T12 Arg2:T8
+R5	supports Arg1:T15 Arg2:T17
+R6	supports Arg1:T18 Arg2:T17
+R7	attacks Arg1:T20 Arg2:T18
+R8	supports Arg1:T22 Arg2:T17
+R9	supports Arg1:T24 Arg2:T22
+R10	supports Arg1:T25 Arg2:T22
+R11	supports Arg1:T27 Arg2:T12
+R12	supports Arg1:T28 Arg2:T22
+R13	supports Arg1:T29 Arg2:T17
+R14	supports Arg1:T30 Arg2:T29
+R15	supports Arg1:T31 Arg2:T17
+R16	supports Arg1:T32 Arg2:T31
+R17	supports Arg1:T34 Arg2:T32
+R18	supports Arg1:T35 Arg2:T17
+R19	supports Arg1:T38 Arg2:T35
+R20	supports Arg1:T40 Arg2:T17
+R21	supports Arg1:T42 Arg2:T40
+R22	supports Arg1:T44 Arg2:T17

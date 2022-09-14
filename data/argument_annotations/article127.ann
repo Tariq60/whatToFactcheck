@@ -1,0 +1,45 @@
+T1	MajorClaim 154 389	A new report has warned there's an existential risk to humanity from the climate crisis within the coming decades, and a "high likelihood of human civilization coming to an end" over the next three decades unless urgent action is taken
+T2	Claim 392 634	The report, published by Australian thinktank the Breakthrough National Centre for Climate Restoration, outlines an apocalyptic scenario that could see conditions "beyond the threshold of human survivability" across much of our planet by 2050
+T4	Claim 767 839	The report refuses to downplay its bleak assessment of what could happen
+T5	Claim 1091 1161	we are now in a unique situation with no precise historical equivalent
+T8	Claim 1480 1535	they propose a plausible and terrifying "2050 scenario"
+T9	Premise 1636 1797	Governments fail to act on the evidence that the Paris Agreement isn't enough to keep Earth's temperature from rising, and will "lock in at least 3°C of warming"
+T10	Premise 1799 1942	As projected by previous studies, carbon dioxide levels have reached 437 parts per million, which hasn't been seen in the last 20 million years
+T13	Premise 2040 2129	carbon cycle feedbacks and the continued use of fossil fuels see temperatures rise by 3°C
+T14	Premise 2154 2360	By 2050 there's a scientific consensus that we reached the tipping point for ice sheets in Greenland and the West Antarctic well before 2°C (3.6°F) of warming, and for widespread permafrost at 2.5°C (4.5°F)
+T15	Premise 2362 2462	A "Hothouse Earth" scenario plays out that sees Earth's temperatures doomed to rise by a further 1°C
+T16	Claim 2514 2561	At this point the human impact is off the scale
+T17	Premise 2622 2709	more than 20 days a year of lethal heat conditions beyond that which humans can survive
+T18	Premise 2733 2755	extreme weather events
+T19	Premise 2801 2913	Monsoons in China fail, the great rivers of Asia virtually dry up, and rainfall in central America falls by half
+T20	Premise 2916 2957	Deadly heat conditions across West Africa
+T21	Premise 3111 3147	Food production is severely affected
+T23	Premise 3339 3365	pandemic disease outbreaks
+T24	Premise 3385 3415	Armed conflicts over resources
+T26	Claim 3605 3661	"high likelihood of human civilization coming to an end"
+T28	Claim 4079 4091	It is doable
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T4 Arg2:T1
+R2	supports Arg1:T5 Arg2:T1
+R3	supports Arg1:T8 Arg2:T1
+R4	supports Arg1:T9 Arg2:T8
+R5	supports Arg1:T10 Arg2:T8
+R6	supports Arg1:T13 Arg2:T8
+R7	supports Arg1:T14 Arg2:T8
+R8	supports Arg1:T15 Arg2:T8
+R9	supports Arg1:T16 Arg2:T1
+R10	supports Arg1:T17 Arg2:T16
+R11	supports Arg1:T18 Arg2:T16
+R12	supports Arg1:T19 Arg2:T16
+R13	supports Arg1:T20 Arg2:T16
+R14	supports Arg1:T21 Arg2:T16
+R15	supports Arg1:T23 Arg2:T16
+R16	supports Arg1:T24 Arg2:T16
+R17	restate Arg1:T26 Arg2:T2
+T3	SuperAnnotatorClaim 1273 1378	This requires us to work towards avoiding catastrophic possibilities rather than looking at probabilities
+T6	SuperAnnotatorClaim 1383 1457	learning from mistakes is not an option when it comes to existential risks
+T7	SuperAnnotatorPremise 2916 2990	Deadly heat conditions across West Africa persist for over 100 days a year
+T11	SuperAnnotatorClaim 3238 3288	The knock-on consequences affect national security
+T12	SuperAnnotatorPremise 3293 3383	the scale of the challenges involved, such as pandemic disease outbreaks, are overwhelming
+T22	SuperAnnotatorPremise 3385 3489	Armed conflicts over resources may become a reality, and have the potential to escalate into nuclear war
+T25	SuperAnnotatorClaim 4213 4279	There are ways we can prevent this future, we just need to act now

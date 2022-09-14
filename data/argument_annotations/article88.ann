@@ -1,0 +1,32 @@
+T2	Claim 201 319	An expedition designed to gather evidence of global warming and “climate change” in the Arctic was canceled last month
+T6	Claim 1248 1283	the Amundsen is no lightweight ship
+T7	Premise 1286 1388	It’s the second most powerful icebreaker in the country and we had trouble getting through the sea ice
+T10	Claim 1742 1869	Scientists connected to the planned mission stated in no uncertain terms that they had not expected the heavy ice to be present
+T11	Premise 1872 1995	“It became clear to me very quickly that these weren’t just heavy ice conditions, these were unprecedented ice conditions,”
+T13	Claim 2337 2548	Scientists were caught off guard when the true ice conditions were different from their predictions, which took place only months ago… yet they absolutely know how the climate will behave over the next 100 years
+T14	Claim 2551 2782	Global warming activists are already arguing that the Amundsen’s reassignment because of increased sea ice is proof that a warming arctic is sending greater floes into the sea lanes as Arctic ice shears, and that could well be true
+T17	Claim 2973 3060	It isn’t the first time a global warming study has been ironically halted in its tracks
+T18	Premise 3063 3306	“There was the Ship of Fools expedition in which an Australian climate researcher called Chris Turkey had to call an expedition to the melting Antarctic after his ship got stuck in the ice,” recalled Breitbart News contributor James Delingpole
+T19	Premise 3309 3491	“The Caitlin Expedition – supported by the Prince of Wales – in which Pen Haddow and his team had to abandon their trip to the North Pole because it was colder than they’d expected,”
+T20	Premise 3507 3664	“Most recently there was Ship of Fools II, in which a global warming research voyage by David Hempleman Adams had to be curtailed because of unexpected ice.”
+T22	Claim 3793 3914	The real issue is the arrogance and zealotry found in people who see science not as an ongoing process, but as a religion
+T23	Claim 3917 3969	There is a difference between science and “scientism
+T25	Claim 4054 4137	theories and explanations must frequently be wrong if science is properly advancing
+T26	Claim 4160 4221	humans know very little about the climate cycles of our world
+T27	MajorClaim 4314 4412	climate change radicals have made their politically fueled narrative more important than the truth
+T29	Claim 4519 4619	Reality has a way of being very persistent — and that’s something leftists still haven’t figured out
+R0	supports Arg1:T2 Arg2:T27
+R1	supports Arg1:T6 Arg2:T2
+R2	supports Arg1:T7 Arg2:T6
+R3	supports Arg1:T10 Arg2:T13
+R4	supports Arg1:T11 Arg2:T10
+R5	supports Arg1:T13 Arg2:T27
+R6	supports Arg1:T17 Arg2:T27
+R7	supports Arg1:T18 Arg2:T17
+R8	supports Arg1:T19 Arg2:T17
+R9	supports Arg1:T20 Arg2:T17
+R10	supports Arg1:T22 Arg2:T27
+R11	supports Arg1:T23 Arg2:T27
+R12	supports Arg1:T25 Arg2:T27
+R13	supports Arg1:T26 Arg2:T23
+R14	supports Arg1:T29 Arg2:T27

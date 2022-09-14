@@ -1,0 +1,80 @@
+T2	Claim 331 549	Marking another milestone for a changing planet, scientists reported on Wednesday that the Earth reached its highest temperature on record in 2016, trouncing a record set only a year earlier, which beat one set in 2014
+T3	Claim 551 687	It is the first time in the modern era of global warming data that temperatures have blown past the previous record three years in a row
+T6	MajorClaim 1046 1190	Temperatures are heading toward levels that many experts believe will pose a profound threat to both the natural world and to human civilization
+T7	Claim 1193 1288	In 2015 and 2016, the planetary warming was intensified by the weather pattern known as El Niño
+T8	Claim 1390 1581	the bigger factor in setting the records was the long-term trend of rising temperatures, which scientists say is being driven by increasing levels of carbon dioxide and other greenhouse gases
+T9	Claim 1585 1741	A single warm year is something of a curiosity,” said Deke Arndt, chief of global climate monitoring for the National Oceanic and Atmospheric Administration
+T11	Claim 1895 1952	The heat extremes were especially pervasive in the Arctic
+T13	Claim 2077 2142	Sea ice in that region has been in precipitous decline for years,
+T16	Claim 2560 2611	Arctic people were hardly alone in feeling the heat
+T17	Premise 2613 2652	Drought and starvation afflicted Africa
+T18	Premise 2665 2787	the people in the town of Phalodi lived through the hottest day in the recorded history of India, 123.8 degrees Fahrenheit
+T19	Claim 2790 2811	El Niño has now ended
+T21	Claim 2906 3076	the scale of the heat burst has been startling to many of the experts, and some of them fear an accelerated era of global warming could be at hand over the next few years
+T22	Premise 3109 3175	billions of tons of land ice are melting or sliding into the ocean
+T23	Premise 3177 3246	The sea is also absorbing most of the heat trapped by human emissions
+T24	Claim 3248 3334	Those factors are causing the ocean to rise at what appears to be an accelerating pace
+T26	Claim 3448 3508	Their pleas for help from Congress have largely been ignored
+T27	Claim 3511 3748	The finding that a record had been set for the third year in a row was released on Wednesday by three government agencies, two of them American and one British, that track measurements made by ships, buoys and land-based weather stations
+T28	Premise 3750 3874	They analyze the figures to correct for known problems, producing an annual average temperature for the surface of the Earth
+T29	Premise 3876 3968	The national meteorological agency of Japan confirmed the findings in a preliminary analysis
+T30	Premise 3971 4107	In the British data set, 2016 set a record by only a small amount; the margin was larger in the NOAA data set and larger still in NASA’s
+T31	Claim 4109 4194	NASA does more work than the other groups to take full account of Arctic temperatures
+T34	Premise 4419 4507	That is a huge change for the surface of an entire planet to undergo in just three years
+T36	Premise 4631 4738	The findings about a record-warm year were also confirmed by the Berkeley Earth surface temperature project
+T37	Premise 4838 4965	That group, however, did not find that three records had been set in a row; in its analysis, 2010 was slightly warmer than 2014
+T40	Premise 5265 5406	Since 1880, NOAA’s records show only one other instance when global temperature records were set three years in a row: in 1939, 1940 and 1941
+T42	Premise 5470 5524	1941 now ranks as only the 37th-warmest year on record
+T43	Claim 5637 5729	the past three years mark the first time in that period that three records were set in a row
+T45	Claim 5800 6015	Two of the agencies that issued Wednesday’s figures, NOAA and NASA, will soon report to cabinet secretaries appointed by President-elect Donald J. Trump, who has expressed doubt about the findings of climate science
+T46	Premise 6017 6172	In 2012, Mr. Trump wrote on Twitter, “The concept of global warming was created by and for the Chinese in order to make U.S. manufacturing noncompetitive.”
+T47	Claim 6174 6281	Fear has erupted within the agencies about whether their data will now be subject to political manipulation
+T48	Premise 6283 6489	Mr. Trump and his cabinet nominees have given no detailed indication of what their broad climate policies are likely to be, much less how they will manage the scientific enterprise of monitoring the climate
+T52	Claim 6993 7138	The three record-setting years in a row undercut longstanding claims by a handful of contrarian scientists that global warming stopped after 1998
+T53	Claim 7140 7199	That argument was never backed by good statistical evidence
+T55	Claim 7296 7397	When the heat buildup in the ocean is taken into account, global temperatures are rising relentlessly
+T56	Premise 7431 7626	the heat accumulating throughout the Earth because of human emissions is roughly equal to the energy that would be released by 400,000 Hiroshima atomic bombs exploding across the planet every day
+T57	Claim 7629 7722	It is true that at the Earth’s surface, the warming seems to be proceeding in fits and starts
+T58	Claim 7724 7791	“The arc of global warming will be variously steep and less steep,”
+T59	Claim 7897 7916	“It never stopped.”
+T60	Claim 7918 8028	In fact, the rate over time has been reasonably close to predictions that scientists first offered decades ago
+T61	Claim 8074 8159	humanity is courting disaster by failing to bring fossil-fuel emissions under control
+T62	Premise 8175 8267	many experts on sea level believe that a rise of 15 or 20 feet has already become inevitable
+T64	Claim 8317 8420	A rise that large would drown most of the world’s coastal cities without heroic efforts to fortify them
+R0	supports Arg1:T2 Arg2:T6
+R1	supports Arg1:T3 Arg2:T6
+R2	supports Arg1:T7 Arg2:T8
+R3	supports Arg1:T8 Arg2:T6
+R4	supports Arg1:T9 Arg2:T6
+R5	supports Arg1:T11 Arg2:T6
+R6	supports Arg1:T13 Arg2:T6
+R7	supports Arg1:T16 Arg2:T6
+R8	supports Arg1:T17 Arg2:T16
+R9	supports Arg1:T18 Arg2:T17
+R10	attacks Arg1:T21 Arg2:T19
+R11	supports Arg1:T22 Arg2:T21
+R12	supports Arg1:T23 Arg2:T21
+R13	supports Arg1:T24 Arg2:T6
+R14	supports Arg1:T27 Arg2:T6
+R15	supports Arg1:T28 Arg2:T27
+R16	supports Arg1:T29 Arg2:T27
+R17	supports Arg1:T30 Arg2:T31
+R18	supports Arg1:T31 Arg2:T27
+R19	supports Arg1:T34 Arg2:T31
+R20	supports Arg1:T36 Arg2:T27
+R21	joint Arg1:T37 Arg2:T36
+R22	supports Arg1:T40 Arg2:T2
+R23	supports Arg1:T43 Arg2:T6
+R24	supports Arg1:T45 Arg2:T47
+R25	supports Arg1:T46 Arg2:T45
+R26	supports Arg1:T48 Arg2:T47
+R27	supports Arg1:T52 Arg2:T6
+R28	supports Arg1:T53 Arg2:T52
+R29	supports Arg1:T55 Arg2:T6
+R30	supports Arg1:T56 Arg2:T55
+R31	supports Arg1:T58 Arg2:T57
+R32	supports Arg1:T59 Arg2:T6
+R33	attacks Arg1:T60 Arg2:T57
+R34	supports Arg1:T61 Arg2:T6
+R35	supports Arg1:T62 Arg2:T61
+R36	supports Arg1:T64 Arg2:T6

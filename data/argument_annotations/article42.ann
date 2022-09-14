@@ -1,0 +1,20 @@
+T1	MajorClaim 128 208	the Great Barrier Reef, just suffered from its worst coral die-off ever recorded
+T3	Claim 360 491	Stress from unusually warm ocean water heated by man-made climate change and the natural El Niño climate pattern caused the die-off
+T6	Premise 792 906	In the northernmost section of the reef, which had been considered the most "pristine," some 67% of the coral died
+T7	Premise 909 1008	The good news, scientists said, was that central and southern sections of the reef fared far better
+T13	Premise 1673 1803	When water temperatures become too high, coral becomes stressed and expels the algae, which leave the coral a bleached white color
+T14	Claim 1806 1914	Mass coral bleaching is a new phenomenon and was never observed before the 1980s as global warming ramped up
+T15	Claim 1917 2016	Besides their beauty, reefs shelter land from storms, and are also a habitat for myriads of species
+T16	Premise 2020 2189	Coral reefs are therefore the most biologically diverse ecosystems of the planet, and provide a number of ecosystem services that hundreds of millions of people rely on,
+T17	Premise 2257 2421	These include provisioning (fishing, other types of harvesting, for pharmaceuticals, for example), coastal protection, aesthetic and cultural values – to name a few
+T23	Premise 2922 3034	If all the coral died on the reef, “it would be among the largest mass extinction events in history,” said Torda
+R0	supports Arg1:T1 Arg2:T3
+R1	supports Arg1:T3 Arg2:T1
+R2	supports Arg1:T6 Arg2:T3
+R3	supports Arg1:T7 Arg2:T3
+R4	supports Arg1:T13 Arg2:T14
+R5	supports Arg1:T14 Arg2:T1
+R6	supports Arg1:T15 Arg2:T1
+R7	supports Arg1:T16 Arg2:T15
+R8	supports Arg1:T17 Arg2:T15
+R9	supports Arg1:T23 Arg2:T3

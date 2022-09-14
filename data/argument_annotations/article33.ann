@@ -1,0 +1,149 @@
+T1	Premise 106 227	Peter Wadhams has spent his career in the Arctic, making more than 50 trips there, some in submarines under the polar ice
+T2	Claim 229 380	He is credited with being one of the first scientists to show that the thick icecap that once covered the Arctic ocean was beginning to thin and shrink
+T3	Premise 382 512	He was director of the Scott Polar Institute in Cambridge from 1987 to 1992 and professor of ocean physics at Cambridge since 2001
+T4	Premise 514 716	His book, A Farewell to Ice, tells the story of his unravelling of this alarming trend and describes what the consequences for our planet will be if Arctic ice continues to disappear at its current rate
+T6	Claim 827 836	It hasn’t
+T8	Claim 862 864	No
+T9	Premise 866 918	There is a clear trend down to zero for summer cover
+T10	Premise 920 1000	However, each year chance events can give a boost to ice cover or take some away
+T11	Premise 1002 1058	The overall trend is a very strong downward one, however
+T12	Claim 1060 1147	Most people expect this year will see a record low in the Arctic’s summer sea-ice cover
+T13	Claim 1149 1278	Next year or the year after that, I think it will be free of ice in summer and by that I mean the central Arctic will be ice-free
+T14	Claim 1280 1333	You will be able to cross over the north pole by ship
+T15	Premise 1335 1542	There will still be about a million square kilometres of ice in the Arctic in summer but it will be packed into various nooks and crannies along the Northwest Passage and along bits of the Canadian coastline
+T16	MajorClaim 1614 1671	think that that is going to happen in summer 2017 or 2018
+T18	Claim 1748 1854	People tend to think of an ice-free Arctic in summer in terms of it merely being a symbol of global change
+T19	Claim 1856 1879	Things happen, they say
+T20	Claim 1890 1969	the impact will be profound and will effect the whole planet and its population
+T21	Claim 1975 2009	key effect will be albedo feedback
+T22	Premise 2011 2088	Sea ice reflects about 50% of the solar radiation it receives back into space
+T23	Premise 2090 2130	By contrast, water reflects less than 10
+T24	Premise 2133 2308	So if you replace ice with water, which is darker, much more solar heat will be absorbed by the ocean and the planet will heat up even more rapidly than it is doing at present
+T25	Claim 2311 2358	Sea ice also acts as an air-conditioning system
+T26	Premise 2360 2522	Winds coming over the sea to land masses such as Siberia and Greenland will no longer be cooled as they pass over ice and these places will be heated even further
+T27	Claim 2524 2627	These effects could add 50% to the impact of global warming that is produced by rising carbon emissions
+T29	Claim 2702 2779	The air over Greenland will get warmer and more and more of its ice will melt
+T30	Premise 2781 2842	It is already losing about 300 cubic kilometres of ice a year
+T31	Claim 2844 2884	Antarctica is adding to the melt as well
+T32	Claim 2886 2929	Sea-level rises will accelerate as a result
+T33	Premise 2931 3073	The most recent prediction of the Intergovernmental Panel on Climate Change (IPCC) is that seas will rise by 60 to 90 centimetres this century
+T34	Claim 3075 3129	I think a rise of one to two metres is far more likely
+T35	Claim 3131 3178	Indeed, it is probably the best we can hope for
+T36	Claim 3210 3235	it is really very serious
+T37	Claim 3237 3313	It will increase enormously the frequency of storm surges all over the world
+T38	Premise 3315 3438	We may be able to raise the Thames barrier in Britain but in Bangladesh, it just means more and more people will be drowned
+T41	Claim 3623 3635	No it is not
+T42	Claim 3637 3670	We also have the issue of methane
+T43	Premise 3672 3809	Russian scientists who have investigated waters off their coast have detected more and more plumes of methane bubbling up from the seabed
+T44	Premise 3811 3931	The reason this is happening is closely connected with the warming of the planet and the shrinking of the Arctic icecaps
+T45	Premise 3934 4005	Until around 2005, even in summer, you still had sea ice near the coast
+T46	Premise 4007 4035	Then it started to disappear
+T47	Claim 4196 4246	It has started to melt with dangerous consequences
+T48	Premise 4248 4318	Underneath the permafrost there are sediments full of methane hydrates
+T49	Premise 4320 4433	When the permafrost goes, you release the pressure on top of these hydrates and the methane comes out of solution
+T51	Claim 4503 4564	Yes, we can measure methane over large areas using satellites
+T52	Premise 4566 4699	These have shown that methane levels that had been fairly flat for most of the last century have started to rise and are accelerating
+T53	Premise 4742 4869	There is a scientist called Jason Box who works in Denmark for the Greenland Survey and he calls these outliers dragon’s breath
+T54	Claim 4871 4936	They are not some sort of measurement caused by dodgy instruments
+T55	Premise 4938 4997	They are real pulses of methane coming from offshore flumes
+T57	Claim 5083 5111	It is 23 times more powerful
+T58	Claim 5113 5178	However, methane dissipates much more quickly than carbon dioxide
+T59	Premise 5180 5269	It gets oxidised so that it only lingers in the atmosphere for about seven or eight years
+T60	Premise 5271 5442	By contrast, carbon dioxide hangs around in the climate system for about 100 years before it ends up in the sea and is absorbed by creatures that die and litter the seabed
+T62	Premise 5486 5598	Today, there are quite a number of researchers who think carbon dioxide could last 1,000 years in the atmosphere
+T63	Claim 5601 5694	So in the long run carbon dioxide is still going to be worse than methane in terms of heating
+T65	Premise 5829 5878	But with carbon dioxide there is a ratchet effect
+T66	Premise 5880 5970	All the carbon dioxide we release by burning fossil fuels just builds up in the atmosphere
+T67	Premise 5972 6028	We are having to live with last century’s carbon dioxide
+T68	Claim 6056 6120	there is no such thing as a safe emission rate of carbon dioxide
+T71	Claim 6280 6385	the only hope we have is to find a way to remove carbon dioxide from the atmosphere once it has got there
+T72	Premise 6419 6484	we will have to find a way to extract carbon dioxide from the air
+T73	Claim 6486 6540	The trouble is that they don’t just how we can do that
+T74	Claim 6542 6628	The most favoured scheme is known as BECCS: bio-energy with carbon capture and storage
+T75	Premise 6630 6696	Essentially, you plant trees and bushes over vast swaths of ground
+T76	Premise 6698 6749	These grow, absorbing carbon dioxide in the process
+T77	Premise 6751 6868	Then you burn the wood to run power plants while trapping, liquefying and storing the carbon dioxide that is released
+T80	Claim 6912 6952	I am a bit suspicious of this technology
+T81	Premise 6954 6998	BECCS will need so much land to be effective
+T82	Premise 7000 7120	Calculations suggest it would need 40% to 50% of the arable land of the planet to make it work on the scale we will need
+T84	MajorClaim 7262 7391	Other techniques, such as crushing and spreading olivine rocks, which absorb carbon dioxide, on beaches, will simply not scale up
+T85	Claim 7393 7502	They won’t work, so we will have to find some other way to remove carbon dioxide from the atmosphere directly
+T86	Claim 7505 7677	As far as I can see, it will have to take the form of some sort of device into which you pump air at one end and you get air without carbon dioxide coming out the other end
+T87	Claim 7679 7752	It can be done, I am sure, but at the moment we do not have such a device
+T88	Claim 7754 7888	However, without something like that I cannot see how we are going to deal with the carbon dioxide that is getting into the atmosphere
+T89	Claim 7890 7966	We are going to have to rely on a technology that has not yet been developed
+T91	Claim 8025 8131	I think humanity can do it, but I would feel much better if I saw governments investing in such technology
+R0	supports Arg1:T1 Arg2:T2
+R1	supports Arg1:T2 Arg2:T4
+R2	supports Arg1:T3 Arg2:T2
+R3	supports Arg1:T4 Arg2:T2
+R4	supports Arg1:T8 Arg2:T4
+R5	supports Arg1:T9 Arg2:T8
+R6	attacks Arg1:T10 Arg2:T9
+R7	attacks Arg1:T11 Arg2:T10
+R8	supports Arg1:T12 Arg2:T8
+R9	restate Arg1:T13 Arg2:T8
+R10	supports Arg1:T14 Arg2:T13
+R11	supports Arg1:T15 Arg2:T13
+R12	supports Arg1:T16 Arg2:T13
+R13	supports Arg1:T19 Arg2:T18
+R14	attacks Arg1:T20 Arg2:T18
+R15	supports Arg1:T21 Arg2:T20
+R16	supports Arg1:T22 Arg2:T21
+R17	supports Arg1:T23 Arg2:T22
+R18	supports Arg1:T24 Arg2:T21
+R19	supports Arg1:T25 Arg2:T20
+R20	supports Arg1:T26 Arg2:T25
+R21	supports Arg1:T27 Arg2:T25
+R22	supports Arg1:T29 Arg2:T4
+R23	supports Arg1:T30 Arg2:T29
+R24	supports Arg1:T31 Arg2:T29
+R25	supports Arg1:T32 Arg2:T4
+R26	supports Arg1:T33 Arg2:T32
+R27	restate Arg1:T34 Arg2:T32
+R28	supports Arg1:T35 Arg2:T34
+R29	supports Arg1:T36 Arg2:T4
+R30	supports Arg1:T37 Arg2:T36
+R31	supports Arg1:T38 Arg2:T36
+R32	supports Arg1:T41 Arg2:T42
+R33	supports Arg1:T42 Arg2:T41
+R34	supports Arg1:T43 Arg2:T42
+R35	supports Arg1:T44 Arg2:T42
+R36	supports Arg1:T45 Arg2:T44
+R37	joint Arg1:T46 Arg2:T45
+R38	supports Arg1:T47 Arg2:T42
+R39	supports Arg1:T48 Arg2:T47
+R40	joint Arg1:T49 Arg2:T48
+R41	supports Arg1:T51 Arg2:T4
+R42	supports Arg1:T52 Arg2:T51
+R43	joint Arg1:T53 Arg2:T52
+R44	supports Arg1:T54 Arg2:T51
+R45	supports Arg1:T55 Arg2:T54
+R46	supports Arg1:T57 Arg2:T41
+R47	attacks Arg1:T58 Arg2:T57
+R48	supports Arg1:T59 Arg2:T58
+R49	supports Arg1:T60 Arg2:T58
+R50	supports Arg1:T62 Arg2:T51
+R51	attacks Arg1:T63 Arg2:T57
+R52	supports Arg1:T65 Arg2:T63
+R53	supports Arg1:T66 Arg2:T65
+R54	supports Arg1:T67 Arg2:T65
+R55	supports Arg1:T68 Arg2:T63
+R56	supports Arg1:T71 Arg2:T4
+R57	supports Arg1:T72 Arg2:T71
+R58	supports Arg1:T73 Arg2:T71
+R59	supports Arg1:T74 Arg2:T71
+R60	supports Arg1:T75 Arg2:T74
+R61	supports Arg1:T76 Arg2:T74
+R62	supports Arg1:T77 Arg2:T74
+R63	supports Arg1:T80 Arg2:T86
+R64	supports Arg1:T81 Arg2:T80
+R65	supports Arg1:T82 Arg2:T81
+R66	supports Arg1:T84 Arg2:T80
+R67	supports Arg1:T85 Arg2:T84
+R68	supports Arg1:T86 Arg2:T4
+R69	supports Arg1:T87 Arg2:T86
+R70	supports Arg1:T88 Arg2:T86
+R71	supports Arg1:T89 Arg2:T87
+R72	supports Arg1:T91 Arg2:T88
+T5	SuperAnnotatorClaim 7262 7391	Other techniques, such as crushing and spreading olivine rocks, which absorb carbon dioxide, on beaches, will simply not scale up

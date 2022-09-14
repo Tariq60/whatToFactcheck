@@ -1,0 +1,97 @@
+T6	Claim 214 275	You can think of global warming as one type of climate change
+T7	Premise 277 371	The broader term covers changes beyond warmer temperatures, such as shifting rainfall patterns
+T8	Premise 374 540	President Trump has claimed that scientists stopped referring to global warming and started calling it climate change because “the weather has been so cold” in winter
+T9	Claim 546 564	the claim is false
+T10	Premise 566 609	Scientists have used both terms for decades
+T12	Claim 650 696	Two degrees is more significant than it sounds
+T13	Premise 699 847	As of early 2017, the Earth had warmed by roughly 2 degrees Fahrenheit (more than 1 degree Celsius) since 1880, when records began at a global scale
+T14	Premise 849 1069	The number may sound low, but as an average over the surface of an entire planet, it is actually high, which explains why much of the world’s land ice is starting to melt and the oceans are rising at an accelerating pace
+T24	Claim 2112 2135	This one is nailed down
+T25	Premise 2138 2308	Hard evidence, including studies that use radioactivity to distinguish industrial emissions from natural emissions, shows that the extra gas is coming from human activity
+T28	Claim 2528 2552	Could natural factors be
+T30	Claim 2587 2611	In theory, they could be
+T32	Premise 2718 2869	But scientists have looked carefully at the natural factors known to influence planetary temperature and found that they are not changing nearly enough
+T34	Claim 3017 3039	Why do people deny the
+T36	Claim 3200 3299	political conservatives have taken the approach of blocking them by trying to undermine the science
+T37	Premise 3302 3481	President Trump has sometimes claimed that scientists are engaged in a worldwide hoax to fool the public, or that global warming was invented by China to disable American industry
+T39	Claim 3701 3727	How much trouble are we in
+T41	Premise 3744 3858	Over the coming 25 or 30 years, scientists say, the climate is likely to gradually warm, with more extreme weather
+T43	Premise 3930 4275	Longer term, if emissions rise unchecked, scientists fear climate effects so severe that they might destabilize governments, produce waves of refugees, precipitate the sixth mass extinction of plants and animals in the Earth’s history, and melt the polar ice caps, causing the seas to rise high enough to flood most of the world’s coastal cities
+T47	Claim 4505 4599	The simple reality is that people are already feeling the effects, whether they know it or not
+T48	Premise 4647 4708	83,000 more residents of New York and New Jersey were flooded
+T49	Premise 4811 4899	Tens of thousands of people are already dying in heat waves made worse by global warming
+T50	Premise 4901 5010	The refugee flows that have destabilized politics around the world have been traced in part to climate change
+T51	Claim 5065 5106	poor people will be hit first and hardest
+T54	Premise 5174 5255	The ocean has accelerated and is now rising at a rate of about a foot per century
+T56	Claim 5435 5485	The risk is that the rate will increase still more
+T59	Claim 5825 5857	How long it will take is unclear
+T61	Claim 5939 5962	Is recent crazy weather
+T63	Premise 6004 6117	Scientists have published strong evidence that the warming climate is making heat waves more frequent and intense
+T64	Claim 6119 6241	It is also causing heavier rainstorms, and coastal flooding is getting worse as the oceans rise because of human emissions
+T66	Premise 6378 6510	In many other cases, though — hurricanes, for example — the linkage to global warming for particular trends is uncertain or disputed
+T68	Claim 6627 6650	Are there any realistic
+T70	Premise 6720 6788	Society has put off action for so long that the risks are now severe
+T71	Claim 6806 6899	But as long as there are still unburned fossil fuels in the ground, it is not too late to act
+T74	Premise 7189 7304	But experts say the energy transition needs to speed up drastically to head off the worst effects of climate change
+T78	Premise 7461 7549	The reductions are voluntary and the pledges do not do enough to head off severe effects
+T81	Claim 7865 7887	Does clean energy help
+T82	Claim 7910 7950	Job growth in renewable energy is strong
+T85	Claim 8169 8379	Converting to these cleaner sources may be somewhat costlier in the short term, but they could ultimately pay for themselves by heading off climate damages and reducing health problems associated with dirty air
+T86	Claim 8385 8518	expansion of the market is driving down the costs of renewable energy so fast that it may ultimately beat dirty energy on price alone
+T89	Premise 8660 8757	The solar industry in the United States now employs more than twice as many people as coal mining
+T90	Claim 8763 8798	What about fracking or ‘clean coal’
+T91	Claim 8801 8843	Both could help clean up the energy system
+T92	Premise 8846 9024	Hydraulic fracturing, or “fracking,” is one of a set of drilling technologies that has helped produce a new abundance of natural gas in the United States and some other countries
+T94	Premise 9113 9139	gas is still a fossil fuel
+T95	Premise 9188 9239	The fracking itself can also create local pollution
+T96	Premise 9243 9364	Clean coal” is an approach in which the emissions from coal-burning power plants would be captured and pumped underground
+T97	Premise 9366 9410	It has yet to be proven to work economically
+T103	Claim 10061 10090	What are carbon taxes, carbon
+T104	Claim 10120 10169	It’s just jargon for putting a price on pollution
+T105	Premise 10172 10271	The greenhouse gases being released by human activity are often called “carbon emissions” for short
+T108	Premise 10470 10696	When you hear about carbon taxes, carbon trading and so on, these are just shorthand descriptions of methods to put a price on emissions, which economists say is one of the most important steps society could take to limit them
+T113	Premise 10902 11037	Entire states and nations have to decide to clean up their energy systems, using every tool available and moving as quickly as they can
+T114	Claim 11042 11151	the most important thing you can do is to exercise your rights as a citizen, speaking up and demanding change
+T115	Claim 11154 11241	You can also take direct personal action to reduce your carbon footprint in simple ways
+T121	Claim 11983 12063	You can pay attention to company policies, support the companies taking the lead
+R0	supports Arg1:T7 Arg2:T6
+R1	supports Arg1:T8 Arg2:T9
+R2	supports Arg1:T9 Arg2:T10
+R3	supports Arg1:T10 Arg2:T9
+R4	supports Arg1:T13 Arg2:T12
+R5	supports Arg1:T14 Arg2:T12
+R6	supports Arg1:T25 Arg2:T24
+R7	attacks Arg1:T30 Arg2:T28
+R8	supports Arg1:T32 Arg2:T28
+R9	supports Arg1:T36 Arg2:T34
+R10	supports Arg1:T37 Arg2:T36
+R11	supports Arg1:T41 Arg2:T39
+R12	supports Arg1:T43 Arg2:T39
+R13	supports Arg1:T47 Arg2:T39
+R14	supports Arg1:T48 Arg2:T47
+R15	supports Arg1:T49 Arg2:T47
+R16	supports Arg1:T50 Arg2:T47
+R17	supports Arg1:T51 Arg2:T47
+R18	supports Arg1:T54 Arg2:T56
+R19	supports Arg1:T56 Arg2:T59
+R20	supports Arg1:T63 Arg2:T61
+R21	supports Arg1:T64 Arg2:T61
+R22	attacks Arg1:T66 Arg2:T64
+R23	supports Arg1:T71 Arg2:T68
+R24	supports Arg1:T74 Arg2:T68
+R25	supports Arg1:T81 Arg2:T82
+R26	supports Arg1:T85 Arg2:T82
+R27	supports Arg1:T86 Arg2:T85
+R28	supports Arg1:T89 Arg2:T82
+R29	supports Arg1:T90 Arg2:T91
+R30	supports Arg1:T92 Arg2:T91
+R31	supports Arg1:T94 Arg2:T91
+R32	supports Arg1:T95 Arg2:T91
+R33	supports Arg1:T96 Arg2:T91
+R34	supports Arg1:T97 Arg2:T96
+R35	supports Arg1:T103 Arg2:T104
+R36	supports Arg1:T105 Arg2:T104
+R37	supports Arg1:T108 Arg2:T104
+R38	supports Arg1:T113 Arg2:T114
+R39	supports Arg1:T114 Arg2:T113
+R40	supports Arg1:T121 Arg2:T114

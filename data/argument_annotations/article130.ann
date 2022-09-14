@@ -1,0 +1,59 @@
+T2	Claim 286 459	For decades, these models have projected dramatic warming from small, fossil-fueled increases in atmospheric concentrations of carbon dioxide, with catastrophic consequences
+T3	Claim 467 505	the real-world data aren’t cooperating
+T4	Premise 507 567	They show only slight warming, mostly at night and in winter
+T5	Premise 569 845	According to the United Nations' Intergovernmental Panel on Climate Change, there has been no systematic increase in the frequency of extreme weather events, and the ongoing rise in sea level that began with the end of the ice age continues with no great increase in magnitude
+T6	Premise 847 958	The constancy of land-based records is obvious in data from the National Oceanic and Atmospheric Administration
+T9	Premise 1191 1329	Atmospheric scientist John Christy developed a global temperature record of the lower atmosphere using highly accurate satellite soundings
+T11	Premise 1434 1536	He told a House Science Committee hearing in March 2017 that the U.N. climate models have failed badly
+T12	Premise 1623 1714	Christy compared the average model projections since 1979 to the most reliable observations
+T14	Premise 1798 1912	In the upper levels of the lower atmosphere, the models predicted seven times as much warming as has been observed
+T16	Claim 1964 2082	Christy recently concluded that, on average, the projected heating by the models is three times what has been observed
+T17	Claim 2085 2109	This is a critical error
+T19	Premise 2195 2392	Most of the atmospheric moisture originates in the tropical ocean, and the difference between surface and upper atmospheric temperature determines how much of the moisture rises into the atmosphere
+T21	Claim 2412 2520	Most of Earth’s agriculture is dependent upon the transfer of moisture from the tropics to temperate regions
+T23	Premise 2629 2748	he is looking at temperatures measured from calibrated thermistors carried by weather balloons and data from satellites
+T25	Claim 2814 2881	the records of the surface temperatures have been badly compromised
+T26	Premise 2884 3175	Globally averaged thermometers show two periods of warming since 1900: a half-degree from natural causes in the first half of the 20th century, before there was an increase in industrial carbon dioxide that was enough to produce it, and another half-degree in the last quarter of the century
+T27	Premise 3178 3273	The latest U.N. science compendium asserts that the latter half-degree is at least half manmade
+T33	Premise 3799 3933	The buoy temperatures, which are measured by precise electronic thermistors, were adjusted upwards to match the questionable ship data
+T34	Claim 3935 4063	Given that the buoy network became more extensive during the pause, that’s guaranteed to put some artificial warming in the data
+T35	Claim 4066 4158	The second big adjustment was over the Arctic Ocean, where there aren’t any weather stations
+T37	Claim 4233 4265	This runs afoul of basic physics
+T41	Claim 4615 4703	So, extending land readings over the Arctic Ocean adds nonexistent warming to the record
+T42	Claim 4715 4779	both global and United States data have been frequently adjusted
+T44	Premise 4940 5039	each serial adjustment has tended to make the early years colder, which increases the warming trend
+T45	Claim 5041 5065	That’s wildly improbable
+T47	Premise 5191 5299	Shelters in poorer countries are not repainted as often, and darker stations absorb more of the sun’s energy
+T48	Claim 5301 5388	It’s no surprise that poor tropical countries show the largest warming from this effect
+T49	MajorClaim 5391 5594	All this is to say that the weather balloon and satellite temperatures used in Christy’s testimony are the best data we have, and they show that the U.N.’s climate models just aren’t ready for prime time
+R0	attacks Arg1:T3 Arg2:T2
+R1	supports Arg1:T4 Arg2:T3
+R2	supports Arg1:T5 Arg2:T3
+R3	supports Arg1:T6 Arg2:T3
+R4	supports Arg1:T9 Arg2:T16
+R5	supports Arg1:T11 Arg2:T49
+R6	supports Arg1:T12 Arg2:T16
+R7	supports Arg1:T14 Arg2:T16
+R8	supports Arg1:T16 Arg2:T11
+R9	supports Arg1:T17 Arg2:T49
+R10	supports Arg1:T19 Arg2:T21
+R11	supports Arg1:T21 Arg2:T17
+R12	supports Arg1:T23 Arg2:T25
+R13	supports Arg1:T25 Arg2:T49
+R14	supports Arg1:T26 Arg2:T25
+R15	supports Arg1:T33 Arg2:T34
+R16	supports Arg1:T34 Arg2:T11
+R17	supports Arg1:T35 Arg2:T37
+R18	supports Arg1:T37 Arg2:T49
+R19	supports Arg1:T41 Arg2:T11
+R20	supports Arg1:T42 Arg2:T49
+R21	supports Arg1:T44 Arg2:T42
+R22	supports Arg1:T45 Arg2:T42
+R23	supports Arg1:T47 Arg2:T48
+R24	supports Arg1:T48 Arg2:T11
+T1	SuperAnnotatorClaim 2111 2193	Getting the tropical climate right is essential to understanding climate worldwide
+T7	SuperAnnotatorPremise 3373 3495	In two of the four global surface series, data were adjusted in two ways that wiped out the “pause” that had been observed
+T8	SuperAnnotatorPremise 3279 3353	the thermometer records showed that the warming stopped from 2000 to 2014.
+T10	SuperAnnotatorPremise 3354 3371	Until they didn’t
+T13	SuperAnnotatorClaim 3498 3670	The first adjustment changed how the temperature of the ocean surface is calculated, by replacing satellite data with drifting buoys and temperatures in ships’ water intake
+T15	SuperAnnotatorPremise 4464 4613	As long as the ice-water mix is well-stirred (like a glass of ice water), the surface temperature stays at the freezing point until all the ice melts

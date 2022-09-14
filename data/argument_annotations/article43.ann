@@ -1,0 +1,40 @@
+T2	Premise 138 280	Global average temperatures over land have plummeted by more than 1C since the middle of this year – their biggest and steepest fall on record
+T3	Claim 283 390	The news comes amid mounting evidence that the recent run of world record high temperatures is about to end
+T5	Claim 839 902	recent highs were mainly the result of long-term global warming
+T6	Claim 905 1089	Others have argued that the records were caused by El Nino, a complex natural phenomenon that takes place every few years, and has nothing to do with greenhouse gas emissions by humans
+T7	MajorClaim 1092 1145	The new fall in temperatures suggests they were right
+T8	Claim 1149 1283	Big El Ninos always have an immense impact on world weather, triggering higher than normal temperatures over huge swathes of the world
+T9	Premise 1285 1408	The 2015-16 El Nino was probably the strongest since accurate measurements began, with the water up to 3C warmer than usual
+T15	Premise 2101 2333	But it is almost certain that next year, large falls will also be measured over the oceans, and by weather station thermometers on the surface of the planet – exactly as happened after the end of the last very strong El Nino in 1998
+T17	Claim 2391 2477	Last year, Dr Schmidt said 2015 would have been a record hot year even without El Nino
+T19	Claim 2652 2722	This was ‘mainly caused’ by the emission of greenhouse gases by humans
+T20	Premise 2725 2839	Dr Schmidt also denied that there was any ‘pause’ or ‘hiatus’ in global warming between the 1998 and 2015 El Ninos
+T21	Premise 2882 3012	Nasa featured a new study which said there was a hiatus in global warming before the recent El Nino, and discussed why this was so
+T23	Claim 3086 3150	both his own position, and his Nasa division, may be in jeopardy
+T24	Premise 3171 3219	Donald Trump is an avowed climate change sceptic
+T25	Premise 3310 3411	Bob Walker said he was likely to axe Nasa’s $1.9 billion (about £1.4 billion) climate research budget
+T26	Claim 3494 3546	Other experts have also disputed Dr Schmidt’s claims
+T27	Claim 3689 3710	I disagree with Gavin
+T29	Premise 3891 3972	the rate of global warming has been much slower than predicted by computer models
+T30	Premise 3998 4221	David Whitehouse, a scientist who works with Lord Lawson’s sceptic Global Warming Policy Foundation, said the massive fall in temperatures following the end of El Nino meant the warming hiatus or slowdown may be coming back
+T31	Premise 4224 4344	‘According to the satellites, the late 2016 temperatures are returning to the levels they were at after the 1998 El Nino
+T32	Premise 4348 4423	The data clearly shows El Nino for what it was – a short-term weather event
+R0	supports Arg1:T2 Arg2:T3
+R1	supports Arg1:T5 Arg2:T7
+R2	attacks Arg1:T6 Arg2:T5
+R3	supports Arg1:T7 Arg2:T6
+R4	supports Arg1:T8 Arg2:T6
+R5	supports Arg1:T9 Arg2:T8
+R6	supports Arg1:T15 Arg2:T6
+R7	supports Arg1:T17 Arg2:T19
+R8	supports Arg1:T19 Arg2:T5
+R9	supports Arg1:T20 Arg2:T17
+R10	attacks Arg1:T21 Arg2:T20
+R11	supports Arg1:T24 Arg2:T23
+R12	supports Arg1:T25 Arg2:T23
+R13	attacks Arg1:T26 Arg2:T19
+R14	supports Arg1:T27 Arg2:T26
+R15	supports Arg1:T29 Arg2:T26
+R16	supports Arg1:T30 Arg2:T26
+R17	supports Arg1:T31 Arg2:T26
+R18	supports Arg1:T32 Arg2:T26

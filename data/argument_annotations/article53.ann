@@ -1,0 +1,122 @@
+T1	Claim 152 336	The Great Barrier Reef in Australia has long been one of the world’s most magnificent natural wonders, so enormous it can be seen from space, so beautiful it can move visitors to tears
+T2	MajorClaim 343 427	the reef, and the profusion of sea creatures living near it, are in profound trouble
+T3	Premise 430 616	Huge sections of the Great Barrier Reef, stretching across hundreds of miles of its most pristine northern sector, were recently found to be dead, killed last year by overheated seawater
+T4	Premise 618 714	More southerly sections around the middle of the reef that barely escaped then are bleaching now
+T5	Premise 831 928	We didn’t expect to see this level of destruction to the Great Barrier Reef for another 30 years,
+T6	Premise 1173 1274	In the north, I saw hundreds of reefs — literally two-thirds of the reefs were dying and are now dead
+T7	Claim 1362 1481	is part of a global calamity that has been unfolding intermittently for nearly two decades and seems to be intensifying
+T8	Premise 1483 1656	In the paper, dozens of scientists described the recent disaster as the third worldwide mass bleaching of coral reefs since 1998, but by far the most widespread and damaging
+T9	Claim 1659 1727	The state of coral reefs is a telling sign of the health of the seas
+T10	Claim 1729 1816	Their distress and death are yet another marker of the ravages of global climate change
+T11	Premise 1819 1901	If most of the world’s coral reefs die, as scientists fear is increasingly likely,
+T13	Claim 2013 2053	In poorer countries, lives are at stake:
+T15	Claim 2252 2318	reef scientists say they have no doubt as to the responsible party
+T16	Premise 2321 2491	They warned decades ago that the coral reefs would be at risk if human society kept burning fossil fuels at a runaway pace, releasing greenhouse gases that warm the ocean
+T17	Premise 2493 2633	Emissions continued to rise, and now the background ocean temperature is high enough that any temporary spike poses a critical risk to reefs
+T18	MajorClaim 2637 2674	Climate change is not a future threat
+T19	Premise 2701 2760	On the Great Barrier Reef, it’s been happening for 18 years
+T20	Premise 2764 2849	Corals require warm water to thrive, but they are exquisitely sensitive to extra heat
+T21	Premise 2851 2943	Just two or three degrees Fahrenheit of excess warming can sometimes kill the tiny creatures
+T22	Premise 2946 3118	Globally, the ocean has warmed by about 1.5 degrees Fahrenheit since the late 19th century, by a conservative calculation, and a bit more in the tropics, home to many reefs
+T23	Premise 3120 3322	An additional kick was supplied by an El Niño weather pattern that peaked in 2016 and temporarily warmed much of the surface of the planet, causing the hottest year in a historical record dating to 1880
+T24	Claim 3325 3451	It was obvious last year that the corals on many reefs were likely to die, but now formal scientific assessments are coming in
+T25	Premise 3453 3601	The paper in Nature documents vast coral bleaching in 2016 along a 500-mile section of the reef north of Cairns, a city on Australia’s eastern coast
+T26	Premise 3604 3657	Bleaching indicates that corals are under heat stress
+T27	Premise 3726 3961	Subsequent surveys of the Great Barrier Reef, conducted late last year after the deadline for inclusion in the Nature paper, documented that extensive patches of reef had in fact died, and would not be likely to recover soon, if at all
+T28	Premise 3964 3998	Professor Hughes led those surveys
+T29	Claim 4000 4156	He said that he and his students cried when he showed them maps of the damage, which he had calculated in part by flying low in small planes and helicopters
+T30	Premise 4229 4352	67 percent of the corals had died in a long stretch north of Port Douglas, and in patches, the mortality reached 83 percent
+T31	Premise 4355 4606	By luck, a storm stirred the waters in the central and southern parts of the reef at a critical moment, cooling them, and mortality there was much lower — about 6 percent in a stretch off Townsville, and even lower in the southernmost part of the reef
+T32	Premise 4703 4779	the highest sea surface temperatures across the Great Barrier Reef on record
+T33	Premise 4783 4842	Only 9 percent of the reef has avoided bleaching since 1998
+T34	Premise 4961 5049	Water temperatures there remain so high that another round of mass bleaching is underway
+T35	Premise 5216 5265	back-to-back bleaching is unheard-of in Australia
+T36	Premise 5268 5388	The central and southern part of the reef had already been badly damaged by human activities like dredging and pollution
+T37	Claim 5391 5563	The Australian government has tried to combat these local threats with its Reef 2050 plan, restricting port development, dredging and agricultural runoff, among other risks
+T38	Premise 5609 5636	given the high temperatures
+T40	Premise 5705 5775	The reefs in muddy water were just as fried as those in pristine water
+T41	Premise 5801 5924	“That’s not good news in terms of what you can do locally to prevent bleaching — the answer to that is not very much at all
+T43	Claim 5973 6131	With the election of Donald J. Trump as the American president, a recent global deal to tackle the problem, known as the Paris Agreement, seems to be in peril
+T44	Premise 6235 6311	many scientists and conservationists see as the reef’s most immediate threat
+T46	Premise 6464 6529	The fact is, Australia is the largest coal exporter in the world,
+T48	Premise 6720 6836	Australia relies on the Great Barrier Reef for about 70,000 jobs and billions of dollars annually in tourism revenue
+T51	Claim 7074 7151	The global reef crisis does not necessarily mean extinction for coral species
+T52	Premise 7153 7316	The corals may save themselves, as many other creatures are attempting to do, by moving toward the poles as the Earth warms, establishing new reefs in cooler water
+T53	Claim 7319 7465	But the changes humans are causing are so rapid, by geological standards, that it is not entirely clear that coral species will be able to keep up
+T54	Claim 7467 7579	And even if the corals do survive, that does not mean individual reefs will continue to thrive where they do now
+T55	Premise 7582 7615	Coral reefs are sensitive systems
+T56	Premise 7643 7788	The corals themselves are tiny polyps that act like farmers, capturing colorful single-celled plants called algae that convert sunlight into food
+T57	Premise 7790 7880	The coral polyps form colonies and build a limestone scaffolding on which to live — a reef
+T58	Premise 7883 8026	But when the water near a reef gets too hot, the algae begin producing toxins, and the corals expel them in self-defense, turning ghostly white
+T59	Premise 8028 8164	If water temperatures drop soon enough, the corals can grow new algae and survive, but if not, they may succumb to starvation or disease
+T60	Claim 8167 8222	Even when the corals die, some reefs eventually recover
+T61	Premise 8224 8368	If water temperatures stay moderate, the damaged sections of the Great Barrier Reef may be covered with corals again in as few as 10 or 15 years
+T62	Premise 8371 8489	But the temperature of the ocean is now high enough that global mass bleaching events seem to be growing more frequent
+T63	Claim 8491 8600	If they become routine, many of the world’s hard-hit coral reefs may never be able to re-establish themselves
+T64	Claim 8603 8784	Within a decade, certain kinds of branching and plate coral could be extinct, reef scientists say, along with a variety of small fish that rely on them for protection from predators
+T65	Claim 8788 8869	I don’t think the Great Barrier Reef will ever again be as great as it used to be
+T67	Premise 9216 9341	water temperatures are high enough that his maps are showing continued hot water across millions of square miles of the ocean
+T68	Premise 9470 9539	described it and the more recent findings as accurate, and depressing
+T69	Premise 9558 9689	extensive coral devastation last year off Kiritimati Island, part of the Republic of Kiribati several thousand miles from Australia
+T70	Premise 9741 9867	With the international effort to fight climate change at risk of losing momentum, “ocean temperatures continue to march upward
+T71	MajorClaim 9886 10027	The idea that we’re going to have 20 or 30 years before we reach the next bleaching and mortality event for the corals is basically a fantasy
+R0	supports Arg1:T1 Arg2:T2
+R1	supports Arg1:T3 Arg2:T7
+R2	supports Arg1:T4 Arg2:T3
+R3	supports Arg1:T5 Arg2:T7
+R4	supports Arg1:T6 Arg2:T5
+R5	supports Arg1:T7 Arg2:T2
+R6	supports Arg1:T8 Arg2:T7
+R7	supports Arg1:T9 Arg2:T2
+R8	supports Arg1:T10 Arg2:T2
+R9	supports Arg1:T13 Arg2:T10
+R10	supports Arg1:T15 Arg2:T2
+R11	supports Arg1:T16 Arg2:T15
+R12	joint Arg1:T17 Arg2:T16
+R13	supports Arg1:T18 Arg2:T2
+R14	supports Arg1:T19 Arg2:T15
+R15	supports Arg1:T20 Arg2:T15
+R16	joint Arg1:T21 Arg2:T20
+R17	supports Arg1:T22 Arg2:T15
+R18	supports Arg1:T23 Arg2:T15
+R19	supports Arg1:T24 Arg2:T2
+R20	supports Arg1:T25 Arg2:T24
+R21	supports Arg1:T26 Arg2:T24
+R22	attacks Arg1:T27 Arg2:T26
+R23	supports Arg1:T28 Arg2:T24
+R24	supports Arg1:T29 Arg2:T24
+R25	supports Arg1:T30 Arg2:T24
+R26	supports Arg1:T31 Arg2:T24
+R27	supports Arg1:T32 Arg2:T24
+R28	supports Arg1:T33 Arg2:T24
+R29	supports Arg1:T34 Arg2:T33
+R30	supports Arg1:T35 Arg2:T24
+R31	supports Arg1:T36 Arg2:T35
+R32	supports Arg1:T37 Arg2:T36
+R33	supports Arg1:T38 Arg2:T36
+R34	supports Arg1:T40 Arg2:T38
+R35	supports Arg1:T41 Arg2:T38
+R36	supports Arg1:T43 Arg2:T2
+R37	supports Arg1:T44 Arg2:T43
+R38	supports Arg1:T46 Arg2:T43
+R39	supports Arg1:T48 Arg2:T46
+R40	attacks Arg1:T51 Arg2:T2
+R41	supports Arg1:T52 Arg2:T51
+R42	attacks Arg1:T53 Arg2:T51
+R43	supports Arg1:T54 Arg2:T53
+R44	supports Arg1:T55 Arg2:T63
+R45	supports Arg1:T56 Arg2:T55
+R46	supports Arg1:T57 Arg2:T55
+R47	supports Arg1:T58 Arg2:T55
+R48	joint Arg1:T59 Arg2:T58
+R49	supports Arg1:T60 Arg2:T2
+R50	supports Arg1:T61 Arg2:T60
+R51	attacks Arg1:T62 Arg2:T61
+R52	restate Arg1:T63 Arg2:T53
+R53	supports Arg1:T64 Arg2:T65
+R54	supports Arg1:T65 Arg2:T2
+R55	supports Arg1:T67 Arg2:T63
+R56	supports Arg1:T68 Arg2:T63
+R57	supports Arg1:T69 Arg2:T63
+R58	supports Arg1:T70 Arg2:T63
+R59	restate Arg1:T71 Arg2:T18

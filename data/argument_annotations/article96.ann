@@ -1,0 +1,36 @@
+T2	Claim 493 576	the idea that the only source of nitrogen for plant life came from the air is wrong
+T3	Premise 578 653	There are vast storehouses in the planet's bedrock that plants also feed on
+T4	Claim 656 685	This is potentially huge news
+T6	Premise 896 1001	This runs counter the centuries-long paradigm that has laid the foundation for the environmental sciences
+T7	Claim 1050 1203	If Houlton's finding about these vast, previously unknown nitrogen stores holds true, then it would have an enormous impact on global warming predictions
+T9	Claim 1332 1422	climate scientists assumed that the ability to plants to perform this function was limited
+T13	Claim 1961 2173	with more nitrogen available, plant life might be able to absorb more CO2 than climate scientists have been estimating, which means the planet won't warm as much, despite mankind's pumping CO2 into the atmosphere
+T17	Claim 2865 3042	the idea of "settled science" peddled by environmentalists and politicians defies the history of science, which has seen repeated upheavals of previous forms of "settled science
+T19	Claim 3266 3389	Once that paradigm takes hold, scientists are often loath to give up on it even if evidence piles up that it might be wrong
+T20	Claim 3391 3479	Eventually, however, faulty paradigms do give way, ushering in a new scientific paradigm
+T22	Claim 3620 3685	That same thing might be happening right now with climate science
+T23	Claim 3714 3800	evidence continues to show weaknesses in climate models used to predict future warming
+T24	Premise 3802 3867	They failed to predict a decade-long pause in global temperatures
+T25	Premise 3869 3952	Nor have various calamities that were supposed to have occurred by now materialized
+T26	Premise 4008 4085	the planet is less sensitive to increases in CO2 than the computer models say
+T27	Claim 4099 4218	the National Oceanic and Atmospheric Administration has been conducting highly suspicious temperature data manipulation
+T28	Premise 4220 4339	The changes in the temperature data consistently make the past seem cooler, which in turn makes the present seem warmer
+T29	Claim 4342 4453	This creates a data illusion of ever-rising temperatures to match the increase in CO2 in the Earth's atmosphere
+T33	MajorClaim 4948 5095	With their reputations and huge amounts government grant money at stake, it's unlikely that many climate scientists would ever admit to being wrong
+R0	supports Arg1:T3 Arg2:T2
+R1	supports Arg1:T4 Arg2:T2
+R2	supports Arg1:T6 Arg2:T4
+R3	supports Arg1:T7 Arg2:T33
+R4	supports Arg1:T9 Arg2:T7
+R5	supports Arg1:T13 Arg2:T33
+R6	supports Arg1:T17 Arg2:T33
+R7	supports Arg1:T19 Arg2:T33
+R8	attacks Arg1:T20 Arg2:T19
+R9	supports Arg1:T22 Arg2:T33
+R10	supports Arg1:T23 Arg2:T33
+R11	supports Arg1:T24 Arg2:T23
+R12	supports Arg1:T25 Arg2:T23
+R13	supports Arg1:T26 Arg2:T23
+R14	supports Arg1:T27 Arg2:T33
+R15	supports Arg1:T28 Arg2:T29
+R16	supports Arg1:T29 Arg2:T33

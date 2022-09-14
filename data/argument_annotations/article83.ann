@@ -1,0 +1,42 @@
+T1	MajorClaim 146 245	Global warming has not accelerated temperature rise in the bulk atmosphere in more than two decades
+T2	Claim 405 578	by removing the climate effects of volcanic eruptions early on in the satellite temperature record it showed virtually no change in the rate of warming since the early 1990s
+T3	Premise 644 712	climate models had the atmosphere’s sensitivity to CO2 much too high
+T4	Claim 745 787	This recent paper bolsters that conclusion
+T5	Premise 817 949	the rate of warming has been 0.096 degrees Celsius per decade after “the removal of volcanic cooling in the early part of the record
+T7	Claim 1044 1079	The study is sure to be contentious
+T8	Premise 1115 1178	climate models exaggerate global warming in the bulk atmosphere
+T9	Premise 1306 1401	his results reinforce his claim that climate models predict too much warming in the troposphere
+T10	Claim 1444 1532	Models are too sensitive to increases in carbon dioxide concentrations in the atmosphere
+T11	Premise 1545 1689	From our observations we calculated that value as 1.1 C (almost 2° Fahrenheit), while climate models estimate that value as 2.3 C (about 4.1° F)
+T12	Claim 1707 1887	While many scientists have acknowledged the mismatch between model predictions and actual temperature observations, few have really challenged the validity of the models themselves
+T13	Premise 2017 2153	the “overestimation” was “partly due to systematic deficiencies in some of the post-2000 external forcings used in the model simulations
+T14	Claim 2157 2258	Christy’s removal of volcanic-driven cooling from satellite temperature data could also draw scrutiny
+T15	Premise 2260 2309	The study also removed El Nino and La Nina cycles
+T17	Claim 2473 2659	climate models need to be retooled to better reflect conditions in the actual climate, while policies based on previous climate model output and predictions might need to be reconsidered
+T18	Premise 2663 2848	Two major volcanoes — El Chichon in 1982 and Pinatubo in 1991 — caused global average temperature to dip as a result of volcanic ash, soot and debris reflecting sunlight back into space
+T19	Claim 2851 3028	Those eruptions meant there was more subsequent warming in the following years, making the rate of warming appear to be rising as a result of man-made emissions or other factors
+T20	Premise 3046 3242	Those eruptions happened relatively early in our study period, which pushed down temperatures in the first part of the dataset, which caused the overall record to show an exaggerated warming trend
+T21	Claim 3261 3379	While volcanic eruptions are natural events, it was the timing of these that had such a noticeable effect on the trend
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T2
+R2	supports Arg1:T4 Arg2:T1
+R3	supports Arg1:T5 Arg2:T4
+R4	supports Arg1:T7 Arg2:T1
+R5	supports Arg1:T8 Arg2:T7
+R6	supports Arg1:T9 Arg2:T7
+R7	supports Arg1:T10 Arg2:T7
+R8	supports Arg1:T11 Arg2:T10
+R9	supports Arg1:T12 Arg2:T1
+R10	supports Arg1:T13 Arg2:T12
+R11	supports Arg1:T14 Arg2:T1
+R12	supports Arg1:T15 Arg2:T14
+R13	supports Arg1:T18 Arg2:T19
+R14	supports Arg1:T19 Arg2:T1
+R15	supports Arg1:T20 Arg2:T19
+R16	supports Arg1:T21 Arg2:T19
+T6	SuperAnnotatorClaim 1115 1178	climate models exaggerate global warming in the bulk atmosphere
+T16	SuperAnnotatorNonArg 1044 1079	The study is sure to be contentious
+T22	SuperAnnotatorClaim 1306 1401	his results reinforce his claim that climate models predict too much warming in the troposphere
+T23	SuperAnnotatorPremise 2311 2365	which are particularly pronounced in satellite records
+T24	SuperAnnotatorClaim 2371 2415	those cycles largely canceled each other out
+T25	SuperAnnotatorClaim 3381 3543	If the same eruptions had happened near the more recent end of the dataset, they could have pushed the overall trend into negative numbers, or a long-term cooling

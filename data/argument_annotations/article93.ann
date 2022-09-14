@@ -1,0 +1,26 @@
+T3	MajorClaim 356 541	Sea level rise is happening now, and the rate at which it is rising is increasing every year, according to a study released Monday in the Proceedings of the National Academy of Sciences
+T9	Claim 1476 1630	Continuous emissions of greenhouse gases are warming the Earth's atmosphere and oceans and melting its ice, causing the rate of sea level rise to increase
+T10	Premise 1633 1882	This acceleration, driven mainly by accelerated melting in Greenland and Antarctica, has the potential to double the total sea level rise by 2100 as compared to projections that assume a constant rate, to more than 60 centimeters instead of about 30
+T11	Claim 2045 2161	That projection agrees perfectly with climate models used in the latest International Panel on Climate Change report
+T13	Premise 2339 2543	scientists now have observed evidence validating climate model projections, as well as providing policy-makers with a "data-driven assessment of sea level change that does not depend on the climate models
+T14	Claim 2558 2679	Sea level rise of 65 centimeters, or roughly 2 feet, would cause significant problems for coastal cities around the world
+T15	Claim 2681 2786	Extreme water levels, such as high tides and surges from strong storms, would be made exponentially worse
+T20	Claim 3540 3686	The result is a "climate-change-driven" acceleration: the amount the sea levels are rising because of the warming caused by manmade global warming
+T24	Claim 4169 4247	Currently, over half of the observed rise is the result of "thermal expansion"
+T26	Premise 4304 4426	The rest of the rise is the result of melted ice in Greenland and Antarctica and mountain glaciers flowing into the oceans
+T30	MajorClaim 5113 5309	it confirms what we have long feared: that the sooner-than-expected ice loss from the west Antarctic and Greenland ice sheets is leading to acceleration in sea level rise sooner than was projected
+R0	supports Arg1:T9 Arg2:T3
+R1	supports Arg1:T10 Arg2:T9
+R2	supports Arg1:T11 Arg2:T30
+R3	supports Arg1:T13 Arg2:T9
+R4	supports Arg1:T14 Arg2:T15
+R5	supports Arg1:T15 Arg2:T3
+R6	supports Arg1:T20 Arg2:T3
+R7	supports Arg1:T24 Arg2:T3
+R8	supports Arg1:T26 Arg2:T24
+R9	restate Arg1:T30 Arg2:T3
+T1	SuperAnnotatorPremise 1232 1443	The team observed a total rise in the ocean of 7 centimeters (2.8 inches) in 25 years of data, which aligns with the generally accepted current rate of sea level rise of about 3 millimeters (0.1 inches) per year
+T2	SuperAnnotatorClaim 2933 3019	these are occurring with sea levels that have risen about a foot in the past 100 years
+T4	SuperAnnotatorClaim 3246 3316	researchers say we could add another 2 feet by the end of this century
+T5	SuperAnnotatorClaim 4954 5024	we would likely see more than 65 centimeters of sea level rise by 2100
+T6	SuperAnnotatorPremise 4830 4910	We are already seeing signs of ice sheet instability in Greenland and Antarctica

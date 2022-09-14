@@ -1,0 +1,55 @@
+T2	Claim 220 415	A World Heritage site, it is currently under assault from unusually hot ocean temperatures, which is causing widespread coral bleaching that is damaging and, in some cases, even killing the reefs
+T3	MajorClaim 423 694	a new study by scientists at the Australian Research Council finds that the ongoing bleaching event is mainly due to human-caused global warming, and that if global warming proceeds as currently expected, "large parts" of the Great Barrier Reef could die by the mid-2030s
+T4	Premise 698 774	The study has not yet been submitted for peer review in a scientific journal
+T5	Claim 776 951	And until this study is reviewed and published in a scientific journal, its results should be treated as preliminary, but consistent with other recent climate science research
+T6	Premise 954 1150	The study examines what has caused ocean temperatures to spike to record highs in the Coral Sea region, which encompasses much of the Great Barrier Reef, including the hardest-hit northern reaches
+T10	Claim 1966 2139	scientists found that human-caused global warming made the record warm ocean temperatures and related bleaching events seen this year at least 175 times more likely to occur
+T11	Premise 2141 2269	The analysis found that climate change increased ocean temperatures by 1 degree Celsius, or 1.8 degrees Fahrenheit, during March
+T12	Premise 2407 2531	The study projects that this year's extreme warmth is likely to occur every two years in the month of March by the year 2034
+T13	Claim 2535 2746	The analysis' findings dovetail with other research that has predicted the mass die-off of coral reefs around the planet by the year 2050, as waters warm and exceed the tolerance level of many coral reef systems
+T15	Claim 3196 3385	Although the study has yet to be peer-reviewed, the methods used to detect the role of climate change in extreme events are becoming more firmly established in the climate science community
+T17	Claim 3513 3657	Such extreme event attribution studies have been used to detect the influence of human-caused global warming in other extreme temperature events
+T18	Premise 3677 3878	researchers looked at temperature data and computer model simulations that included only natural factors that alter the climate, compared to simulations that include human emissions of greenhouse gases
+T19	Premise 3882 4162	They found that the simulations that include greenhouse gases best fit the temperature data, and using statistical techniques they calculated the amount of the ocean warming that should be attributed to human-caused global warming, something known as "fractional attributable risk
+T20	Premise 4208 4361	they released the results prior to peer review "because of the grave nature of their findings and importance of the Great Barrier Reef to all Australians
+T23	Claim 4708 4854	The new analysis adds more evidence for those who argue that global warming may already be causing "dangerous interference with the climate system
+T24	Claim 4859 5048	That vague phrase from a 1992 U.N. climate treaty established what the nations of the world should work to avoid by cutting emissions of greenhouse gases, such as carbon dioxide and methane
+T25	Premise 5279 5424	The Paris Agreement on climate change, which 172 countries signed on April 22, maintains that goal as its ultimate objective, without defining it
+T26	Claim 5428 5505	This new analysis suggests we have already crossed into "dangerous" territory
+T27	Claim 5508 5634	"The damage to the reef is a very clear indicator of the harm our greenhouse gas emissions are doing to the planet," King said
+T28	Premise 6068 6324	A strong El Niño climate event, combined with the impact of global warming and other factors, has prompted unusually warm ocean temperatures and the world's third-ever global coral bleaching event, which began in 2014 and is expected to continue until 2017
+T29	Claim 6328 6385	The bleaching seen in the Coral Sea is part of this event
+T30	Claim 6388 6631	Heidi Cullen, the chief scientist for Climate Central in New Jersey who leads a consortium of researchers who conduct extreme event attribution studies, told Mashable that this new analysis "makes clear the heavy toll of burning fossil fuels."
+T32	Claim 6797 7059	The projection that much of the Great Barrier Reef could perish within the next few decades could turn out to be too pessimistic, since other research has shown that some species of corals are surprisingly resilient to the stress from changing ocean temperatures
+T33	Claim 7094 7274	the Australian Coral Bleaching Task Force announced that the northern portions of the Great Barrier Reef are in the throes of the most intense coral bleaching event on record there
+T34	Premise 7277 7464	The Task Force, comprised of 10 Australian research institutions, made its determination after completing aerial surveys of more than 500 coral reefs from Cairns north to Papua New Guinea
+T36	Premise 7624 7790	“Almost without exception, every reef we flew across showed consistently high levels of bleaching, from the reef slope right up onto the top of the reef," Hughes said
+T37	Premise 7794 8001	We flew for 4,000 kilometers in the most pristine parts of the Great Barrier Reef, and saw only four reefs that had no bleaching. The severity is much greater than in earlier bleaching events in 2002 or 1998
+T40	Premise 8351 8482	It is due to record warm ocean temperatures around the world, partly driven by a strong El Niño event in the tropical Pacific Ocean
+R0	supports Arg1:T2 Arg2:T3
+R1	supports Arg1:T4 Arg2:T5
+R2	supports Arg1:T5 Arg2:T3
+R3	supports Arg1:T6 Arg2:T5
+R4	supports Arg1:T10 Arg2:T3
+R5	supports Arg1:T11 Arg2:T10
+R6	supports Arg1:T12 Arg2:T13
+R7	supports Arg1:T13 Arg2:T3
+R8	supports Arg1:T15 Arg2:T3
+R9	supports Arg1:T17 Arg2:T3
+R10	supports Arg1:T18 Arg2:T17
+R11	supports Arg1:T19 Arg2:T17
+R12	supports Arg1:T20 Arg2:T17
+R13	supports Arg1:T23 Arg2:T3
+R14	supports Arg1:T24 Arg2:T23
+R15	supports Arg1:T25 Arg2:T24
+R16	supports Arg1:T26 Arg2:T23
+R17	supports Arg1:T27 Arg2:T26
+R18	supports Arg1:T28 Arg2:T29
+R19	supports Arg1:T29 Arg2:T28
+R20	supports Arg1:T30 Arg2:T26
+R21	attacks Arg1:T32 Arg2:T3
+R22	supports Arg1:T33 Arg2:T3
+R23	supports Arg1:T34 Arg2:T33
+R24	supports Arg1:T36 Arg2:T33
+R25	supports Arg1:T37 Arg2:T33
+R26	restate Arg1:T40 Arg2:T28

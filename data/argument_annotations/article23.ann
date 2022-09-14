@@ -1,0 +1,23 @@
+T1	MajorClaim 131 246	Claims that coral reefs are doomed because human emissions are making the oceans more acidic have been exaggerated,
+T2	Claim 283 529	An “inherent bias” in scientific journals in favour of more calamitous predictions has excluded research showing that marine creatures are not damaged by ocean acidification, which is caused by the sea absorbing carbon dioxide from the atmosphere
+T3	Claim 532 583	It has been dubbed the “evil twin of climate change
+T4	Claim 765 913	many studies had used flawed methods, subjecting marine creatures to sudden increases in carbon dioxide that would never be experienced in real life
+T6	Claim 1148 1267	this had distracted attention from more urgent threats to reefs such as agricultural pollution, overfishing and tourism
+T7	Premise 1376 1498	there had been huge increase in articles on ocean acidification in recent years, rising from five in 2005 to 600 last year
+T8	Claim 1514 1602	a handful of influential scientific journals and lobbying by international organisations
+T9	Premise 1656 1708	Such journals tend to publish doom and gloom stories
+T16	Premise 2305 2484	More than half of the 44 studies selected for publication found that raised levels of CO2 had little or no impact on marine life, including crabs, limpets, sea urchins and sponges
+T18	Premise 2770 2905	The term ocean acidification was also a misnomer, he said, because it suggested that the oceans could become acidic instead of alkaline
+T21	Premise 3163 3261	If they had called it something else, such as ‘lower alkalinity’, it wouldn’t have been as catchy,
+T22	Claim 3410 3479	a higher level of academic scepticism” should be applied to the topic
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T2
+R2	supports Arg1:T4 Arg2:T1
+R3	supports Arg1:T6 Arg2:T1
+R4	supports Arg1:T7 Arg2:T8
+R5	supports Arg1:T8 Arg2:T1
+R6	supports Arg1:T9 Arg2:T8
+R7	supports Arg1:T16 Arg2:T1
+R8	supports Arg1:T18 Arg2:T22
+R9	supports Arg1:T21 Arg2:T18
+R10	supports Arg1:T22 Arg2:T1

@@ -1,0 +1,43 @@
+T1	MajorClaim 121 307	The historic and devastating floods in Louisiana are the latest in a series of heavy deluges that some climate scientists warn will become even more common as the world continues to warm
+T2	Premise 400 546	the Louisiana disaster as the eighth flood considered to be a once-in-every-500-years event to have taken place in the US in little over 12 months
+T3	Premise 573 739	dozens of people have been killed and thousands of homes have been swamped with water in extreme events in Oklahoma, Texas, South Carolina, West Virginia and Maryland
+T4	Premise 741 882	Noaa considers these floods extreme because, based on historical rainfall records, they should be expected to occur only once every 500 years
+T5	Claim 937 1030	some places in the state experienced storm conditions considered once-every-1,000-year events
+T6	Premise 1032 1179	Close to 2ft of rain fell over a 48-hour period in parts of southern Louisiana, causing residents to scramble to safety from flooded homes and cars
+T7	Premise 1182 1260	At least six people have died, with another 20,000 people having to be rescued
+T8	Premise 1262 1396	Even Louisiana governor John Bel Edwards had to evacuate after his governor’s mansion in Baton Rouge was swamped with chest-high water
+T9	Premise 1398 1487	A federal state of emergency has been declared, with 12,000 people crowding into shelters
+T10	Premise 1490 1610	The National Weather Service balloon released in New Orleans on Friday showed near-record levels of atmospheric moisture
+T11	Claim 1674 1845	Climate scientists have warned that the build-up of moisture in the atmosphere, driven by warming temperatures, is likely to cause a greater number of floods in the future
+T12	Premise 1849 2021	We have been on an upward trend in terms of heavy rainfall events over the past two decades, which is likely related to the amount of water vapor going up in the atmosphere
+T13	Premise 2135 2242	as surface temperatures of the oceans warm up, the immediate response is more water vapor in the atmosphere
+T15	Premise 2323 2413	heavy rainfall events in the US has risen well above the long-term average since the 1990s
+T17	Claim 2682 2800	Warmer air, influenced by heat-trapping gases released by human activity, can contain more water vapor than cooler air
+T18	Premise 2802 2917	With the extra heat helping nourish storms, scientists expect global warming to help produce more intense downpours
+T21	Claim 3113 3291	While scientists are loathe to attribute any single event to changes in the climate, they state that warming temperatures are helping tip the scales towards altered precipitation
+T22	Claim 3293 3426	Some, however, bristle at the belief that because floods and storms have always occurred, they should not be linked to climate change
+T23	Premise 3520 3588	the major floods seen in the US had a “clear human component in them
+T26	Claim 3679 3772	There are plenty of influences on rainfall levels, including natural variation and topography
+T32	Claim 4359 4560	With the US suffering more weather-related disasters than any other country, an increase in rainfall, storm and hurricane intensity is something that could start demanding more attention from lawmakers
+T34	Premise 4744 4774	We either pay now or pay later
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T2
+R2	supports Arg1:T4 Arg2:T1
+R3	supports Arg1:T5 Arg2:T1
+R4	supports Arg1:T6 Arg2:T5
+R5	supports Arg1:T7 Arg2:T5
+R6	supports Arg1:T8 Arg2:T5
+R7	supports Arg1:T9 Arg2:T5
+R8	supports Arg1:T10 Arg2:T5
+R9	supports Arg1:T11 Arg2:T1
+R10	supports Arg1:T12 Arg2:T11
+R11	supports Arg1:T13 Arg2:T11
+R12	supports Arg1:T15 Arg2:T11
+R13	supports Arg1:T17 Arg2:T1
+R14	supports Arg1:T18 Arg2:T17
+R15	supports Arg1:T21 Arg2:T1
+R16	attacks Arg1:T22 Arg2:T21
+R17	supports Arg1:T23 Arg2:T22
+R18	supports Arg1:T26 Arg2:T22
+R19	supports Arg1:T32 Arg2:T1
+R20	supports Arg1:T34 Arg2:T32

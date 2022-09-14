@@ -1,0 +1,117 @@
+T1	MajorClaim 128 280	The dramatic melting of Arctic ice is already driving extreme weather that affects hundreds of millions of people across North America, Europe and Asia,
+T2	Claim 333 416	Severe “snowmageddon” winters are now strongly linked to soaring polar temperatures
+T4	Claim 508 683	The scientists now fear the Arctic meltdown has kickstarted abrupt changes in the planet’s swirling atmosphere, bringing extreme weather in heavily populated areas to the boil
+T5	Premise 686 824	The northern ice cap has been shrinking since the 1970s, with global warming driving the loss of about three-quarters of its volume so far
+T6	Claim 826 882	But the recent heat in the Arctic has shocked scientists
+T8	Premise 989 1069	In November, ice levels hit a record low, and we are now in “uncharted territory
+T9	Claim 1269 1359	These rapid changes in the Arctic are affecting weather patterns where you live right now,
+T10	Claim 1434 1539	they have never happened before in combination with this very warm Arctic, so it is a whole new ball game
+T11	Claim 1543 1707	It is inconceivable that this ridiculously warm Arctic would not have an impact on weather patterns in the middle latitudes further south, where so many people live
+T12	Claim 1711 1774	It’s safe to say [the hot Arctic] is going to have a big impact
+T14	Premise 1926 2075	The area covered by Arctic sea ice at least four years old has decreased from 718,000 sq miles in September 1984 to 42,000 sq miles in September 2016
+T16	Premise 2127 2236	The age of the ice is indicated by shades ranging from blue-gray for the youngest ice to white for the oldest
+T17	Premise 2253 2396	The chain of events that links the melting Arctic with weather to the south begins with rising global temperatures causing more sea ice to melt
+T18	Premise 2398 2532	Unlike on the Antarctic continent, melting ice here exposes dark ocean beneath, which absorbs more sunlight than ice and warms further
+T19	Premise 2534 2624	This feedback loop is why the Arctic is heating up much faster than the rest of the planet
+T20	Premise 2627 2894	This in turn narrows the temperature difference between the Arctic and lower latitudes, which is crucial because it is the temperature gradient between them that drives the jet stream wind, which streaks around the pole at up to 250mph and about 8km above the surface
+T21	Premise 2897 3041	The jet stream forms a boundary between the cold north and the warmer south, but the lower temperature difference means the winds are now weaker
+T22	Premise 3043 3177	This means the jet stream meanders more, with big loops bringing warm air to the frozen north and cold air into warmer southern climes
+T23	Premise 3180 3326	Furthermore, researchers say, the changes mean the loops can remain stuck over regions for weeks, rather than being blown westwards as in the past
+T24	Claim 3328 3382	This “blocking” effect means extreme events can unfold
+T25	Premise 3386 3564	There have been recent studies showing very plausible physical mechanisms of how rapid warming in the Arctic can influence weather in the mid latitudes, both in summer and winter
+T27	Claim 3786 3906	“A couple of years ago this was the main criticism on any such links, that the physics was not well understood,” he said
+T28	Claim 3908 3975	“But the big question [now] is, how important are these mechanisms?
+T29	Claim 3978 4062	The other main influence on the jet stream is sea surface temperature in the tropics
+T30	Claim 4170 4272	The clearest connection so far between the melting Arctic and weather is for extreme winter conditions
+T31	Premise 4274 4445	such as the intense winters that hit parts of North America and northern Europe in 2009-10, 2010-11 and 2013-14, causing record snowfalls and billions of dollars of damage
+T32	Premise 4448 4556	In those years, the jet stream deviated deeply southwards over those regions, pulling down savagely cold air
+T33	Premise 4558 4748	Prof Adam Scaife, a climate modelling expert at the UK’s Met Office, said the evidence for a link to shrinking Arctic ice was now good: “The consensus points towards that being a real effect
+T34	Claim 4815 4896	the accompanying upswings have been linked to worsening the drought in California
+T35	Premise 4899 5017	These northward jet stream swings are of course the reason California is having such a terrible drought,” said Francis
+T36	Claim 5102 5161	“Reality is moving faster than we thought or hoped it would
+T37	Claim 5165 5255	But the winter extremes can also swing the other way and bring mild but torrential weather
+T38	Premise 5257 5327	as seen in the past two winters in the UK, leading to severe flooding,
+T39	Premise 5395 5536	He pointed to the North Atlantic Oscillation (NAO), a cyclic variation in air pressure that may be affected by the fast melting of Arctic ice
+T40	Premise 5538 5689	The variability of the NOA has doubled in the last century, he said: “Within the last decade, there have been wild swings in the NAO values in December
+T41	Claim 5693 5874	The connection between the vanishing Arctic ice and extreme summer weather in the northern hemisphere is probable, according to scientists, but not yet as certain as the winter link
+T42	Premise 5877 6214	Blocking patterns caused by slow-moving meanders of the jet stream have been firmly linked to some devastating events, including the 2010 summer floods in Pakistan, which killed 2,000 people and affected 20 million, and also the searing heatwave in Russia in the same year, which killed 50,000 people and wiped out $15bn (£12bn) of crops
+T43	Premise 6218 6276	We also see such summer events more often in recent years,
+T44	Premise 6292 6448	Blocking events have also been linked to summer deluges in the UK, leading to disastrous flooding in 2007 and 2012 which caused billions of pounds in damage
+T45	Premise 6451 6612	The year 2012 was also an extreme year for Greenland, with record melting across its entire surface flushing water into the ocean and accelerating sea level rise
+T46	Premise 6614 6808	The hot loop of air that sat on Greenland that year may also be linked to one of the biggest weather disasters of recent years: Hurricane Sandy, which killed 233 people and cost $75bn in damages
+T47	Premise 6811 7012	Scientists suspect that the blocking event over Greenland, potentially linked to the record low Arctic ice that summer, prevented the hurricane veering north-east out into the Atlantic like most storms
+T48	Premise 7014 7126	Instead, blocked by the high pressure, Sandy swung left over the most populated area of the east coast of the US
+T49	Claim 7129 7251	Another consequence of the fast melting Arctic raises the possibility that there may be even worse extreme weather to come
+T51	Premise 7354 7492	The melting of Greenland ice is pouring about 250bn tonnes a year of fresh water, which is less dense than salty sea water, into the ocean
+T52	Premise 7494 7682	As a result, the water mass sinks less and the current that drags warm water up the Atlantic is weakened – scientists have already found that the current is at its weakest for a millennium
+T53	Premise 7685 7854	This means a region of the north Atlantic is becoming relatively cool and this exaggerates the contrast with tropical waters to the south, which is the driver for storms
+T54	Premise 7856 8076	In the worst case scenario, said the renowned climate scientist Prof James Hansen, this “will drive superstorms, stronger than any in modern times – all hell will break loose in the north Atlantic and neighbouring lands”
+T55	Premise 8345 8440	118,000 years ago a superstorm tossed 1,000-tonne mega boulders on to the shores of the Bahamas
+T56	Claim 8443 8523	“I would certainly not call such [superstorm] scenarios ridiculous,” said Coumou
+T57	Claim 8526 8581	But it is speculative – we don’t have the hard evidence
+T58	Claim 8621 8760	there is cause for concern that the complex interactions are turning the slow burn of global temperature rise into sudden weather disasters
+T59	Premise 8764 8884	The worrying aspect is that such dynamical changes can occur more abruptly than simple background warming of the climate
+T60	Premise 8901 9038	Dynamical changes can change more rapidly and can therefore lead to surprises and I think there are many such possibilities in the system
+T61	Claim 9042 9105	Amid the gloomy prospects, there is some cause for hope however
+T62	Claim 9108 9235	“A large fraction of the US public still doesn’t believe that it is humans that are affecting the climate system,” said Francis
+T63	Claim 9237 9391	“But one of the silver linings of this pretty dark cloud is that the Arctic is such an obvious and conspicuous change, that anybody can see them happening
+T64	Claim 9393 9425	There is no ambiguity whatsoever
+T65	Claim 9429 9572	But this changing of minds needs to happen quickly, said Hansen: “If we wait for the natural world to reveal itself clearly, it may be too late
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T4 Arg2:T1
+R2	supports Arg1:T5 Arg2:T4
+R3	supports Arg1:T6 Arg2:T1
+R4	supports Arg1:T8 Arg2:T6
+R5	supports Arg1:T9 Arg2:T6
+R6	supports Arg1:T10 Arg2:T1
+R7	restate Arg1:T11 Arg2:T9
+R8	supports Arg1:T12 Arg2:T1
+R9	supports Arg1:T14 Arg2:T12
+R10	supports Arg1:T16 Arg2:T12
+R11	supports Arg1:T17 Arg2:T12
+R12	supports Arg1:T18 Arg2:T17
+R13	supports Arg1:T19 Arg2:T1
+R14	supports Arg1:T20 Arg2:T12
+R15	supports Arg1:T21 Arg2:T12
+R16	joint Arg1:T22 Arg2:T21
+R17	supports Arg1:T23 Arg2:T12
+R18	supports Arg1:T24 Arg2:T1
+R19	supports Arg1:T25 Arg2:T28
+R20	supports Arg1:T27 Arg2:T24
+R21	attacks Arg1:T28 Arg2:T27
+R22	supports Arg1:T29 Arg2:T1
+R23	supports Arg1:T30 Arg2:T1
+R24	supports Arg1:T31 Arg2:T30
+R25	supports Arg1:T32 Arg2:T30
+R26	supports Arg1:T33 Arg2:T30
+R27	supports Arg1:T34 Arg2:T1
+R28	supports Arg1:T35 Arg2:T30
+R29	supports Arg1:T36 Arg2:T1
+R30	attacks Arg1:T37 Arg2:T30
+R31	supports Arg1:T38 Arg2:T37
+R32	supports Arg1:T39 Arg2:T37
+R33	joint Arg1:T40 Arg2:T39
+R34	supports Arg1:T41 Arg2:T1
+R35	supports Arg1:T42 Arg2:T41
+R36	supports Arg1:T43 Arg2:T41
+R37	supports Arg1:T44 Arg2:T41
+R38	supports Arg1:T45 Arg2:T44
+R39	supports Arg1:T46 Arg2:T44
+R40	supports Arg1:T47 Arg2:T41
+R41	supports Arg1:T48 Arg2:T47
+R42	supports Arg1:T49 Arg2:T1
+R43	supports Arg1:T51 Arg2:T49
+R44	joint Arg1:T52 Arg2:T51
+R45	supports Arg1:T53 Arg2:T49
+R46	supports Arg1:T54 Arg2:T49
+R47	supports Arg1:T55 Arg2:T49
+R48	supports Arg1:T56 Arg2:T49
+R49	attacks Arg1:T57 Arg2:T56
+R50	supports Arg1:T58 Arg2:T1
+R51	supports Arg1:T59 Arg2:T58
+R52	supports Arg1:T60 Arg2:T58
+R53	supports Arg1:T61 Arg2:T1
+R54	attacks Arg1:T62 Arg2:T61
+R55	attacks Arg1:T63 Arg2:T62
+R56	attacks Arg1:T64 Arg2:T62
+R57	supports Arg1:T65 Arg2:T1

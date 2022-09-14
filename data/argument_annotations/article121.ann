@@ -1,0 +1,36 @@
+T2	Claim 150 174	The Earth is not warming
+T5	Claim 317 468	Those are some of the skeptical assertions echoed by Republicans on the U.S. House of Representatives Science, Space and Technology Committee yesterday
+T7	Claim 899 1007	A leading climate scientist testifying before the panel spent much of the two hours correcting misstatements
+T8	Premise 1010 1115	The purpose of the hearing was to focus on how technology could be deployed for climate change adaptation
+T9	Claim 1121 1183	the hearing frequently turned to the basics of climate science
+T11	Premise 1405 1650	Rep. Dana Rohrabacher (R-CA) said he was bothered that established climate science has not been questioned more by the committee, which has accused federal climate scientists of fraudulently manipulating climate data and subpoenaed their records
+T14	Premise 2012 2217	Rep. Lamar Smith (R-TX), chairman of the committee, entered into the record an opinion piece published in The Wall Street Journal yesterday that claimed sea levels are not rising because of climate change,
+T19	Premise 2705 2876	At one point, Smith showed a slide of two charts that he said demonstrated how the rate of sea-level rise does not equal the sharp spike in the consumption of fossil fuels
+T20	Premise 2878 3153	When Smith pointed out that rates of sea-level rise have only increased slightly compared with the rate of fossil fuel use, Duffy pointed out that his chart was from a single tide gauge station, near San Francisco, and that sea levels rise at different rates around the world
+T26	Premise 4014 4087	Brooks then said that erosion plays a significant role in sea-level rise,
+T28	Premise 4153 4286	He said the California coastline and the White Cliffs of Dover tumble into the sea every year, and that contributes to sea-level rise
+T29	Premise 4288 4450	He also said that silt washing into the ocean from the world's major rivers, including the Mississippi, the Amazon and the Nile, is contributing to sea-level rise
+T32	Premise 4768 4810	Brooks added that Antarctic ice is growing
+T34	Premise 4989 5125	"We have satellite records clearly documenting a shrinkage of the Antarctic ice sheet and an acceleration of that shrinkage," Duffy said
+T40	Premise 5756 5864	Earlier this year, NASA researchers determined that Antarctica's ice loss has accelerated in the last decade
+T43	Premise 6124 6321	Rep. Bill Posey (R-FL) said scientists said in the 1970s that the Earth was cooling, a popular talking point of climate skeptics and the subject of a fake Time magazine cover that has become a meme
+T44	Premise 6323 6480	Duffy corrected him and said that was essentially an outlier position at the time and that scientists long ago determined that humans were warming the planet
+R0	supports Arg1:T2 Arg2:T5
+R1	attacks Arg1:T5 Arg2:T2
+R2	supports Arg1:T7 Arg2:T9
+R3	supports Arg1:T8 Arg2:T9
+R4	supports Arg1:T9 Arg2:T7
+R5	supports Arg1:T11 Arg2:T9
+R6	supports Arg1:T14 Arg2:T9
+R7	supports Arg1:T19 Arg2:T14
+R8	attacks Arg1:T20 Arg2:T19
+R9	supports Arg1:T28 Arg2:T26
+R10	supports Arg1:T29 Arg2:T26
+R11	attacks Arg1:T34 Arg2:T32
+R12	supports Arg1:T40 Arg2:T34
+R13	attacks Arg1:T44 Arg2:T43
+T1	SuperAnnotatorPremise 3155 3219	Smith did not show rising atmospheric CO2 levels or temperatures
+T3	SuperAnnotatorPremise 3221 3302	both of which have climbed steadily in recent decades as emissions have increased
+T4	Claim 3518 3622	The rate of global sea-level rise has accelerated and is now four times faster than it was 100 years ago
+T6	Claim 4454 4659	Every time you have that soil or rock or whatever it is that is deposited into the seas, that forces the sea levels to rise, because now you have less space in those oceans, because the bottom is moving up
+T10	Claim 4715 4764	on human time scales, those are minuscule effects

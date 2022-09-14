@@ -1,0 +1,31 @@
+T1	Claim 133 195	The United States is witnessing a massive, dangerous heat wave
+T3	Claim 480 557	This will, inevitably, lead to much talk of climate change in the coming days
+T5	MajorClaim 939 1197	heat waves that appear out of the norm in some way, for instance in their intensity, frequency, or duration — while scientists never say individual events are “caused” by climate change, they are getting less and less circumspect about making some connection
+T8	Premise 1570 1663	‘heat waves’ may be one of the primary climate change markers like home runs were in baseball
+T9	Claim 1683 1770	when a planet warms, the odds shift in favor of more intense or long lasting heat waves
+T10	Claim 1871 2168	Confidence in attribution findings of anthropogenic influence is greatest for those extreme events that are related to an aspect of temperature, such as the observed long-term warming of the region or global climate, where there is little doubt that human activities have caused an observed change
+T11	Claim 2188 2344	for extreme heat and cold events, changes in long-term mean conditions provide a basis for expecting that there should also be changes in extreme conditions
+T13	Premise 2508 2572	U.S. heat waves have already “become more frequent and intense,”
+T16	Claim 2839 3066	Climate models project that the same summertime temperatures that ranked among the hottest 5% in 1950-1979 will occur at least 70% of the time by 2035-2064 in the U.S. if global emissions of heat-trapping gases continue to grow
+T17	Claim 3070 3265	However, pointing all of this out is not the same as making a specific attribution for this specific heat event — rather, it is saying that attribution can be made for this class or type of event
+T18	Premise 3280 3424	specific attribution requires active research, and an attention to the actual temperatures, duration and other aspects of the weather phenomenon
+T19	Claim 3461 3514	there are always heat waves, even in a stable climate
+T23	Claim 4245 4369	With every heat wave, probably the number one question is, is it climate change, or is it not? Well the answer is, it’s both
+T24	Claim 4461 4526	We get heat waves naturally, but climate change is amping them up
+T26	Claim 4934 5063	this event poses severe risks to health — particularly for children and the elderly — and also to crops across the U.S. heartland
+T27	Premise 5065 5232	She pointed to an extreme 2003 heat wave that affected Paris and Europe, and which has indeed been connected to climate change through statistical attribution analysis
+T28	Premise 5234 5382	That event killed hundreds of people in Paris and London, and a recent study attributed at least some of those deaths, themselves, to climate change
+R0	joint Arg1:T1 Arg2:T3
+R1	supports Arg1:T8 Arg2:T9
+R2	supports Arg1:T9 Arg2:T5
+R3	supports Arg1:T10 Arg2:T5
+R4	supports Arg1:T11 Arg2:T5
+R5	supports Arg1:T13 Arg2:T9
+R6	supports Arg1:T16 Arg2:T5
+R7	attacks Arg1:T17 Arg2:T5
+R8	supports Arg1:T18 Arg2:T17
+R9	supports Arg1:T19 Arg2:T17
+R10	supports Arg1:T23 Arg2:T5
+R11	supports Arg1:T24 Arg2:T5
+R12	joint Arg1:T27 Arg2:T28
+R13	supports Arg1:T28 Arg2:T26

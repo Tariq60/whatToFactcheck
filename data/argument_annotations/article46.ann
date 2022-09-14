@@ -1,0 +1,95 @@
+T1	Premise 142 306	The average temperature across the world’s land and ocean surfaces was 58.69 Fahrenheit, or 1.69 degrees above the 20th-century average of 57 degrees, NOAA declared
+T2	Premise 308 436	The agency also noted that the record for the global temperature has now successively been broken five times since the year 2000
+T3	Premise 438 525	The years 2005 and 2010 were also record warm years, according to the agency’s data set
+T4	MajorClaim 569 600	2016 the warmest year on record
+T6	Premise 841 984	NASA found a bigger leap upward of temperatures in 2016, measuring the year as .22 degrees Fahrenheit higher than the prior record year of 2015
+T7	Premise 986 1091	The agency also noted that since the year 2001, the planet has seen “16 of the 17 warmest years on record
+T8	Premise 1106 1166	is remarkably the third record year in a row in this series,
+T9	MajorClaim 1260 1349	We don’t expect record years every year, but the ongoing long-term warming trend is clear
+T10	Premise 1353 1552	The record comes two days before Donald Trump, who has tweeted that global warming is a “hoax,” assumes the presidency and, with it, control over the two science agencies that announced these records
+T11	Premise 1554 1790	It is also the same day that Scott Pruitt, Trump’s controversial nominee for the Environmental Protection Agency, is appearing before the Senate in an often-tense confirmation hearing in which he has been questioned about climate change
+T12	Premise 1792 1880	Pruitt has previously written that the “debate” over climate change is “far from settled
+T13	Claim 1884 2268	Trump’s other nominees, such as State Department nominee Rex Tillerson and Interior Department nominee Ryan Zinke, have been less dismissive of climate change in their confirmation hearings, acknowledging at least some human contribution to the phenomenon but also raising questions either about the extent to which it is human-caused or about our capacity to predict the consequences
+T14	Premise 2270 2433	On Wednesday, Pruitt acknowledged that climate change is not a “hoax” and said that “the climate is changing, and human activity contributes to that in some manner
+T15	Claim 2437 2474	Scientists have been far less guarded
+T16	Claim 2476 2513	“2016 is a wake-up call in many ways,
+T17	MajorClaim 2618 2683	Climate change is real, it is caused by humans, and it is serious
+T18	Premise 2785 2892	now concurred on identifying 2014, 2015 and 2016 as, successively, the three warmest years in their records
+T19	Claim 2894 3007	There was a noticeable difference this year, however, in how much two agencies judged 2016 to have surpassed 2015
+T20	Premise 3009 3030	NASA was more bullish
+T22	Premise 3143 3286	The warming in the Arctic has really been exceptional, and what you decide to do when you’re interpolating across the Arctic makes a difference
+T23	Claim 3304 3393	But the differences between NOAA and NASA aren’t that significant, Schmidt further argued
+T24	Premise 3564 3698	the main take-home response there is that the trends we’ve been seeing since the 1970s are continuing and have not paused in any way,”
+T26	Claim 3787 3942	Last year’s warmth was partly enhanced by a strong weather pattern known as El Niño, but the federal scientists underscore that this was not the only cause
+T27	Premise 4050 4131	but the 2016 planetary temperature now far surpasses the temperature of that year
+T28	Premise 4155 4328	The reason is that Earth has been warming since then, allowing another El Niño event, unlocking heat from the vast Pacific Ocean, to push overall temperatures to new heights
+T29	Premise 4332 4394	This El Niño might have contributed about a quarter or a third
+T34	Premise 5079 5198	2016 was the warmest year on record, albeit only “nominally” because it was very close to 2015 in the agency’s data set
+T35	Premise 5200 5362	The center reported that while 2016 was .77 degrees Celsius above the temperature average between 1961 and 1990, 2015 was very close at .76 degrees Celsius higher
+T36	Claim 5365 5486	The difference between the Hadley Center and NASA once again comes down to the treatment of the Arctic, Schmidt explained
+T37	Premise 5490 5605	Our analysis demonstrates that the Arctic is warming around two to three times as fast as the global mean,” he said
+T38	Claim 5607 5740	“So that will be the cause of continuing divergences between the groups, and it ‘s something I think we all need to be thinking about
+T39	Premise 5744 5897	NASA further noted in its analysis that compared with the late 19th century, the planet has now warmed about 1.1 degrees Celsius, or 2 degrees Fahrenheit
+T40	Claim 5899 6103	That’s significant because the global community has been striving to limit overall warming to considerably below a 2 degree Celsius rise, and even, if possible, to hold it to a 1.5 degree Celsius increase
+T41	Premise 6105 6174	That is now about .4 degrees away, in Celsius, based on these figures
+T42	Premise 6178 6518	It is the second year in a row that the annual global temperature has been more than 1 Celsius degree higher than the pre-industrial level, and shows that the world is moving ever closer to the warming threshold of 1.5 Celsius degrees, beyond which many scientists have concluded the impacts of climate change will be unacceptably dangerous
+T43	Premise 6727 6778	Last year’s warmth was manifested across the planet
+T45	Claim 7135 7231	Among major 2016 events, the devastating bleaching of the Great Barrier Reef did not stand alone
+T46	Premise 7233 7455	In a catalogue of some of the extremes the planet witnessed during the year, NOAA also noted the megafire that engulfed Fort McMurray, in Alberta, Canada, at the beginning of May, relatively early in the year for wildfires
+T47	Premise 7457 7702	That event was certainly consistent with a warming climate, as well as with the role of El Niño, although scientists are reluctant to formally say that climate change has played a role in an individual event without conducting extensive analysis
+T48	Premise 7705 7971	Extreme high temperatures were seen from India — where the city of Phalodi recorded temperatures of 51 degrees Celsius (123.8 Fahrenheit) in May, a new national record — to Iran, where a temperature of 53 degrees Celsius (127.4 F) was recorded in Delhoran on July 22
+T49	Premise 7974 8177	For the contiguous United States, 2o16 was merely the second-warmest year on record, but for Alaska, it was the warmest yet recorded, underscoring once again the sharpness of Arctic warmth, in particular
+T50	Premise 8180 8257	The particular signature of warming in 2016 was also revealing in another way
+T52	Premise 8433 8728	The pattern of record warmth in the lower atmosphere, coupled with record cold in the stratosphere, provides a clear fingerprint of the cause of the unprecedented warming — greenhouse gases trapping heat in the lower atmosphere instead of letting it escape to the stratosphere, and then to space
+T54	Claim 8839 9009	All of that said, because of the extreme warmth that occurred early in 2016, the record just announced does not come as much of a surprise to weather and climate watchers
+T55	Premise 9011 9057	On April 15, NASA’s Schmidt tweeted: “Too soon
+R0	joint Arg1:T1 Arg2:T2
+R1	joint Arg1:T2 Arg2:T3
+R2	supports Arg1:T3 Arg2:T4
+R3	supports Arg1:T4 Arg2:T9
+R4	supports Arg1:T6 Arg2:T4
+R5	supports Arg1:T7 Arg2:T4
+R6	supports Arg1:T8 Arg2:T9
+R7	supports Arg1:T9 Arg2:T4
+R8	supports Arg1:T10 Arg2:T13
+R9	supports Arg1:T11 Arg2:T13
+R10	supports Arg1:T12 Arg2:T13
+R11	supports Arg1:T13 Arg2:T9
+R12	supports Arg1:T14 Arg2:T13
+R13	supports Arg1:T15 Arg2:T9
+R14	supports Arg1:T16 Arg2:T17
+R15	supports Arg1:T17 Arg2:T15
+R16	supports Arg1:T18 Arg2:T20
+R17	supports Arg1:T19 Arg2:T9
+R18	supports Arg1:T20 Arg2:T19
+R19	supports Arg1:T22 Arg2:T20
+R20	supports Arg1:T23 Arg2:T4
+R21	supports Arg1:T24 Arg2:T23
+R22	supports Arg1:T26 Arg2:T9
+R23	supports Arg1:T27 Arg2:T26
+R24	joint Arg1:T28 Arg2:T27
+R25	supports Arg1:T29 Arg2:T26
+R26	supports Arg1:T34 Arg2:T36
+R27	supports Arg1:T35 Arg2:T34
+R28	restate Arg1:T36 Arg2:T20
+R29	supports Arg1:T37 Arg2:T36
+R30	supports Arg1:T38 Arg2:T36
+R31	supports Arg1:T39 Arg2:T40
+R32	supports Arg1:T40 Arg2:T4
+R33	supports Arg1:T41 Arg2:T40
+R34	supports Arg1:T42 Arg2:T40
+R35	supports Arg1:T43 Arg2:T42
+R36	supports Arg1:T45 Arg2:T9
+R37	supports Arg1:T46 Arg2:T45
+R38	supports Arg1:T47 Arg2:T45
+R39	supports Arg1:T48 Arg2:T45
+R40	supports Arg1:T49 Arg2:T45
+R41	supports Arg1:T50 Arg2:T45
+R42	supports Arg1:T52 Arg2:T45
+R43	supports Arg1:T54 Arg2:T9
+R44	supports Arg1:T55 Arg2:T54
+T5	SuperAnnotatorClaim 569 600	2016 the warmest year on record
+T21	SuperAnnotatorClaim 2618 2683	Climate change is real, it is caused by humans, and it is serious
+T25	SuperAnnotatorPremise 3957 4047	1998 was also, at the time, the warmest year on record, thanks in part to a strong El Niño
+T30	SuperAnnotatorClaim 8730 8820	No doubt about it anymore — humans, mainly by burning fossil fuels, are cooking the planet
+T31	SuperAnnotatorPremise 9011 9163	On April 15, NASA’s Schmidt tweeted: “Too soon? I estimate >99% chance of an annual record in 2016 in @NASAGISS temperature data, based on Jan-Mar alone

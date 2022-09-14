@@ -1,0 +1,46 @@
+T2	MajorClaim 592 804	President Trump has an opportunity to relieve our nation of the unfair and economically devastating requirements of the Paris Agreement, the United Nations climate treaty he pledged to rip up during the campaign.
+T3	Claim 898 1083	The agreement, signed by the Obama administration last year, would commit the United States to drastically reducing its carbon emissions while allowing some countries to increase theirs
+T5	Premise 1249 1416	the Paris Agreement could obliterate $3 trillion of GDP, 6.5 million industrial sector jobs and $7,000 in per capita household income from the American economy by 2040
+T6	Premise 1418 1539	Meeting the 2025 emissions reduction target alone could subtract $250 billion from our GDP and eliminate 2.7 million jobs
+T7	Premise 1541 1653	The cement, iron and steel, and petroleum refining industries could see their production cut by 21% 19%, and 11%
+T8	Claim 1668 1881	Not only would these unfair standards reduce American job growth and wages and increase monthly utility costs for hardworking families, they would fundamentally disadvantage the United States in the global economy
+T9	Claim 1895 1977	our economic output would lag while other countries continued to expand their GDPs
+T11	Claim 2176 2312	at its core, it is about increasing government control -- over the economy, the energy sector and nearly every aspect of our daily lives
+T13	Claim 2314 2440	It represents the exact misguided, top-down, government-knows-best approach that American voters resoundingly rejected in 2016
+T14	Claim 2442 2603	We cannot pursue a path that puts American workers first if we cripple a fossil fuel energy sector that generates 82% of the energy consumed in the United States
+T17	Premise 2765 2835	America is poised to become a net energy exporter over the next decade
+T19	Claim 3009 3087	let's not forget the massive utility cost increases the agreement would entail
+T20	Premise 3089 3289	The Clean Power Plan, a major component of fulfilling the agreement, would spike energy costs for working and middle-class Texans by 16% by 2030, according to the Economic Reliability Council of Texas
+T21	Claim 3357 3503	We simply cannot afford an agreement that puts thousands of Americans out of work, increases their energy costs and devastates our core industries
+T22	Claim 3542 3616	the Paris Agreement would do next to nothing to impact global temperatures
+T23	Premise 3646 3791	if all carbon emissions in America were basically eliminated, global temperatures would only decrease by less than two-tenths of a degree Celsius
+T26	Premise 4110 4173	Russia is permitted to increase its emissions approximately 50%
+T28	Claim 4344 4537	This disparity among the countries' pledges inflicts real losses on our economy now while our rivals continue to grow, industrialize and diversify at their own pace with no implementation costs
+T29	Claim 4556 4767	the agreement would force American taxpayers to subsidize alternative energy at the expense of clean coal, nuclear power and natural gas -- energy resources that actually work for our economy and our environment
+T30	Claim 4769 4861	The Paris Agreement would also handicap America in the global race for new sources of energy
+T31	Premise 4863 5007	Russia has committed financial and military assets to the Arctic to stake its claim to the region's vast deepwater mineral, oil and gas deposits
+T37	Claim 5408 5495	the agreement would damage America's national security as much as our economic security
+T38	Claim 5497 5709	The emission cuts that the US would have to make today, and the resultant costs for our own energy firms, would weaken our ability to battle our rivals on an equal footing in the drive for untapped energy sources
+T42	MajorClaim 6333 6472	I hope President Trump will take the opportunity before him to fulfill the commitment he made and withdraw America from the Paris Agreement
+R0	supports Arg1:T3 Arg2:T2
+R1	supports Arg1:T5 Arg2:T8
+R2	supports Arg1:T6 Arg2:T8
+R3	supports Arg1:T7 Arg2:T8
+R4	supports Arg1:T8 Arg2:T9
+R5	supports Arg1:T9 Arg2:T2
+R6	supports Arg1:T11 Arg2:T2
+R7	supports Arg1:T13 Arg2:T11
+R8	supports Arg1:T14 Arg2:T8
+R9	supports Arg1:T17 Arg2:T2
+R10	supports Arg1:T20 Arg2:T19
+R11	supports Arg1:T21 Arg2:T17
+R12	supports Arg1:T22 Arg2:T2
+R13	supports Arg1:T23 Arg2:T22
+R14	supports Arg1:T26 Arg2:T22
+R15	supports Arg1:T28 Arg2:T2
+R16	supports Arg1:T29 Arg2:T28
+R17	supports Arg1:T30 Arg2:T2
+R18	supports Arg1:T31 Arg2:T30
+R19	supports Arg1:T37 Arg2:T2
+R20	supports Arg1:T38 Arg2:T37
+R21	restate Arg1:T42 Arg2:T2

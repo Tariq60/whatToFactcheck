@@ -1,0 +1,53 @@
+T1	MajorClaim 116 339	The world is careening towards an environment never experienced before by humans, with the temperature of the air and oceans breaking records, sea levels reaching historic highs and carbon dioxide surpassing a key milestone
+T2	Claim 382 655	The “state of the climate” report, led by the National Oceanic and Atmospheric Administration (Noaa) with input from hundreds of scientists from 62 countries, confirmed there was a “toppling of several symbolic mileposts” in heat, sea level rise and extreme weather in 2015
+T3	Premise 659 709	The impacts of climate change are no longer subtle
+T5	Claim 901 936	Last year was the warmest on record
+T7	Premise 1037 1099	the world is now 1C warmer than it was in pre-industrial times
+T9	Premise 1202 1256	2016 is highly likely to break the annual record again
+T12	Claim 1410 1531	The oceans, which absorb more than 90% of the extra CO2 pumped into the atmosphere, also reached a new record temperature
+T15	Premise 1751 1878	The thermal expansion of the oceans, compounded by melting glaciers, resulted in the highest global sea level on record in 2015
+T16	Premise 1880 2007	The oceans are around 70mm higher than the 1993 average, which is when comprehensive satellite measurements of sea levels began
+T17	Premise 2009 2142	The seas are rising at an average rate of 3.3mm a year, with the western Pacific and Indian Oceans experiencing the fastest increases
+T18	Claim 2145 2307	These changes are being driven by a CO2 concentration that surpassed the symbolic 400 parts per million mark at the Mauna Loa research station in Hawaii last year
+T19	Premise 2309 2433	The Noaa report states that the global CO2 level was a touch under this, at 399.4ppm, an increase of 2.2ppm compared to 2014
+T20	Premise 2470 2624	Noaa said other “remarkable” changes in 2015 include the Arctic’s lowest maximum sea ice extent in the 37-year satellite record, recorded in February 2015
+T21	Premise 2626 2868	The world’s alpine glaciers recorded a net annual loss of ice for the 36th consecutive year and the Greenland ice sheet, which would balloon sea levels by around 7m should it disintegrate, experienced melting over more than 50% of its surface
+T22	Claim 2871 2963	The rapid changes in the climate may have profound consequences for humans and other species
+T23	Premise 2965 3047	In June last year, a severe heatwave claimed over 1,000 lives in Karachi, Pakistan
+T24	Premise 3049 3120	Severe drought caused food shortages for millions of people in Ethiopia
+T26	Premise 3263 3346	Diminishing sea ice is causing major walrus herds to haul themselves out on to land
+T27	Premise 3348 3508	Arctic marine species, such as snailfish and polar cod, are being pushed out of the region by species coming from further south, attracted to the warming waters
+T28	Premise 3510 3597	A huge algal bloom off the west coast of North America harmed marine life and fisheries
+T29	Claim 3622 3756	Scientists have said there were underlying climate change trends at play but last year was also influenced by the strong El Niño event
+T30	Premise 3861 3934	El Niño has also helped spur searing heat in 2016 but has now petered out
+T31	Premise 4025 4200	last year’s climate “was shaped both by long-term change and an El Niño event. When we think about being climate resilient, both of these time scales are important to consider
+T32	Premise 4204 4357	Last year’s El Niño was a clear reminder of how short-term events can amplify the relative influence and impacts stemming from longer-term warming trends
+T33	Premise 4429 4524	there was a 75% annual increase in the amount of land that experienced severe drought last year
+T34	Claim 4528 4616	Looking at a range of climate measurements, 2015 was yet another highly significant year
+T35	Premise 4629 4783	“Not only was 2015 the warmest year on record by a large margin, it was also another year when the levels of dominant greenhouse gases reached new peaks.”
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T2
+R2	supports Arg1:T5 Arg2:T1
+R3	supports Arg1:T7 Arg2:T2
+R4	supports Arg1:T9 Arg2:T2
+R5	supports Arg1:T12 Arg2:T1
+R6	supports Arg1:T15 Arg2:T2
+R7	supports Arg1:T16 Arg2:T2
+R8	supports Arg1:T17 Arg2:T2
+R9	supports Arg1:T18 Arg2:T1
+R10	supports Arg1:T19 Arg2:T2
+R11	supports Arg1:T20 Arg2:T2
+R12	supports Arg1:T21 Arg2:T20
+R13	supports Arg1:T22 Arg2:T1
+R14	supports Arg1:T23 Arg2:T22
+R15	supports Arg1:T24 Arg2:T22
+R16	supports Arg1:T26 Arg2:T22
+R17	supports Arg1:T27 Arg2:T26
+R18	supports Arg1:T28 Arg2:T26
+R19	supports Arg1:T29 Arg2:T1
+R20	supports Arg1:T30 Arg2:T29
+R21	supports Arg1:T31 Arg2:T29
+R22	supports Arg1:T32 Arg2:T29
+R23	supports Arg1:T33 Arg2:T29
+R24	supports Arg1:T34 Arg2:T1
+R25	supports Arg1:T35 Arg2:T29

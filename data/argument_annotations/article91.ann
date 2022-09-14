@@ -1,0 +1,13 @@
+T1	Premise 82 235	Helen Harwatt is a researcher trained in environmental nutrition, a field focused on developing food systems that balance human health and sustainability
+T5	Premise 525 732	Harwatt and a team of scientists from Oregon State University, Bard College, and Loma Linda University calculated just what would happen if every American made one dietary change: substituting beans for beef
+T7	Claim 1095 1212	this one dietary change could achieve somewhere between 46 and 74 percent of the reductions needed to meet the target
+T10	Premise 1557 1825	A relatively small, single-food substitution could be the most powerful change a person makes in terms of their lifetime environmental impact—more so than downsizing one’s car, or being vigilant about turning off light bulbs, and certainly more than quitting showering
+T12	Premise 2057 2198	The beans belong to a feed lot that holds 38,000 cattle, the growth and fattening of which means dispensing 900 metric tons of feed every day
+T14	Claim 2335 2389	In the process, the cows will emit much greenhouse gas
+T21	Premise 3063 3150	In all, almost a third of the land on Earth is used to produce meat and animal products
+R0	joint Arg1:T1 Arg2:T5
+R1	supports Arg1:T7 Arg2:T10
+R2	supports Arg1:T10 Arg2:T5
+R3	supports Arg1:T12 Arg2:T14
+R4	supports Arg1:T14 Arg2:T5
+R5	supports Arg1:T21 Arg2:T14

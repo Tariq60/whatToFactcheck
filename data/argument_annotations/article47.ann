@@ -1,0 +1,22 @@
+T3	MajorClaim 155 216	There is now less sea ice on Earth than at any time on record
+T7	Premise 438 556	Arctic sea ice this January averaged 5.17 million square miles, the lowest for the month in the 38-year sea ice record
+T8	Premise 603 692	That is 100,000 square miles less than the previous January record low set just last year
+T9	Premise 695 778	January air temperatures climbed above average over nearly all of the Arctic Ocean,
+T10	Premise 833 931	In some parts of the Arctic, temperatures reached a whopping 9 degrees above average for the month
+T11	Premise 934 1047	At the bottom of the world, sea ice is also at all-time record low levels around Antarctica, the data center said
+T15	Claim 1392 1424	It can affect weather in the U.S
+T16	Claim 1427 1552	The amount of summer sea ice in the Arctic has steadily declined over the past few decades because of man-made global warming
+T18	Premise 1622 1786	Greenhouse gases emitted through human activities and the resulting increase in global mean temperatures are the most likely underlying cause of the sea ice decline
+T20	Premise 1947 2051	Antarctic ice fluctuates wildly year to year, and the link to man-made global warming there is not clear
+T21	Premise 2087 2190	Using paleoclimatic data, studies suggest sea ice is shrinking to levels not seen in thousands of years
+R0	supports Arg1:T3 Arg2:T7
+R1	supports Arg1:T7 Arg2:T21
+R2	supports Arg1:T8 Arg2:T7
+R3	supports Arg1:T9 Arg2:T21
+R4	supports Arg1:T10 Arg2:T3
+R5	supports Arg1:T11 Arg2:T21
+R6	supports Arg1:T15 Arg2:T3
+R7	supports Arg1:T16 Arg2:T3
+R8	supports Arg1:T18 Arg2:T16
+R9	attacks Arg1:T20 Arg2:T18
+R10	supports Arg1:T21 Arg2:T16

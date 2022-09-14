@@ -1,0 +1,45 @@
+T2	Claim 247 348	Because CO₂ acts as a fertilizer, as much as half of all vegetated land is persistently greener today
+T4	Claim 400 562	the BBC focused on warning that the paper shouldn’t make us stop worrying about global warming, with threats like melting glaciers and more severe tropical storms
+T6	Claim 629 665	Our climate conversation is lopsided
+T8	Premise 845 930	increasing CO₂ and precipitation from global warming will make the world much greener
+T9	Claim 1061 1101	more people die from cold than from heat
+T10	Premise 1310 1412	heat causes almost one-half of one percent of all deaths, while more than 7 percent are caused by cold
+T11	Claim 1415 1491	As global warming pushes temperatures up, more people will die in heat waves
+T12	Claim 1571 1638	What we don’t hear from her is that fewer people will die from cold
+T13	Premise 1732 1816	By the 2080s, increased heat-waves will kill nearly 5,000 in a comparable population
+T16	Claim 1902 1980	Only mentioning the negatives distorts and degrades the political conversation
+T20	Claim 2587 2690	The idea that climate is bad for all good things and good for all bad things belongs in a morality play
+T21	Premise 2760 2831	When the BBC warns of more severe tropical storms, it has some validity
+T23	Claim 2906 2933	it is an incomplete picture
+T24	Claim 2936 2993	As the world develops, it has become much less vulnerable
+T25	Premise 2995 3098	a hurricane hitting Florida kills few people while a similar event in Guatemala kills tens of thousands
+T26	Premise 3108 3227	climate-related deaths have dropped from half a million per year in the 1920s to less than 25,000 per year in the 2010s
+T29	Claim 3491 3636	When the BBC warns of melting glaciers it is reminiscent of Al Gore’s concern that 40 per cent of the world get drinking water from the Himalayas
+T30	Claim 3750 3910	Yet, a new study of 60 climate models and scenarios shows this warning fails to take into account the fact that global warming will mean precipitation increases
+T31	Premise 3912 4106	Indeed, water flow will actually increase over this century, which is likely beneficial in increasing “water availability in the Indus Basin irrigation scheme during the spring growing seasons.”
+T32	Claim 4108 4240	If our climate conversation managed to include the good along with the bad, we would have a much better understanding of our options
+T33	Claim 4242 4274	Climate economics does just that
+T38	Claim 4898 5020	This suggests that a policy which could eradicate global warming for 1 per centof global GDP would probably be a good deal
+T45	MajorClaim 5608 5877	When we shift the climate conversation to describe positives along with negatives, and focus on costs and benefits of policies – essentially treating this challenge like any other policy agenda – it becomes obvious how many of today’s accepted climate policies are poor
+R0	supports Arg1:T4 Arg2:T6
+R1	supports Arg1:T6 Arg2:T45
+R2	supports Arg1:T8 Arg2:T6
+R3	supports Arg1:T9 Arg2:T6
+R4	supports Arg1:T10 Arg2:T9
+R5	attacks Arg1:T11 Arg2:T12
+R6	attacks Arg1:T12 Arg2:T11
+R7	supports Arg1:T13 Arg2:T12
+R8	supports Arg1:T16 Arg2:T6
+R9	supports Arg1:T20 Arg2:T45
+R10	supports Arg1:T21 Arg2:T20
+R11	supports Arg1:T23 Arg2:T20
+R12	supports Arg1:T24 Arg2:T45
+R13	supports Arg1:T25 Arg2:T24
+R14	supports Arg1:T26 Arg2:T24
+R15	supports Arg1:T29 Arg2:T6
+R16	attacks Arg1:T30 Arg2:T29
+R17	supports Arg1:T31 Arg2:T30
+R18	supports Arg1:T32 Arg2:T45
+R19	supports Arg1:T33 Arg2:T32
+R20	supports Arg1:T38 Arg2:T45
+R21	supports Arg1:T45 Arg2:T38

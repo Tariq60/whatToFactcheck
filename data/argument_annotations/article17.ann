@@ -1,0 +1,129 @@
+T1	Claim 95 204	In February President Obama said, a little carelessly, that climate change is a greater threat than terrorism
+T2	Claim 206 354	Next week he will be in Paris, a city terrorized yet again by mass murderers, for a summit with other world leaders on climate change, not terrorism
+T3	Claim 356 514	What precisely makes these world leaders so convinced that climate change is a more urgent and massive threat than the incessant rampages of Islamist violence
+T4	Claim 517 569	It cannot be what is happening to world temperatures
+T5	Premise 615 730	less than half as fast as the scientific consensus predicted in 1990 when the global-warming scare began in earnest
+T6	Premise 732 911	Even with this year’s El Niño-boosted warmth threatening to break records, the world is barely half a degree Celsius (0.9 degrees Fahrenheit) warmer than it was about 35 years ago
+T7	Premise 913 1038	Also, it is increasingly clear that the planet was significantly warmer than today several times during the past 10,000 years
+T8	Claim 1041 1141	Nor can it be the consequences of this recent slight temperature increase that worries world leaders
+T9	Premise 1143 1396	On a global scale, as scientists keep confirming, there has been no increase in frequency or intensity of storms, floods or droughts, while deaths attributed to such natural disasters have never been fewer, thanks to modern technology and infrastructure
+T10	Premise 1478 1555	but Antarctic sea ice has increased, and Antarctica is gaining land-based ice
+T11	Premise 1641 1748	Sea level continues its centuries-long slow rise—about a foot a century—with no sign of recent acceleration
+T12	Claim 1751 1809	Perhaps it is the predictions that worry the world leaders
+T13	Premise 1811 1902	Here, we are often told by journalists that the science is “settled” and there is no debate
+T14	Claim 1904 1928	But scientists disagree:
+T16	Premise 2112 2338	It projects that temperatures are likely to be anything from 1.5 to 4.5 degrees Celsius (2.7 to 8.1 degrees Fahrenheit) warmer by the latter part of the century—that is, anything from mildly beneficial to significantly harmful
+T17	Premise 2383 2467	a new study by a leading climate economist, Richard Tol of the University of Sussex,
+T20	Premise 2630 2671	the negatives may outweigh these benefits
+T22	Claim 2862 2985	The welfare change caused by climate change is equivalent to the welfare change caused by an income change of a few percent
+T23	Claim 2987 3085	That is, a century of climate change is about as good/bad for welfare as a year of economic growth
+T25	Claim 3211 3280	No justification for prioritizing climate change over terrorism there
+T26	Claim 3283 3440	The latest science on the “sensitivity” of the world’s temperature to a doubling of carbon-dioxide levels (from 0.03% of the air to 0.06%) is also reassuring
+T27	Premise 3442 3616	Several recent peer-reviewed studies of climate sensitivity based on actual observations, including one published in 2013 in Nature Geoscience with 14 mainstream IPCC authors
+T29	Premise 3732 4011	A key study published in the Journal of Climate this year by Bjorn Stevens of the Max Planck Institute for Meteorology in Hamburg, Germany, found that the cooling impact of sulfate emissions has held back global warming less than thought till now, again implying less sensitivity
+T30	Claim 4013 4102	So the high end of the IPCC range is looking even more implausible in theory and practice
+T31	Premise 4104 4281	When politicians intone that, despite the slow warming so far, “two degrees” of warming is inevitable and imminent, remember they are using high estimates of climate sensitivity
+T33	Claim 4396 4513	Better to decarbonize the world economy and find it was unnecessary than to continue using fossil fuels and regret it
+T34	Claim 4515 4577	If decarbonization were easy, then sure, this would make sense
+T35	Claim 4579 4771	But the experience of the last three decades is that there is no energy technology remotely ready to take over from fossil fuels on the scale needed and at a price the public is willing to pay
+T36	Premise 4774 4994	Solar power is cheaper than it was, but even if solar panels were free, the land, infrastructure, maintenance and backup power (for nighttime and cloudy days) would still make it more expensive than gas-fired electricity
+T37	Premise 4996 5056	Solar provides about 0.5% of the energy generated world-wide
+T38	Premise 5058 5178	Wind has expanded hugely, but at massive cost, yet still supplies a little more than 1% of all energy generated globally
+T39	Premise 5180 5247	Nuclear is in slow retreat, and its cost stubbornly refuses to fall
+T40	Premise 5249 5405	Technological breakthroughs in the production of gas and oil from shale have outpaced the development of low-carbon energy and made it even less competitive
+T41	Claim 5419 5698	there are a billion people with no grid electricity whose lives could be radically improved—and whose ability to cope with the effects of weather and climate change could be greatly enhanced—with the access to the concentrated power of coal, gas or oil that the rich world enjoys
+T42	Premise 5700 5825	Aid for such projects has already been constrained by Western institutions in the interest of not putting the climate at risk
+T43	Claim 5827 5864	So climate policy is hurting the poor
+T44	Claim 5867 6060	To put it bluntly, climate change and its likely impact are proving slower and less harmful than we feared, while decarbonization of the economy is proving more painful and costly than we hoped
+T45	MajorClaim 6186 6347	Decarbonization, on which they have set their hearts, is not happening, and they dare not mention the reassuring news from science lest it threaten their budgets
+T46	Claim 6350 6559	Casting around for somebody to blame, they have fastened on foot-dragging fossil-fuel companies and those who make skeptical observations, however well-founded, about the likelihood of dangerous climate change
+T47	Claim 6561 6639	Scientific skeptics are now routinely censored, or threatened with prosecution
+T48	Premise 6641 6764	One recent survey by Rasmussen Reports shows that 27% of Democrats in the U.S. are in favor of prosecuting climate skeptics
+T49	Claim 6766 6834	This is the mentality of religious fanaticism, not scientific debate
+T50	Claim 7029 7136	Expect an agreement that is sufficiently vague and noncommittal for all countries to sign and claim victory
+T51	Claim 7138 7304	Such an agreement will also have to camouflage deep and unbridgeable divisions while ensuring that all countries are liberated from legally binding targets a la Kyoto
+T52	Claim 7307 7374	The political climate is conducive to such an ineffectual agreement
+T53	Premise 7376 7493	Concerns about the economy, terrorism and international security have been overshadowing the climate agenda for years
+T54	Premise 7495 7642	The fact that global warming has slowed significantly over the past two decades has reduced public concern and political pressure in most countries
+T55	Claim 7644 7727	It has also given governments valuable time to kick painful decisions down the road
+T56	Claim 7730 7878	The next 10-15 years will show whether the global-warming slowdown continues or whether a strong warming trend terminates the current pause for good
+T57	Claim 7880 8017	The Paris summit is likely to agree to a review process that reassesses global temperatures and carbon-dioxide emissions every five years
+T58	Claim 8019 8267	If the climate is less sensitive to carbon-dioxide emissions than climate models assume, the new accord should allow for the possibility of carbon-dioxide pledges to be relaxed in line with empirical observations and better scientific understanding
+T59	Claim 8270 8481	Concerned about the loss of industrial competitiveness, the Obama administration is demanding an international transparency-and-review mechanism that can verify whether voluntary pledges are met by all countries
+T60	Premise 8483 8680	Developing countries, however, oppose any outside body reviewing their energy and industrial activities and carbon-dioxide emissions on the grounds that such efforts would violate their sovereignty
+T61	Claim 8683 8845	They are also resisting attempts by the U.S. and the European Union to end the legal distinction (the so-called firewall) between developing and developed nations
+T62	Premise 8847 9127	China, India and the “Like-Minded Developing Countries” group are countering Western pressure by demanding a legally binding compensation package of $100 billion a year of dedicated climate funds, as promised by President Obama at the U.N. climate conference in Copenhagen in 2009
+T63	Claim 9139 9253	developing nations are only too aware that the $100 billion per annum funding pledge is never going to materialize
+T65	Claim 9350 9387	This failure to deliver is inevitable
+T67	Premise 9492 9560	Both India and China continue to build new coal-fired power stations
+T68	Premise 9562 9692	China’s coal consumption is growing at 2.6% a year, India’s at 5%, which is why coal was the fastest-growing fossil fuel last year
+T69	Claim 9694 9819	China has pledged to reduce energy and carbon intensity, but that is another way of saying it will increase energy efficiency
+T71	Claim 9882 9992	a voluntary climate agreement would finally allow member states to abandon unilateral decarbonization policies
+T73	Premise 10050 10136	The EU has offered to cut carbon-dioxide emissions by 40% below the 1990 level by 2030
+T74	Premise 10138 10323	However, this pledge is conditional on all nations represented at the Paris summit adopting legally binding carbon-emissions targets similar to and as a carry-over of the Kyoto Protocol
+T75	Premise 10326 10598	According to the EU’s key demand, the Paris Protocol must deliver “legally binding mitigation commitments that put the world on track toward achieving the below 2°C objective. . . . Mitigation commitments under the Protocol should be equally legally binding on all Parties
+T76	Claim 10601 10651	The chances of such an agreement are close to zero
+T77	Claim 10653 10795	If there are no legally binding carbon targets agreed to in Paris, the EU will be unlikely to make its own conditional pledges legally binding
+T79	Claim 10962 11090	The best we can hope for is a toothless agreement that will satisfy most governments yet allow them to pay lip-service to action
+R0	supports Arg1:T1 Arg2:T3
+R1	attacks Arg1:T2 Arg2:T1
+R2	supports Arg1:T4 Arg2:T3
+R3	supports Arg1:T5 Arg2:T4
+R4	supports Arg1:T6 Arg2:T4
+R5	supports Arg1:T7 Arg2:T4
+R6	supports Arg1:T8 Arg2:T3
+R7	supports Arg1:T9 Arg2:T8
+R8	supports Arg1:T10 Arg2:T8
+R9	supports Arg1:T11 Arg2:T8
+R10	supports Arg1:T12 Arg2:T3
+R11	supports Arg1:T13 Arg2:T12
+R12	attacks Arg1:T14 Arg2:T12
+R13	supports Arg1:T16 Arg2:T14
+R14	supports Arg1:T17 Arg2:T14
+R15	attacks Arg1:T20 Arg2:T17
+R16	attacks Arg1:T22 Arg2:T12
+R17	restate Arg1:T23 Arg2:T22
+R18	supports Arg1:T25 Arg2:T22
+R19	supports Arg1:T26 Arg2:T3
+R20	supports Arg1:T27 Arg2:T26
+R21	supports Arg1:T29 Arg2:T26
+R22	supports Arg1:T30 Arg2:T26
+R23	supports Arg1:T31 Arg2:T30
+R24	supports Arg1:T34 Arg2:T33
+R25	attacks Arg1:T35 Arg2:T34
+R26	supports Arg1:T36 Arg2:T35
+R27	supports Arg1:T37 Arg2:T40
+R28	supports Arg1:T38 Arg2:T35
+R29	supports Arg1:T39 Arg2:T35
+R30	supports Arg1:T40 Arg2:T35
+R31	supports Arg1:T41 Arg2:T43
+R32	supports Arg1:T42 Arg2:T41
+R33	supports Arg1:T43 Arg2:T41
+R34	supports Arg1:T44 Arg2:T3
+R35	supports Arg1:T45 Arg2:T44
+R36	supports Arg1:T46 Arg2:T45
+R37	supports Arg1:T47 Arg2:T46
+R38	supports Arg1:T48 Arg2:T47
+R39	supports Arg1:T49 Arg2:T47
+R40	supports Arg1:T50 Arg2:T45
+R41	supports Arg1:T51 Arg2:T50
+R42	supports Arg1:T52 Arg2:T45
+R43	supports Arg1:T53 Arg2:T52
+R44	supports Arg1:T54 Arg2:T52
+R45	supports Arg1:T55 Arg2:T52
+R46	supports Arg1:T57 Arg2:T56
+R47	supports Arg1:T58 Arg2:T56
+R48	supports Arg1:T59 Arg2:T65
+R49	supports Arg1:T60 Arg2:T65
+R50	attacks Arg1:T61 Arg2:T59
+R51	supports Arg1:T62 Arg2:T61
+R52	supports Arg1:T63 Arg2:T61
+R53	restate Arg1:T65 Arg2:T63
+R54	supports Arg1:T67 Arg2:T69
+R55	supports Arg1:T68 Arg2:T67
+R56	joint Arg1:T71 Arg2:T74
+R57	supports Arg1:T73 Arg2:T71
+R58	supports Arg1:T74 Arg2:T71
+R59	joint Arg1:T75 Arg2:T74
+R60	supports Arg1:T77 Arg2:T76
+R61	restate Arg1:T79 Arg2:T76

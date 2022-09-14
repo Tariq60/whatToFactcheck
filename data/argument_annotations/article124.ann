@@ -1,0 +1,75 @@
+T1	MajorClaim 130 287	The idea that climate change is producing heat records across the Earth is among the most egregious manipulations of data in the absurd global warming debate
+T2	Claim 290 472	Americans receive a daily barrage from the fake news media and climate “experts” reporting that each and every day, week, month or year is the hottest on record due to global warming
+T3	Premise 474 618	On Feb. 7, several major newspapers carried stories of the declaration by NASA and NOAA that the past five years have been the warmest on record
+T4	Claim 621 731	Sadly, these supposed experts use mathematical equations that do not jibe with reality over the past 140 years
+T5	Claim 734 811	The same climate experts warn that record heat is just the tip of the iceberg
+T6	Claim 813 963	We are constantly told that global warming is the root cause behind any and all weather events that are extreme, destructive, unusual or uncomfortable
+T7	Claim 966 1066	Many of these fear mongers also say we should stop burning fossil fuels that are causing this mayhem
+T9	Claim 1201 1215	Absolutely not
+T10	Premise 1218 1344	Actual weather records over the past 100 years show no correlation between rising carbon dioxide levels and local temperatures
+T11	Claim 1347 1451	However, climate change alarmists always find somewhere on Earth where temperatures are higher than ever
+T12	Claim 1453 1581	The focus is always on isolated temperatures that have reached all-time highs while the same reports ignore all-time record lows
+T13	Claim 1583 1728	These zealots would like you to believe that due to fossil fuel emissions, summers are now longer and hotter while winters are shorter and milder
+T14	Claim 1731 1794	Yet, the actual temperature records tell a very different story
+T15	Claim 1861 1877	The answer is no
+T16	Premise 1880 1961	The highest temperature ever reported was 136 degrees Fahrenheit in Libya in 1922
+T17	Premise 1963 2076	The record high temperature for the United States was 134 degrees Fahrenheit in Death Valley, California, in 1913
+T18	Premise 2078 2150	Fossil fuel emissions in 1913 and 1922 were negligible compared to today
+T19	Premise 2153 2326	The coldest temperature ever reported was 129 degrees below zero Fahrenheit in Vostok, Antarctica, in 1983, when Carbon dioxide emissions were five times higher than in 1913
+T20	Premise 2328 2449	The coldest temperature in the lower 48 states of minus 64 degrees Fahrenheit was recorded in 1996 in Embarass, Minnesota
+T22	Premise 2570 2734	The maximum reported difference between high and low temperatures at a single location is 188 degrees Fahrenheit (from minus 90F to plus 98F) in Verhoyansk, Siberia
+T23	Premise 2736 2825	In fact, record changes of highs and lows have occurred in 22 U.S. cities on a single day
+T24	Premise 2827 2971	For example, in 1989 the temperature in Alamosa, Colorado, varied between a low of 35F and a high of 91F for a temperature swing of 56 degrees F
+T27	Claim 3166 3313	These examples all illustrate that cherry picking record high temperatures in isolated locations tells absolutely nothing about the Earth’s climate
+T28	Premise 3384 3501	The strongest heat wave ever recorded occurred in July 1936, generating high temperatures in half of America’s states
+T29	Premise 3503 3566	In 1935, fossil fuel emissions were 96 percent lower than today
+T30	Premise 3568 3661	America’s coldest year occurred in 1899, when temperatures dropped below 0 F in all 48 states
+T31	Premise 3681 3846	the figure above shows the most severe historic cold wave during the past century took place in 1936, which was the same year when the strongest heat wave took place
+T32	Claim 3848 4054	In terms of general behavior, the global warming alarmist prediction is that as time progresses and fossil fuel emissions increase, the number of record highs should increase and record lows should decrease
+T33	MajorClaim 4065 4164	these trends do not exist and the data dispels, rather than supports, the global warming hypothesis
+T34	Premise 4167 4302	Concurrently a compilation of all days since 1915 when temperatures exceeded 90F shows them decreasing with time rather than increasing
+T35	Premise 4317 4390	The heat wave experienced in the 1930s and 1950s are clearly evident here
+T36	Claim 4392 4526	Once again, the data does not support the claim that the United States is hotter than ever as a result of rising Carbon dioxide levels
+T37	Premise 4529 4616	From 1970 until 1998 there was a warming period that raised temperatures by about 0.7 F
+T38	Claim 4617 4671	that helped spawn the global warming alarmist movement
+T39	Claim 4673 4773	However, since 1998, little warming has occurred while carbon dioxide emissions continue to increase
+T40	Claim 4775 4871	This is totally consistent with variations in the amount of heat the Earth receives from the Sun
+T41	Premise 4874 4988	These facts are completely supported by 4,000 ocean floats which measure ocean temperatures at a variety of depths
+T42	Premise 4990 5077	This data at argo.ucsd.edu measures the oceans where climate-induced temperatures occur
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T2
+R2	supports Arg1:T4 Arg2:T1
+R3	supports Arg1:T5 Arg2:T1
+R4	supports Arg1:T6 Arg2:T1
+R5	supports Arg1:T7 Arg2:T1
+R6	supports Arg1:T9 Arg2:T1
+R7	supports Arg1:T10 Arg2:T9
+R8	supports Arg1:T11 Arg2:T1
+R9	attacks Arg1:T12 Arg2:T11
+R10	supports Arg1:T13 Arg2:T1
+R11	supports Arg1:T14 Arg2:T1
+R12	supports Arg1:T15 Arg2:T1
+R13	supports Arg1:T16 Arg2:T14
+R14	supports Arg1:T17 Arg2:T14
+R15	supports Arg1:T18 Arg2:T14
+R16	supports Arg1:T19 Arg2:T14
+R17	supports Arg1:T20 Arg2:T14
+R18	supports Arg1:T22 Arg2:T14
+R19	supports Arg1:T23 Arg2:T14
+R20	joint Arg1:T24 Arg2:T23
+R21	supports Arg1:T27 Arg2:T1
+R22	supports Arg1:T28 Arg2:T32
+R23	joint Arg1:T29 Arg2:T28
+R24	supports Arg1:T30 Arg2:T31
+R25	supports Arg1:T31 Arg2:T27
+R26	supports Arg1:T32 Arg2:T1
+R27	restate Arg1:T33 Arg2:T1
+R28	supports Arg1:T34 Arg2:T36
+R29	supports Arg1:T35 Arg2:T36
+R30	supports Arg1:T36 Arg2:T33
+R31	supports Arg1:T37 Arg2:T38
+R32	supports Arg1:T38 Arg2:T39
+R33	attacks Arg1:T39 Arg2:T37
+R34	supports Arg1:T40 Arg2:T1
+R35	supports Arg1:T41 Arg2:T39
+R36	joint Arg1:T42 Arg2:T41

@@ -1,0 +1,24 @@
+T1	Claim 125 229	The Alaskan tundra is warming so quickly it has become a net emitter of carbon dioxide ahead of schedule
+T2	Claim 251 463	Since CO2 is the primary heat-trapping greenhouse gas — and since the permafrost contains twice as much carbon as the atmosphere does today — this means a vicious cycle has begun that will speed up global warming
+T3	Premise 466 662	“Because it’s getting warmer, there’s more CO2 coming out which means it’s going to get warmer which means there’s more CO2 coming out,” explained Harvard researcher and lead author Roisin Commane
+T5	Premise 858 968	The study is the first to report that a major portion of the Arctic is a net source of heat-trapping emissions
+T6	Claim 983 1047	Commane warns that our current climate models need to be updated
+T8	Premise 1116 1230	“We find that Alaska, overall, was a net source of carbon to the atmosphere during 2012–2014,” the study concludes
+T15	Claim 1978 2074	Thawing permafrost can release not just CO2, but also methane, a much stronger heat-trapping gas
+T16	Premise 2077 2255	While most models that include thawing permafrost look at CO2, Russian scientists have recently discovered some 7,000 underground bubbles of permafrost-related methane in Siberia
+T19	Premise 2440 2675	Also, a 2008 study, “Accelerated Arctic land warming and permafrost degradation during rapid sea ice loss,” found that rapid sea ice loss — as has been experienced since the study was published — could triple the rate of Arctic warming
+T20	Claim 2678 2755	Meanwhile, the rapid Arctic warming that is fueling these emissions continues
+T21	Premise 2757 2865	On Monday, NASA reported that April 2017 was the second-hottest April on record — only April 2016 was hotter
+T23	MajorClaim 2979 3150	The longer we delay aggressive climate action, the harder it will be to stuff all the toothpaste back into the tube, and the more catastrophic climate impacts we will face
+R0	supports Arg1:T1 Arg2:T2
+R1	supports Arg1:T2 Arg2:T23
+R2	supports Arg1:T3 Arg2:T2
+R3	supports Arg1:T5 Arg2:T6
+R4	supports Arg1:T6 Arg2:T23
+R5	supports Arg1:T8 Arg2:T6
+R6	supports Arg1:T15 Arg2:T23
+R7	supports Arg1:T16 Arg2:T15
+R8	supports Arg1:T19 Arg2:T23
+R9	supports Arg1:T20 Arg2:T23
+R10	supports Arg1:T21 Arg2:T20
+R11	supports Arg1:T23 Arg2:T1

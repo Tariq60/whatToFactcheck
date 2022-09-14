@@ -1,0 +1,35 @@
+T1	MajorClaim 120 218	The role of forests in combating climate change risks being overlooked by the world’s governments,
+T3	Premise 353 517	Razing the world’s forests would release more than 3 trillion tons of carbon dioxide, more than the amount locked in identified global reserves of oil, coal and gas
+T4	Premise 519 732	By protecting and restoring forests, the world would achieve 18% of the emissions mitigation needed by 2030 to avoid runaway climate change, the group of 40 scientists, spanning five countries, said in a statement
+T5	Premise 736 933	We must protect and maintain healthy forests to avoid dangerous climate change and to ensure the world’s forests continue to provide services critical for the well-being of the planet and ourselves
+T8	Claim 1362 1558	In responding to the IPCC report, our message as scientists is simple: Our planet’s future climate is inextricably tied to the future of its forests,” the scientists’ statement pointedly concludes
+T9	Premise 1561 1718	Trees and other vegetation currently absorb around a quarter of the CO2 humans are adding to the atmosphere, softening the potential impact of climate change
+T10	Premise 1721 1900	While the world won’t lose all of its trees, large tracts of tropical forests, which hold a vast amount of carbon, are still being lost in the Amazon, central Africa and Indonesia
+T11	Premise 1902 2047	Warming temperatures are also fueling huge fires in forests in higher latitudes, as witnessed this summer when much of northern Sweden was aflame
+T12	Claim 2051 2161	The forest piece of the conversation is often lost and I don’t think the IPCC report will highlight it enough,
+T13	Premise 2289 2406	We almost take forests as a given but we lose forest every year, which means we are diminishing them as a carbon sink
+T14	Premise 2410 2500	Deforestation has been massively reduced in the Amazon, but that hasn’t happened elsewhere
+T16	Claim 2607 2821	The IPCC’s report is expected to mention the need for as-yet unproven technology to burn vegetation and bury the resulting emissions underground or directly suck carbon from the air as a way to meet the 1.5C target
+T17	Claim 2824 3069	The statement by Lawrence and other scientists warns the former strategy, known as bioenergy with carbon capture and storage (Beccs), is untested and risks wiping out huge areas of rainforest in order to make way for plantation timber for energy
+T19	Premise 3194 3265	It’s horrifying that we’d lose our biodiversity to avert climate change
+T21	Premise 3364 3466	Lawrence said a steep drop in emissions to zero by 2040 would negate the need for “negative emissions”
+T22	Premise 3663 3735	We will have a hotter, drier world without these forests,” Lawrence said
+T23	Premise 3737 3822	“There needs to be an international price on carbon to fund the protection of forests
+T25	Claim 3981 4183	The prospects for averting at least 1.5C of warming appear dim, however, with a co-author of the upcoming IPCC report warning last week the world is “nowhere near on track” to meet its Paris commitments
+R0	supports Arg1:T3 Arg2:T4
+R1	supports Arg1:T4 Arg2:T1
+R2	supports Arg1:T5 Arg2:T4
+R3	supports Arg1:T8 Arg2:T1
+R4	supports Arg1:T9 Arg2:T8
+R5	supports Arg1:T10 Arg2:T8
+R6	supports Arg1:T11 Arg2:T8
+R7	supports Arg1:T12 Arg2:T1
+R8	supports Arg1:T13 Arg2:T10
+R9	supports Arg1:T14 Arg2:T13
+R10	supports Arg1:T16 Arg2:T1
+R11	attacks Arg1:T17 Arg2:T16
+R12	supports Arg1:T19 Arg2:T17
+R13	supports Arg1:T21 Arg2:T19
+R14	supports Arg1:T22 Arg2:T21
+R15	supports Arg1:T23 Arg2:T22
+R16	attacks Arg1:T25 Arg2:T16

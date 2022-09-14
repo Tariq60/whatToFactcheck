@@ -1,0 +1,38 @@
+T3	Premise 471 557	Chapman University has released a survey of the top ten issues Americans fear the most
+T7	MajorClaim 889 1026	Global warming and climate change, even if it is 100% caused by humans, is so slow that it cannot be observed by anyone in their lifetime
+T9	Claim 1159 1365	in order for politicians to advance policy goals (such as forcing expensive solar energy on the masses or creating a carbon tax), they have to turn normal weather disasters into “evidence” of climate change
+T12	Claim 1547 1721	the observed warming as monitored by satellites (our only truly global monitoring system) has been only about half of what computerized climate models say should be happening
+T13	Claim 1737 1823	the overall increases in such things as hurricanes and tornadoes have not materialized
+T14	Premise 1825 1938	Drought in the western U.S. pales in comparison to the mega-droughts tree rings tell us existed in centuries past
+T15	Premise 1941 2040	Lake-bottom sediments in Florida tell us that recent major hurricane activity in the Gulf of Mexico
+T17	Claim 2088 2215	Strong Sandy-type storms occur every year in all the major ocean basins… they just don’t happen to hit major metropolitan areas
+T18	Premise 2217 2357	It has now, even after Hurricane Matthew, been over 4,000 days since a major hurricane (Category 3 or stronger) has made landfall in the U.S
+T19	Claim 2360 2430	Sea level rise, which was occurring long before humans could be blamed
+T22	Claim 2657 2843	If Hillary would have fact-checked her example of sea level rise in Norfolk, Virginia, she would have found out that the experts already know this is mostly due to the land there sinking
+T23	Claim 2846 3072	To the extent that the cost of weather disasters has risen over time, that is well known to be the result of modern society building more infrastructure in areas that are prone to damage from weather—which is almost everywhere
+T24	Claim 3079 3188	to keep the masses alarmed, politicians must claim that what is normal is actually abnormal—and getting worse
+T26	Claim 3287 3385	And it is that “fix” that really sinks any current plan politicians have to address climate change
+T28	Claim 3574 3859	This is because even if the countries of the world agree to do what they promised on climate change, and that climate change is entirely our fault, and that climate change really will ultimately get bad, the promised actions will have no measurable effect on future global temperatures
+T29	Claim 3862 3990	You see, many of those countries that have signed on to the Paris Agreement aren’t signing up to reduce carbon dioxide emissions
+T31	Claim 4109 4164	And you can’t even fix the problem with a new agreement
+T32	Claim 4179 4356	until we develop a practical, cost-competitive alternative to fossil fuels, it is unlikely that renewable energy will ever make up more than 15-20% of global energy requirements
+T33	Claim 4358 4442	The amount of energy necessary for humans to do everything we do is simply too large
+T36	Claim 4761 4955	And since the biggest risk to humanity is poverty, if we allow policymakers to have their way, the resulting energy poverty will indeed cause the deaths of some of our children and grandchildren
+R0	supports Arg1:T3 Arg2:T36
+R1	supports Arg1:T7 Arg2:T9
+R2	supports Arg1:T12 Arg2:T24
+R3	supports Arg1:T13 Arg2:T24
+R4	supports Arg1:T14 Arg2:T13
+R5	supports Arg1:T15 Arg2:T13
+R6	supports Arg1:T17 Arg2:T13
+R7	supports Arg1:T18 Arg2:T13
+R8	supports Arg1:T19 Arg2:T12
+R9	supports Arg1:T22 Arg2:T19
+R10	supports Arg1:T23 Arg2:T22
+R11	supports Arg1:T24 Arg2:T7
+R12	supports Arg1:T26 Arg2:T7
+R13	supports Arg1:T28 Arg2:T26
+R14	supports Arg1:T29 Arg2:T28
+R15	supports Arg1:T31 Arg2:T29
+R16	supports Arg1:T32 Arg2:T31
+R17	supports Arg1:T33 Arg2:T31

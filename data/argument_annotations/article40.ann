@@ -1,0 +1,43 @@
+T1	Claim 124 204	National polls show that climate change is low on the list of voters’ priorities
+T2	Premise 206 327	For good reason: In the U.S., and for much of the world, the most dangerous environmental pollutants have been cleaned up
+T3	Premise 329 496	U.S. emissions of particulates, metals and varied gases—all of these: ozone, lead, carbon monoxide, oxides of nitrogen and sulfur—fell almost 70% between 1970 and 2014
+T4	Claim 499 638	Further reductions will come from improved technologies such as catalytic removal of oxides of nitrogen and more-efficient sulfur scrubbers
+T5	Claim 640 670	This is a boon to human health
+T6	MajorClaim 673 817	But a myth persists that is both unscientific and immoral to perpetuate: that the beneficial gas carbon dioxide ranks among hazardous pollutants
+T8	Premise 833 910	Unlike genuine pollutants, carbon dioxide (CO2) is an odorless, colorless gas
+T9	Premise 912 1011	Every human being exhales about two pounds of CO2 a day, along with a similar amount of water vapor
+T10	Claim 1013 1084	CO2 is nontoxic to people and animals and is a vital nutrient to plants
+T11	Premise 1086 1167	It is also a greenhouse gas which helps maintain earth at a habitable temperature
+T12	Claim 1170 1362	Fear of excessive warming from more CO2 in the atmosphere, including that released from human activity, has caused some people to advocate substantial and expensive reductions in CO2 emissions
+T13	Claim 1364 1583	But observations, such as those on our CO2 Coalition website, show that increased CO2 levels over the next century will cause modest and beneficial warming—perhaps as much as one degree Celsius (1.8 degrees Fahrenheit)—
+T15	Claim 1659 1817	The costs of emissions regulations, which will be paid by everyone, will be punishingly high and will provide no benefits to most people anywhere in the world
+T16	Premise 1820 1957	In 2013 the level of U.S. farm output was about 2.7 times its 1948 level, and productivity was growing at an average annual rate of 1.52%
+T17	Premise 1959 2092	From 2001 to 2013, world-wide, global output of total crop and livestock commodities was expanding at an average rate of 2.52% a year
+T18	Claim 2095 2254	This higher food security reduces poverty and increases well being and self-sufficiency everywhere, especially in the poorest parts of the developing countries
+T19	Claim 2256 2386	Along with better plant varieties, cropping practices and fertilizer, CO2 has contributed to this welcome increase in productivity
+T20	Premise 2389 2593	The increase of atmospheric CO2 following the Industrial Revolution also has facilitated the expansion of natural vegetation into what had been barren areas, such as the edges of the Sahara and the Arctic
+T21	Premise 2595 2716	According to the U.N., the world will add 2.5 billion people over the next 30 years, most of them in developing countries
+T22	Claim 2718 2831	Feeding these people and assuring them a comfortable living standard should be among our highest moral priorities
+T23	Claim 2833 2899	With more CO2 in the atmosphere, the challenge can and will be met
+T24	Claim 2902 2962	National policies must make economic and environmental sense
+R0	supports Arg1:T1 Arg2:T6
+R1	supports Arg1:T2 Arg2:T1
+R2	supports Arg1:T3 Arg2:T1
+R3	supports Arg1:T4 Arg2:T6
+R4	supports Arg1:T5 Arg2:T4
+R5	supports Arg1:T8 Arg2:T6
+R6	supports Arg1:T9 Arg2:T10
+R7	supports Arg1:T10 Arg2:T6
+R8	supports Arg1:T11 Arg2:T12
+R9	supports Arg1:T12 Arg2:T6
+R10	attacks Arg1:T13 Arg2:T12
+R11	attacks Arg1:T15 Arg2:T12
+R12	supports Arg1:T16 Arg2:T18
+R13	supports Arg1:T17 Arg2:T18
+R14	supports Arg1:T18 Arg2:T6
+R15	supports Arg1:T19 Arg2:T6
+R16	supports Arg1:T20 Arg2:T19
+R17	supports Arg1:T21 Arg2:T22
+R18	supports Arg1:T22 Arg2:T6
+R19	supports Arg1:T23 Arg2:T6
+R20	supports Arg1:T24 Arg2:T6

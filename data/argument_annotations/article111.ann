@@ -1,0 +1,41 @@
+T1	Claim 225 338	predicted damage from potentially catastrophic flooding from the storm was already being blamed on global warming
+T3	Premise 577 831	The theory is that tropical cyclones have slowed down in their speed by about 10 percent over the past 70 years due to a retreat of the jet stream farther north, depriving storms of steering currents and making them stall and keep raining in one location
+T5	MajorClaim 904 1040	like most claims regarding global warming, the real effect is small, probably temporary, and most likely due to natural weather patterns
+T6	Claim 1042 1154	Any changes in hurricanes over 70 years, even if real, can easily be part of natural cycles — or incomplete data
+T10	Claim 1326 1367	Unusual things happen in nature sometimes
+T11	Premise 1369 1475	The Massachusetts Bay Colony in 1635 experienced a Category 3 or 4 storm, with up to a 20-foot storm surge
+T12	Premise 1536 1567	it happened again there in 1675
+T13	Premise 1628 1754	Until 2017, the United States went 11 years without a major hurricane strike — something that is statistically very improbable
+T15	Claim 1861 1928	My point is that nature varies, and unusual things happen sometimes
+T20	Claim 2173 2240	Now it’s fashionable to blame stalling hurricanes on global warming
+T22	Premise 2314 2472	But examination of a weather map of the atmospheric flow at an altitude of 18,000 feet shows the jet stream is pushed farther south over western North America
+T23	Claim 2474 2563	This kind of natural variation in atmospheric flow is called weather, not climate change.
+T31	Premise 3070 3144	a major hurricane hits North Carolina on average once every 20 years or so
+T32	Premise 3146 3194	The last was Fran in 1996, which is 22 years ago
+T33	Claim 3196 3351	Coastal residents know they live under a yearly threat of hurricanes, and sometimes (though relatively rarely), one of those hurricanes will be very strong
+T34	Claim 3354 3425	Well, aren’t we being told these storms are getting stronger on average
+T36	Premise 3445 3571	The 30 most costly hurricanes in U.S. history (according to federal data from January) show no increase in intensity over time
+T37	Claim 3573 3740	The monetary cost of damages has increased dramatically in recent decades, but that is due to increasing population, wealth and the amount of vulnerable infrastructure
+T40	Claim 3882 3921	Natural variability is simply too large
+T41	Premise 3923 4098	This should not be surprising given that humanity’s greenhouse gas emissions have caused only a1 percent change in the natural energy flows coursing through the climate system
+R0	supports Arg1:T1 Arg2:T5
+R1	supports Arg1:T3 Arg2:T1
+R2	attacks Arg1:T5 Arg2:T1
+R3	supports Arg1:T6 Arg2:T5
+R4	supports Arg1:T10 Arg2:T5
+R5	joint Arg1:T11 Arg2:T12
+R6	supports Arg1:T12 Arg2:T15
+R7	supports Arg1:T13 Arg2:T10
+R8	supports Arg1:T15 Arg2:T5
+R9	supports Arg1:T20 Arg2:T5
+R10	supports Arg1:T22 Arg2:T23
+R11	supports Arg1:T23 Arg2:T20
+R12	supports Arg1:T31 Arg2:T33
+R13	supports Arg1:T32 Arg2:T33
+R14	supports Arg1:T33 Arg2:T34
+R15	supports Arg1:T34 Arg2:T5
+R16	supports Arg1:T36 Arg2:T34
+R17	supports Arg1:T37 Arg2:T34
+R18	supports Arg1:T41 Arg2:T40
+T2	SuperAnnotatorPremise 389 573	With each new storm, we are forced to question whether this is our new, climate change-fueled reality, and to ask ourselves what we can do to minimize the toll from supercharged storms
+T4	SuperAnnotatorPremise 1156 1305	Coastal lake sediments along the Gulf of Mexico shoreline from 1,000 to 2,000 years ago suggest more frequent and intense hurricanes than occur today

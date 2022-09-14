@@ -1,0 +1,43 @@
+T3	Claim 285 385	February 2017 has featured prolonged warm weather the likes of which many areas have not seen before
+T4	MajorClaim 433 677	Taken as a whole, the month-to-date in the U.S. has seen a ridiculously lopsided ratio of daily record highs to daily record lows, which is a key indicator of short-term weather variability and, over the longer term, human-caused climate change
+T7	Premise 1078 1286	While transient weather variability is playing a key role here, the widespread record warmth across the U.S. so far this year is part of a long-term trend toward more warm temperature records versus cold ones
+T9	Premise 1347 1527	Through Feb. 23, daily record highs have been blowing away daily record lows by a far greater than 100-to-1 ratio, which, if it holds for a few more days, would itself set a record
+T12	Claim 1741 1945	And it's not the daily records that are most impressive, but rather the number of monthly records that are being tied or broken from the Gulf Coast all the way to the Midwest and northeastward into Canada
+T13	Premise 1947 2112	During the past week alone (not including Feb. 23), there were 736 daily record highs set or tied in the U.S., compared to zero daily record lows for the same period
+T14	Premise 2116 2250	Even more startling is the number of record warm overnight temperatures set or tied in the past seven days, which total a whopping 940
+T16	Claim 2343 2435	And the monthly records, which are far harder to break than daily milestones, are astounding
+T18	Premise 2534 2689	According to the National Center for Environmental Information (NCEI) in Asheville, North Carolina, February has seen 336 monthly record highs set or tied,
+T20	Premise 2873 3049	These figures do not include monthly temperature records that were broken on Friday, which included 73 degrees in Boston, shattering the previous record by 3 degrees Fahrenheit
+T21	Premise 3051 3171	In addition, Allentown, Pennsylvania hit a remarkable 77 degrees, and Binghamton, New York reached 70 degrees Fahrenheit
+T23	Premise 3350 3519	In Albany, New York, the high temperature of 74 degrees on Thursday was the warmest temperature on record for any day during the months of December, January and February
+T24	Premise 3523 3837	On Wednesday, the record warmth was centered across the Midwest, where the three major cities in Wisconsin (Milwaukee, Madison and Green Bay), all saw temperatures hit record highs for not just February, but for any month during meteorological winter, which encompasses the months of December, January and February
+T25	Premise 3841 4038	Milwaukee, for example, broke its monthly all-time record high for February when the temperature reached 71 degrees Fahrenheit, and Madison set a monthly record with a high of 68 degrees Fahrenheit
+T26	Premise 4042 4199	In Ottumwa, Iowa, where the ground would normally be snow-covered this time of year, the high on Wednesday was 79 degrees, which set a monthly record as well
+T34	Claim 5134 5239	The warm weather in the U.S. hasn't been a freak phenomenon only occurring for the past few weeks, either
+T35	Premise 5241 5338	The year-to-date is averaging a record daily highs to record daily lows ratio of more than 4-to-1
+T37	Claim 5536 5589	And the warmth isn't just limited to the U.S., either
+T38	Premise 5591 5689	with the planet recording its 3rd-warmest January on record, after its warmest year so far in 2016
+T40	Claim 5812 5994	As the planet warms in response to the buildup of greenhouse gases in the atmosphere, the ratio of high temperature records compared to low temperature records has become more skewed
+T45	Premise 6340 6539	Projections show the imbalance increasing in coming decades as global warming continues, possibly to as high as 15-to-1 if emissions of planet-warming pollutants such as carbon dioxide continue apace
+T49	Claim 7083 7300	While individual months will still vary from this trend, it's clear that over the long-term, the ratio of record highs to record lows is now strongly favoring record highs as well as record warm overnight temperatures
+R0	supports Arg1:T3 Arg2:T4
+R1	supports Arg1:T4 Arg2:T7
+R2	supports Arg1:T9 Arg2:T12
+R3	supports Arg1:T12 Arg2:T4
+R4	supports Arg1:T13 Arg2:T12
+R5	supports Arg1:T14 Arg2:T12
+R6	supports Arg1:T16 Arg2:T4
+R7	supports Arg1:T18 Arg2:T16
+R8	supports Arg1:T20 Arg2:T16
+R9	supports Arg1:T21 Arg2:T16
+R10	supports Arg1:T23 Arg2:T16
+R11	supports Arg1:T24 Arg2:T16
+R12	supports Arg1:T25 Arg2:T16
+R13	supports Arg1:T26 Arg2:T16
+R14	supports Arg1:T34 Arg2:T4
+R15	supports Arg1:T35 Arg2:T34
+R16	supports Arg1:T37 Arg2:T34
+R17	supports Arg1:T38 Arg2:T37
+R18	supports Arg1:T40 Arg2:T4
+R19	supports Arg1:T45 Arg2:T49
+R20	supports Arg1:T49 Arg2:T4

@@ -1,0 +1,42 @@
+T1	MajorClaim 137 366	Antarctica’s ice sheet is melting at a rapidly increasing rate, now pouring more than 200 billion tons of ice into the ocean annually and raising sea levels a half-millimeter every year, a team of 80 scientists reported Wednesday
+T5	Claim 826 1024	Antarctica, the planet’s largest ice sheet, lost 219 billion tons of ice annually from 2012 through 2017 — approximately triple the 73 billion-ton melt rate of a decade ago, the scientists concluded
+T7	Claim 1100 1332	The study is the product of a large group of Antarctic experts who collectively reviewed 24 recent measurements of Antarctic ice loss, reconciling their differences to produce the most definitive figures yet on changes in Antarctica
+T12	Claim 2166 2281	Csatho noted that comparing the first and last five-year periods in the record reveals an even steeper acceleration
+T13	Premise 2294 2387	if you compare 1997-2002 to 2012-2017, the increase is even larger, a factor of more than 5!!
+T14	Premise 2401 2565	For the total period from 1992 through the present, the ice sheet has lost nearly 3 trillion tons of ice, equating to just less than 8 millimeters of sea-level rise
+T15	Premise 2567 2629	Forty percent of that loss has occurred in the past five years
+T18	Premise 2931 3059	West Antarctica lost 159 billion tons of ice a year from 2012 through 2017, compared with 65 billion tons from 2002 through 2007
+T19	Claim 3062 3148	The growth is largely attributable to just two huge glaciers: Pine Island and Thwaites
+T21	Premise 3417 3508	Pine Island is now losing about 45 billion tons per year, and Thwaites is losing 50 billion
+T24	Claim 3864 3937	it’s the area that we’re most worried about, because it’s below sea level
+T27	Premise 4236 4448	She and her co-authors found that at numerous major glaciers including Pine Island, warm ocean waters are helping to carve out deep crevasses underneath the floating ice shelves that brace these glaciers in place
+T31	Claim 4908 5057	The largest part of the continent, East Antarctica, has remained more stable and did not contribute much melt to the ocean during the period of study
+T32	Claim 5080 5249	However, in the past five years, it too has begun to lose ice, perhaps as much as 28 billion tons per year, although the uncertainty surrounding this number remains high
+T33	Claim 5252 5404	What’s happening in East Antarctica is important because it has, by far, the most ice to give, being capable of raising sea levels by well over 100 feet
+T36	Claim 5731 5848	Scientists have previously raised fears about a scenario in which ice loss from Antarctica takes on an explosive rate
+T37	Premise 5851 6096	In a controversial 2016 study, former NASA scientist James Hansen and a team of colleagues, including Velicogna, found that Earth’s sea level could rise above one meter (or 3.3 feet) within 50 years if polar ice-sheet loss doubles every 10 years
+T39	Claim 6200 6272	There is no proof the current rate of change in Antarctica will continue
+T45	Claim 6945 7194	Under high greenhouse-gas emissions, the worst-case projections of sea-level rise eventually reach over a centimeter each year, said Rob DeConto, an Antarctic expert at the University of Massachusetts at Amherst who was not involved in the new study
+T47	Claim 7234 7311	We’re still talking about roughly a half a millimeter per year,” DeConto said
+T51	Claim 8032 8239	Continuing high emissions could deliver massive sea-level rise — but strong compliance with the Paris climate agreement, while unable to stop changes happening now, could help to control how much they worsen
+T52	Claim 8333 8412	maybe we’re talking about something that is manageable for coastal stakeholders
+T53	Claim 8462 8568	Antarctica could drive faster changes, ones that “begin to exceed what we’re going to be able to cope with
+R0	supports Arg1:T5 Arg2:T1
+R1	supports Arg1:T7 Arg2:T1
+R2	supports Arg1:T13 Arg2:T12
+R3	supports Arg1:T14 Arg2:T1
+R4	joint Arg1:T15 Arg2:T13
+R5	supports Arg1:T18 Arg2:T12
+R6	supports Arg1:T19 Arg2:T1
+R7	supports Arg1:T21 Arg2:T19
+R8	supports Arg1:T24 Arg2:T19
+R9	supports Arg1:T27 Arg2:T21
+R10	attacks Arg1:T32 Arg2:T31
+R11	supports Arg1:T33 Arg2:T1
+R12	supports Arg1:T36 Arg2:T1
+R13	supports Arg1:T37 Arg2:T36
+R14	supports Arg1:T39 Arg2:T36
+R15	supports Arg1:T45 Arg2:T39
+R16	supports Arg1:T47 Arg2:T1
+R17	supports Arg1:T52 Arg2:T51
+R18	attacks Arg1:T53 Arg2:T52

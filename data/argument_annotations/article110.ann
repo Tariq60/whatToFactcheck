@@ -1,0 +1,60 @@
+T1	Premise 105 250	The oldest and thickest sea ice in the Arctic has started to break up, opening waters north of Greenland that are normally frozen, even in summer
+T2	Premise 253 420	This phenomenon – which has never been recorded before – has occurred twice this year due to warm winds and a climate-change driven heatwave in the northern hemisphere
+T3	Premise 423 477	One meteorologist described the loss of ice as “scary”
+T4	MajorClaim 479 607	Others said it could force scientists to revise their theories about which part of the Arctic will withstand warming the longest
+T5	Claim 610 852	The sea off the north coast of Greenland is normally so frozen that it was referred to, until recently, as “the last ice area” because it was assumed that this would be the final northern holdout against the melting effects of a hotter planet
+T6	Premise 855 1069	But abnormal temperature spikes in February and earlier this month have left it vulnerable to winds, which have pushed the ice further away from the coast than at any time since satellite records began in the 1970s
+T7	Premise 1073 1238	Almost all of the ice to the north of Greenland is quite shattered and broken up and therefore more mobile,” said Ruth Mottram of the Danish Meteorological Institute
+T10	Claim 1437 1526	The events of the last week suggest that, actually, the last ice area may be further west
+T11	Premise 1530 1741	Ice to the north of Greenland is usually particularly compacted due to the Transpolar Drift Stream, one of two major weather patterns that push ice from Siberia across the Arctic to the coastline, where it packs
+T12	Claim 1836 1887	The ice there has nowhere else to go so it piles up
+T14	Premise 1986 2048	This thick, compacted ice is generally not easily moved around
+T15	Premise 2052 2131	However, that was not the case this past winter (in February and March) and now
+T17	MajorClaim 2193 2298	Ice is easier to blow around as a result of a warming trend, which has accelerated over the past 15 years
+T21	Claim 2707 2819	He said this would flush chunks of thicker ice out through the Fram or Nares Straits into warmer southern waters
+T22	Premise 2930 3059	the harm will be done: the thick old sea ice will have been pushed away from the coast, to an area where it will melt more easily
+T23	Claim 3073 3183	This year’s openings are driven more by wind than melting but they have occurred during two temperature spikes
+T24	Premise 3185 3381	In February, the Kap Morris Jesup weather station in the region is usually below -20C, but earlier this year there were 10 days above freezing and warm winds, which unlocked the ice from the coast
+T25	Premise 3384 3529	Last week, the crack opened again after Kap Morris Jesup briefly registered a record high of 17C and strong southerly winds picked up to 11 knots
+T26	Claim 3531 3546	Experts predict
+T28	Premise 3616 3745	“I think that solar heating of the water column will increase during this opening and this will delay freeze-up and ice formation
+T29	Premise 3835 3999	The latest readings by the Norwegian Ice Service show that Arctic ice cover in the Svalbard area this week is 40% below the average for this time of year since 1981
+T30	Premise 4001 4090	In the past month, at least 14 days in the past month have hit record lows in this region
+T31	Claim 4092 4315	Although thinner ice elsewhere in the Arctic means this is unlikely to be a record low year overall, they are in line with predictions that there will be no summer ice in the Arctic Ocean at some point between 2030 and 2050
+T33	Premise 4535 4611	This event is a pretty big one going all the way to west of Kap Morris Jesup
+T35	Claim 4641 4772	As well as reducing ice cover, the ocean intrusion raises concerns of feedbacks, which could tip the Earth towards a hothouse state
+T36	Premise 4775 4867	Freakish Arctic temperatures have alarmed climate scientists since the beginning of the year
+T37	Premise 4869 4959	During the sunless winter, a heatwave raised concerns that the polar vortex may be eroding
+T38	Premise 4962 5084	This includes the Gulf Stream, which is at its weakest level in 1,600 years due to melting Greenland ice and ocean warming
+T39	Claim 5086 5164	With lower circulation of water and air, weather systems tend to linger longer
+T40	Premise 5167 5321	A dormant hot front has been blamed for record temperatures in Lapland and forest fires in Siberia, much of Scandinavia and elsewhere in the Arctic circle
+R0	joint Arg1:T1 Arg2:T2
+R1	joint Arg1:T2 Arg2:T1
+R2	supports Arg1:T3 Arg2:T1
+R3	supports Arg1:T4 Arg2:T3
+R4	supports Arg1:T5 Arg2:T1
+R5	supports Arg1:T6 Arg2:T5
+R6	supports Arg1:T7 Arg2:T5
+R7	restate Arg1:T10 Arg2:T4
+R8	supports Arg1:T11 Arg2:T12
+R9	supports Arg1:T12 Arg2:T4
+R10	supports Arg1:T14 Arg2:T12
+R11	attacks Arg1:T15 Arg2:T14
+R12	supports Arg1:T17 Arg2:T15
+R13	supports Arg1:T21 Arg2:T4
+R14	supports Arg1:T22 Arg2:T21
+R15	supports Arg1:T23 Arg2:T17
+R16	supports Arg1:T24 Arg2:T23
+R17	supports Arg1:T25 Arg2:T23
+R18	supports Arg1:T26 Arg2:T4
+R19	supports Arg1:T28 Arg2:T26
+R20	supports Arg1:T29 Arg2:T26
+R21	supports Arg1:T30 Arg2:T26
+R22	supports Arg1:T31 Arg2:T26
+R23	supports Arg1:T33 Arg2:T26
+R24	supports Arg1:T35 Arg2:T4
+R25	supports Arg1:T36 Arg2:T35
+R26	supports Arg1:T37 Arg2:T35
+R27	supports Arg1:T38 Arg2:T35
+R28	supports Arg1:T39 Arg2:T35
+R29	supports Arg1:T40 Arg2:T39

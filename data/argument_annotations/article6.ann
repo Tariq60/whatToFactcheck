@@ -1,0 +1,29 @@
+T1	MajorClaim 115 267	The earth is 15 years from a period of low solar activity similar to that last seen during the "mini ice-age" of the 17th century, when the Thames froze
+T2	Premise 270 431	Solar researchers at the University of Northumbria have created a new model of the sun's activity which they claim produces "unprecedentedly accurate predictions
+T3	Premise 435 562	They said fluid movements within the sun, which are thought to create 11-year cycles in the weather, will converge in the 2030s
+T4	Premise 565 662	Solar activity will fall by 60 per cent as two waves of fluid "effectively cancel each other out"
+T5	Premise 762 910	In the cycle between 2030 and around 2040] the two waves exactly mirror each other – peaking at the same time but in opposite hemispheres of the sun
+T6	Premise 925 1000	Their interaction will be disruptive, or they will nearly cancel each other
+T7	Claim 1004 1075	We predict that this will lead to the properties of a ‘Maunder minimum'
+T8	Premise 1079 1244	Maunder minimum, indicating low sunspot activity, was the name given to the period between 1645 and 1715, when Europe and North America experienced very cold winters
+T11	Claim 1608 1655	her research appeared to have uncovered another
+T12	Premise 1659 1770	We found magnetic wave components appearing in pairs, originating in two different layers in the sun’s interior
+T16	Premise 1982 2111	"They both have a frequency of approximately 11 years, although this frequency is slightly different, and they are offset in time
+T17	Premise 2115 2207	Over the cycle, the waves fluctuate between the northern and southern hemispheres of the Sun
+T18	Premise 2209 2358	Combining both waves together and comparing to real data for the current solar cycle, we found that our predictions showed an accuracy of 97 per cent
+T19	Premise 2362 2499	Effectively, when the waves are approximately in phase, they can show strong interaction, or resonance, and we have strong solar activity
+T21	Premise 2555 2666	When there is full phase separation, we have the conditions last seen during the Maunder minimum, 370 years ago
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T2
+R2	supports Arg1:T4 Arg2:T3
+R3	supports Arg1:T5 Arg2:T3
+R4	supports Arg1:T6 Arg2:T3
+R5	supports Arg1:T7 Arg2:T1
+R6	supports Arg1:T8 Arg2:T7
+R7	supports Arg1:T11 Arg2:T1
+R8	supports Arg1:T12 Arg2:T11
+R9	supports Arg1:T16 Arg2:T11
+R10	supports Arg1:T17 Arg2:T11
+R11	joint Arg1:T18 Arg2:T17
+R12	supports Arg1:T19 Arg2:T11
+R13	supports Arg1:T21 Arg2:T7

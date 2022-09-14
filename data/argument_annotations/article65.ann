@@ -1,0 +1,23 @@
+T4	Claim 318 420	Donald Trump was quite right to quit the Paris agreement which pretended that the massive lie was true
+T5	Claim 423 525	By “global warming” these papers don’t, of course, mean the mild warming of around 0.8 degrees Celsius
+T8	Claim 956 1047	“Global warming” as in the scary, historically unprecedented, primarily man-made phenomenon
+T9	Claim 1192 1366	What all these papers argue in their different ways is that the alarmist version of global warming — aka Catastrophic Anthropogenic Global Warming (CAGW) — is a fake artefact
+T10	Premise 1430 1743	China, Russia, Canada, the U.S., Italy, etc. — have been looking closely at different aspects of the global warming puzzle in various regions and on different timescales and come to the conclusion in irreproachable, peer-reviewed scientific ways that there is no evidence to support the global warming scare story
+T11	Claim 1746 1857	Late 20th century and early 21st century global warming, they show, is neither dramatic, nor unusual, nor scary
+T13	Premise 1958 2081	Büntgen et al, below, shows that temperatures in the northern hemisphere were warmer in the early 1400s than they are today
+T14	Premise 2083 2308	Abrantes et al (below) confirms the traditional view — which Michael Mann tried to dismiss with his discredited Hockey Stick chart — that the Medieval Warming Period was warmer than anything we have experienced in our own era
+T15	Premise 2311 2386	Here’s one from Li et al showing that China was much warmer 8,000 years ago
+T16	Premise 2388 2528	Here’s an unusual one from Guillet et al suggesting that there’s nothing new about wildly early or late grape harvests through the centuries
+T19	Premise 2753 2846	Several of the papers note that the primary influence on warming appears to be solar activity
+T23	Premise 3373 3617	Here are dozens of reputable scientists from around the world with no axe to grind collaborating on studies which all corroborate, independently and rigorously, the increasingly respectable view that “man-made global warming” just isn’t a thing
+T25	Claim 3658 3833	This debate — as I argue at some length in Watermelons — was always about left-wing ideology, quasi-religious hysteria, and “follow the money” corruption, never about “science
+R0	joint Arg1:T5 Arg2:T8
+R1	supports Arg1:T8 Arg2:T9
+R2	supports Arg1:T10 Arg2:T9
+R3	supports Arg1:T11 Arg2:T9
+R4	supports Arg1:T13 Arg2:T11
+R5	supports Arg1:T14 Arg2:T11
+R6	supports Arg1:T15 Arg2:T11
+R7	supports Arg1:T16 Arg2:T11
+R8	supports Arg1:T19 Arg2:T11
+R9	supports Arg1:T23 Arg2:T25

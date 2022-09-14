@@ -1,0 +1,64 @@
+T3	Claim 500 579	Temperature records worldwide have been shattered by an unusual global heatwave
+T4	Premise 582 642	Stifling heat cracked roads and buckled roofs across Britain
+T6	Premise 791 950	Meteo France placing 21 departments across the country on an orange weather alert, while Oman saw the highest nighttime temperature ever recorded on the planet
+T7	Premise 1042 1104	Montreal recording its hottest temperature since records began
+T8	Claim 1120 1197	the stifling temperatures look set to continue across the Northern Hemisphere
+T9	MajorClaim 1286 1354	the scale of this phenomenon points to global warming as the culprit
+T10	Claim 1374 1481	Records all around the world have been shattered as the entire planet is in the grips of a vicious heatwave
+T12	Premise 1588 1722	Montreal smashed the previous record for the city's hottest temperature, as readings from earlier this week showed of 97.9 °F (36.6°C)
+T13	Claim 1779 1865	much of the Northern Hemisphere has experienced uncharacteristically warm temperatures
+T14	Claim 1868 1939	The scale of this latest phenomenon suggests global warming is to blame
+T15	Premise 1970 1997	Summers keep getting hotter
+T18	Claim 2407 2462	North America has seen a staggering rise in temperature
+T19	Premise 2465 2620	There are already reports of at least eight heat-related deaths in Canada and the United States, stretching back to last weekend, including six in Montreal
+T20	Premise 2623 2771	The latter broke the previous record for the city's hottest temperature, as readings from earlier this week showed it reached 97.9 °F (36.6 Celsius)
+T21	Premise 2774 2914	Denver, the Colorado state capital that famously resides one mile above sea level, also saw a record temperature of 105°F (40.5°C) last week
+T23	Claim 2991 3151	The swathe of new records are believed to be connected to the intense heat dome that has consumed most of the United States and southeast Canada since late June
+T24	Claim 3154 3230	Experts expect the dome to hang over the northeast for at least another week
+T26	Claim 3418 3481	the summer of 2018 looks set to be one of the hottest on record
+T27	Premise 3484 3542	Scotland has experienced the hottest temperature on record
+T29	Premise 3783 3821	Glasgow had its hottest day on record,
+T30	Claim 3848 3892	Over the Irish Sea, temperatures also soared
+T31	Premise 3944 4084	Belfast hit a new record of 85.1 degrees (29.5 Celsius) on June 28, as Castlederg in northern Ireland set a new record for the UK as a whole
+T37	Premise 4932 5030	Public health England (PHE) has issued a level two health warning with regards to the unusual heat
+T39	Claim 5130 5180	The stifling heat caused roads and roofs to buckle
+T41	Premise 5252 5302	Scotland provisionally set its hottest temperature
+T43	Premise 5449 5483	Belfast also reached a record high
+T45	Premise 5583 5636	Castlederg hit 86.2°F (30.1°C) on June 29, its record
+T51	Claim 6646 6711	the USA and Canada have seen record temperatures in the last week
+T52	Premise 6748 6866	Montreal smashed its previous record for the hottest temperature, as readings from earlier this week showed of 97.9 °F
+T53	Premise 6882 6959	Denver, the Colorado state capital, tied its all-time high-temperature record
+T54	Premise 6986 7055	Burlington, in Vermont, set its all-time warmest low temperature ever
+T55	Premise 7124 7197	Ottawa posted its most extreme combination of heat and humidity on July 1
+R0	supports Arg1:T3 Arg2:T9
+R1	supports Arg1:T4 Arg2:T3
+R2	supports Arg1:T6 Arg2:T3
+R3	supports Arg1:T7 Arg2:T3
+R4	supports Arg1:T8 Arg2:T9
+R5	supports Arg1:T9 Arg2:T10
+R6	supports Arg1:T10 Arg2:T9
+R7	supports Arg1:T12 Arg2:T13
+R8	supports Arg1:T13 Arg2:T9
+R9	supports Arg1:T14 Arg2:T9
+R10	supports Arg1:T15 Arg2:T14
+R11	supports Arg1:T18 Arg2:T9
+R12	supports Arg1:T19 Arg2:T18
+R13	supports Arg1:T20 Arg2:T18
+R14	supports Arg1:T21 Arg2:T18
+R15	supports Arg1:T23 Arg2:T9
+R16	supports Arg1:T24 Arg2:T9
+R17	restate Arg1:T26 Arg2:T10
+R18	supports Arg1:T27 Arg2:T26
+R19	supports Arg1:T29 Arg2:T26
+R20	supports Arg1:T30 Arg2:T9
+R21	supports Arg1:T31 Arg2:T30
+R22	supports Arg1:T37 Arg2:T30
+R23	supports Arg1:T39 Arg2:T9
+R24	supports Arg1:T41 Arg2:T39
+R25	supports Arg1:T43 Arg2:T39
+R26	supports Arg1:T45 Arg2:T39
+R27	supports Arg1:T51 Arg2:T9
+R28	supports Arg1:T52 Arg2:T51
+R29	supports Arg1:T53 Arg2:T51
+R30	supports Arg1:T54 Arg2:T51
+R31	supports Arg1:T55 Arg2:T51

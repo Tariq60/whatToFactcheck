@@ -1,0 +1,33 @@
+T1	Claim 91 136	Last month was the hottest June ever recorded
+T2	Claim 180 429	Data provided by the Copernicus Climate Change Service (C3S), implemented by the European Centre for Medium-Range Weather Forecasts on behalf of the EU, showed that the global average temperature for June 2019 was the highest on record for the month
+T3	Premise 436 509	data showed European average ​temperatures were more than 2C above normal
+T7	Premise 786 884	The global average temperature was about 0.1C higher than during the previous warmest June in 2016
+T8	Claim 905 1010	climate change made last week’s record-breaking European heatwave at least five times as likely to happen
+T9	Premise 1043 1231	Rapid assessment of average temperatures in France between 26-28 June showed a “substantial” increase in the likelihood of the heatwave happening as a result of human-caused global warming
+T10	Premise 1386 1414	major wildfires across Spain
+T11	Premise 1450 1544	Germany, Poland and Czech Republic also recorded their highest temperatures for June last week
+T12	Claim 1547 1623	C3S admitted it is difficult to directly link the heatwave to climate change
+T14	Claim 1765 1968	Although local temperatures may have been lower or higher than those forecast, our data shows that the temperatures over the southwestern region of Europe during the last week of June were unusually high
+T15	Claim 2003 2080	we are likely to see more of these events in the future due to climate change
+T16	Claim 2200 2282	a similarly extreme heatwave 100 years ago would have likely been around 4C cooler
+T17	Claim 2286 2401	Spikes in European average temperatures of more than 1C above normal have occurred before, such as in 1917 and 1999
+T19	Claim 2734 2836	We knew June was hot in Europe, but this study shows that temperature records haven’t just been broken
+T21	Premise 2869 2980	This is the hottest June on record in Europe by a country mile, and the warmest June we have ever seen globally
+T24	Claim 3249 3381	Rapid attempts to find links between climate change and single extreme weather events are possible, but often come with many caveats
+R0	restate Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T1
+R2	supports Arg1:T7 Arg2:T2
+R3	supports Arg1:T9 Arg2:T8
+R4	supports Arg1:T10 Arg2:T8
+R5	supports Arg1:T11 Arg2:T8
+R6	attacks Arg1:T12 Arg2:T8
+R7	restate Arg1:T14 Arg2:T2
+R8	restate Arg1:T15 Arg2:T12
+R9	supports Arg1:T16 Arg2:T12
+R10	attacks Arg1:T17 Arg2:T8
+R11	restate Arg1:T19 Arg2:T1
+R12	supports Arg1:T21 Arg2:T17
+R13	attacks Arg1:T24 Arg2:T8
+T4	SuperAnnotatorPremise 1287 1381	The recent heatwave saw France record the hottest temperature in the country’s history (45.9C)
+T5	SuperAnnotatorPremise 514 633	temperatures were 6-10C above normal over most of France, Germany and northern Spain during the final days of the month
+T6	SuperAnnotatorClaim 1639 1723	such extreme weather events are expected to become more common due to global warming

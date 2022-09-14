@@ -1,0 +1,40 @@
+T1	Premise 173 290	Arctic sea ice has not only been shrinking in surface area in recent years, it’s becoming younger and thinner as well
+T3	Premise 566 621	2017 was once again one of the hottest years on record,
+T5	MajorClaim 734 813	The findings “continue the planet’s long-term warming trend,” according to NASA
+T6	MajorClaim 815 902	A trend that is driven predominately by human activity through carbon dioxide emissions
+T9	Premise 1078 1179	The hottest year on record remains 2016, while 2015 ranks second according to NOAA and third by NASA,
+T11	Claim 1246 1305	Though 2017 was slightly cooler on average compared to 2016
+T14	Premise 1366 1482	The six hottest years have all occurred since 2010 and 17 of the 18 hottest years on record have occurred since 2001
+T15	Premise 1485 1609	According to NASA, the globally averaged temperature of the land and ocean was 0.9˚C (1.62˚F) above the 20th century average
+T16	Premise 1611 1743	This puts us well over halfway to the ambitious target of limiting warming to 1.5˚ C (2.7˚F) set in the 2016 Paris Climate Agreement
+T17	Claim 1746 1890	Scientists believe if that if we are to avoid exceeding that limit, carbon emissions would need to be significantly reduced starting immediately
+T19	Claim 1928 2177	The slight downturn in temperatures this year can be partially explained by the presence of La Niña, which began in late 2016 and lasted into 2017 and returned late in the year — whereas a robust El Niño was in place during portions of 2015 and 2016
+T20	Premise 2180 2315	El Niño is characterized by a warming of the surface waters in the tropical Pacific Ocean — which tends to drive up global temperatures
+T21	Premise 2317 2396	Therefore years containing El Niños tend to be warmer globally than other years
+T22	Premise 2399 2511	La Niñas, on the other hand, feature cooler than average waters in the Pacific, and tend to cool the planet down
+T23	Claim 2514 2719	The fact that 2017 was the second- or third-warmest year on record, despite the presence of a cooling La Niña, speaks to the overall warming trend the Earth is experiencing thanks to overall global warming
+T24	Premise 2722 2891	According to NASA, if “the effects of the recent El Niño and La Niña patterns were statistically removed from the record, 2017 would have been the warmest year on record
+T26	Premise 3002 3199	The Antarctic, which was trending at record high levels just a few years ago, reached a record low during 2017, with ice covering 154,000 fewer square miles than the previous record low set in 1986
+T28	Premise 3202 3381	In the Arctic, sea ice extent was the second-lowest since records began in 1979, behind only 2016, though record low sea ice was observed during the winter months of January-March
+T29	Claim 3384 3494	Temperatures significantly warmer than normal around the planet did not mean there was a lack of snow, however
+T30	Premise 3496 3682	In the northern hemisphere, the average snow cover extent was the largest since 1985 and the eighth largest since records began in 1968, according to Rutgers University’s Global Snow Lab
+T31	Premise 3685 3822	2017 also featured a number of extreme weather events, most notably the record number of major hurricanes impacting the US and Caribbean,
+R0	supports Arg1:T1 Arg2:T5
+R1	supports Arg1:T3 Arg2:T1
+R2	supports Arg1:T5 Arg2:T6
+R3	supports Arg1:T9 Arg2:T5
+R4	supports Arg1:T11 Arg2:T5
+R5	supports Arg1:T14 Arg2:T11
+R6	supports Arg1:T15 Arg2:T11
+R7	joint Arg1:T16 Arg2:T15
+R8	supports Arg1:T17 Arg2:T5
+R9	supports Arg1:T19 Arg2:T6
+R10	supports Arg1:T20 Arg2:T19
+R11	joint Arg1:T21 Arg2:T20
+R12	supports Arg1:T22 Arg2:T19
+R13	supports Arg1:T23 Arg2:T5
+R14	supports Arg1:T24 Arg2:T23
+R15	supports Arg1:T26 Arg2:T23
+R16	supports Arg1:T28 Arg2:T23
+R17	supports Arg1:T29 Arg2:T6
+R18	supports Arg1:T30 Arg2:T29

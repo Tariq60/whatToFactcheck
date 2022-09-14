@@ -1,0 +1,18 @@
+T3	Claim 358 432	Collapsing polar ice caps, a green Sahara Desert, a 20-foot sea-level rise
+T6	Claim 857 1065	This could mean the landmark Paris Climate Agreement – which seeks to limit global warming to 2 degrees Celsius (3.6 degrees Fahrenheit) above pre-industrial levels – may not be enough to ward off catastrophe
+T7	Premise 1068 1268	“Even with just 2 degrees of warming – and potentially just 1.5 degrees – significant impacts on the Earth system are profound,” said study co-author Alan Mix, a scientist from Oregon State University
+T8	Premise 1271 1426	“We can expect that sea-level rise could become unstoppable for millennia, impacting much of the world’s population, infrastructure and economic activity,”
+T9	Claim 1438 1519	In looking at Earth's past, scientists can predict what the future will look like
+T12	Premise 1917 2119	Human-inflicted climate change is caused by the burning of fossil fuels such as coal, oil and gas, which release heat-trapping greenhouse gases such as carbon dioxide and methane into the the atmosphere
+T13	Premise 2222 2319	our current climate predictions may underestimate long-term warming by as much as a factor of two
+T14	Claim 2343 2498	climate models appear to be trustworthy for small changes, such as for low-emission scenarios over short periods, say over the next few decades out to 2100
+T16	Premise 2632 2826	large areas of the polar ice caps could collapse and significant changes to ecosystems could see the Sahara Desert become green and the edges of tropical forests turn into fire-dominated savanna
+T17	Claim 2829 2920	However, Meissner said "we cannot comment on how far in the future these changes will occur
+T18	Premise 2987 3108	without serious reduction in carbon dioxide emissions, there is "very little margin for error to meet the Paris targets.”
+R0	supports Arg1:T7 Arg2:T6
+R1	supports Arg1:T8 Arg2:T6
+R2	supports Arg1:T12 Arg2:T9
+R3	supports Arg1:T13 Arg2:T9
+R4	supports Arg1:T14 Arg2:T9
+R5	supports Arg1:T16 Arg2:T9
+R6	supports Arg1:T18 Arg2:T9

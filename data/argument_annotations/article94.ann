@@ -1,0 +1,46 @@
+T1	Premise 285 345	More than 15,000 polar bears have not disappeared since 2005
+T2	Premise 452 528	the predicted 67-per-cent decline in polar bear numbers simply didn’t happen
+T3	Claim 538 601	global polar bear numbers have been stable or slightly improved
+T4	MajorClaim 603 725	The polar bear’s resilience should have meant the end of its use as a cherished icon of global warming doom, but it didn’t
+T7	Claim 929 1066	serious inconsistencies exist within the polar bear literature and between that literature and public statements made by some researchers
+T8	Premise 1111 1318	Ian Stirling learned in the 1970s that spring sea ice in the southern Beaufort Sea periodically gets so thick that seals depart, depriving local polar bears of their prey and causing their numbers to plummet
+T9	Premise 1324 1438	that fact, documented in more than a dozen scientific papers, is not discussed today as part of polar bear ecology
+T10	Claim 1440 1595	In these days of politicized science, neither Stirling nor his colleagues mention in public the devastating effects of thick spring ice in the Beaufort Sea
+T13	MajorClaim 1943 2041	The polar bear's resilience should have meant the end of its use as an icon of global warming doom
+T14	Claim 2043 2352	One reason that the 2007 predictions of future polar bear survival were so far off base is that the model developed by American biologist Steven Amstrup (now at Polar Bears International, an NGO) assumed any polar bear population decline would be caused by less summer ice, despite the Beaufort Sea experience
+T15	Claim 2364 2487	Amstrup and fellow modelers were overly confident in their claim that summer ice was critical for the polar bear’s survival
+T17	Claim 2622 2880	many scientists were surprised when other researchers subsequently found that ringed and bearded seals (the primary prey of polar bears) north of the Bering Strait especially thrived with a longer open-water season, which is particularly conducive to fishing
+T19	Premise 2930 3028	More food for seals in summer means more fat seal pups for polar bears to eat the following spring
+T20	Claim 3084 3216	As long as polar bears have lots of baby seals to eat in spring, they get fat enough to survive even a longer-than-usual summer fast
+T21	Claim 3222 3333	while it’s true that studies in some regions show polar bears are lighter in weight than they were in the 1980s
+T22	Claim 3335 3460	there is no evidence that more individuals are starving to death or becoming too thin to reproduce because of less summer ice
+T23	Claim 3463 3508	Not all bears get enough to eat in the spring
+T24	Premise 3521 3681	Starvation has always been the leading natural cause of death for polar bears, due to a number of factors including competition, injury, tooth decay and illness
+T26	Claim 3774 3920	This is likely what happened to the emaciated Baffin Island bear captured on video in July 2017 and promoted by National Geographic late last year
+T27	Claim 3922 4005	The videographers claimed it showed what starvation due to sea-ice loss looked like
+T28	Claim 4008 4033	an implausible conclusion
+T33	Claim 4301 4569	it also motivated others to locate the International Union for Conservation of Nature (IUCN) Red List report for 2015 that estimated global polar bear numbers at somewhere between 22,000-31,000, or about 26,000, up slightly from 20,000-25,000, or about 22,500, in 2005
+T34	Claim 4670 4720	This increase may not be statistically significant
+T37	MajorClaim 5098 5194	Polar bears are thriving, making them phony icons, and false idols, for global warming alarmists
+R0	supports Arg1:T1 Arg2:T3
+R1	supports Arg1:T2 Arg2:T3
+R2	supports Arg1:T3 Arg2:T4
+R3	supports Arg1:T7 Arg2:T4
+R4	joint Arg1:T8 Arg2:T9
+R5	supports Arg1:T9 Arg2:T7
+R6	joint Arg1:T10 Arg2:T8
+R7	restate Arg1:T13 Arg2:T4
+R8	supports Arg1:T14 Arg2:T4
+R9	supports Arg1:T15 Arg2:T14
+R10	supports Arg1:T17 Arg2:T14
+R11	supports Arg1:T19 Arg2:T20
+R12	supports Arg1:T20 Arg2:T14
+R13	attacks Arg1:T22 Arg2:T21
+R14	attacks Arg1:T23 Arg2:T4
+R15	supports Arg1:T24 Arg2:T23
+R16	attacks Arg1:T26 Arg2:T27
+R17	attacks Arg1:T27 Arg2:T4
+R18	attacks Arg1:T28 Arg2:T27
+R19	supports Arg1:T33 Arg2:T4
+R20	supports Arg1:T34 Arg2:T37
+R21	restate Arg1:T37 Arg2:T4

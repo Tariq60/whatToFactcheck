@@ -1,0 +1,92 @@
+T1	Claim 104 283	Climate change is often misunderstood as a package deal: If global warming is “real,” both sides of the debate seem to assume, the climate lobby’s policy agenda follows inexorably
+T2	Claim 286 297	It does not
+T3	MajorClaim 299 460	Climate policy advocates need to do a much better job of quantitatively analyzing economic costs and the actual, rather than symbolic, benefits of their policies
+T4	Claim 462 545	Skeptics would also do well to focus more attention on economic and policy analysis
+T5	Claim 548 658	To arrive at a wise policy response, we first need to consider how much economic damage climate change will do
+T6	Premise 660 763	Current models struggle to come up with economic costs commensurate with apocalyptic political rhetoric
+T7	Premise 765 851	Typical costs are well below 10% of gross domestic product in the year 2100 and beyond
+T9	Premise 906 995	Even 10% less GDP in 100 years corresponds to 0.1 percentage point less annual GDP growth
+T10	Claim 997 1098	Climate change therefore does not justify policies that cost more than 0.1 percentage point of growth
+T11	Claim 1100 1220	If the goal is 10% more GDP in 100 years, pro-growth tax, regulatory and entitlement reforms would be far more effective
+T12	Claim 1223 1259	Yes, the costs are not evenly spread
+T14	Premise 1312 1406	The American South might be a worse place to grow wheat; Southern Canada might be a better one
+T15	Premise 1408 1518	In a century, Miami might find itself in approximately the same situation as the Dutch city of Rotterdam today
+T16	Claim 1548 1613	the costs of moving and adapting are not as imposing as they seem
+T17	Claim 1615 1672	Rotterdam’s dikes are expensive, but not prohibitively so
+T18	Premise 1674 1721	Most buildings are rebuilt about every 50 years
+T19	Premise 1723 1862	If we simply stopped building in flood-prone areas and started building on higher ground, even the costs of moving cities would be bearable
+T20	Claim 1864 1883	Migration is costly
+T22	Claim 1968 2047	Allowing people to move to better climates in the 21st will be equally possible
+T23	Premise 2049 2202	Such investments in climate adaptation are small compared with the investments we will regularly make in houses, businesses, infrastructure and education
+T24	Claim 2209 2242	economics is the central question
+T25	Claim 2312 2348	Carbon dioxide hurts nobody’s health
+T26	Claim 2350 2370	It’s good for plants
+T27	Claim 2372 2411	Climate change need not endanger anyone
+T28	Claim 2413 2592	If it did—and you do hear such claims—then living in hot Arizona rather than cool Maine, or living with Louisiana’s frequent floods, would be considered a health catastrophe today
+T29	Claim 2595 2648	Global warming is not the only risk our society faces
+T30	Claim 2650 2821	Even if science tells us that climate change is real and man-made, it does not tell us, as President Obama asserted, that climate change is the greatest threat to humanity
+T33	Claim 2927 2929	No
+T34	Claim 2931 3073	Healthy societies do not fall apart over slow, widely predicted, relatively small economic adjustments of the sort painted by climate analysis
+T35	Claim 3075 3125	Societies do fall apart from war, disease or chaos
+T36	Claim 3127 3211	Climate policy must compete with other long-term threats for always-scarce resources
+T37	Claim 3214 3276	Facing this reality, some advocate that we buy some “insurance
+T38	Claim 3279 3377	Sure, they argue, the projected economic cost seems small, but it could turn out to be a lot worse
+T39	Claim 3379 3429	But the same argument applies to any possible risk
+T40	Claim 3431 3520	If you buy overpriced insurance against every potential danger, you soon run out of money
+T41	Claim 3522 3707	You can sensibly insure only when the premium is in line with the risk—which brings us back where we started, to the need for quantifying probabilities, costs, benefits and alternatives
+T44	Claim 3835 3938	Strategic waiting is a rational response to a slow-moving uncertain peril with fast-changing technology
+T45	Claim 3941 4004	Global warming is not even the obvious top environmental threat
+T46	Claim 4006 4113	Dirty water, dirty air and insect-borne diseases are a far greater problem today for most people world-wide
+T47	Claim 4115 4190	Habitat loss and human predation are a far greater problem for most animals
+T48	Premise 4192 4239	Elephants won’t make it to see a warmer climate
+T50	Claim 4372 4439	we need to know what effect proposed policies have and at what cost
+T51	Claim 4441 4588	Scientific, quantifiable or even vaguely plausible cause-and-effect thinking are missing from much advocacy for policies to reduce carbon emissions
+T52	Premise 4590 4855	The Intergovernmental Panel on Climate Change’s “scientific” recommendations, for example, include “reduced gender inequality & marginalization in other forms,” “provisioning of adequate housing,” “cash transfers” and “awareness raising & integrating into education
+T53	Claim 4898 4980	they are not scientifically valid, cost-benefit-tested policies to cool the planet
+T54	Claim 4983 5052	Climate policy advocates’ apocalyptic vision demands serious analysis
+T59	Claim 5543 5635	And it follows that symbolic, ineffective, political grab-bag policies should be intolerable
+R0	supports Arg1:T1 Arg2:T3
+R1	supports Arg1:T2 Arg2:T1
+R2	supports Arg1:T4 Arg2:T3
+R3	supports Arg1:T5 Arg2:T3
+R4	supports Arg1:T6 Arg2:T5
+R5	joint Arg1:T7 Arg2:T6
+R6	supports Arg1:T9 Arg2:T10
+R7	supports Arg1:T10 Arg2:T3
+R8	supports Arg1:T11 Arg2:T10
+R9	supports Arg1:T12 Arg2:T3
+R10	supports Arg1:T14 Arg2:T12
+R11	supports Arg1:T15 Arg2:T12
+R12	attacks Arg1:T16 Arg2:T12
+R13	supports Arg1:T17 Arg2:T16
+R14	supports Arg1:T18 Arg2:T17
+R15	supports Arg1:T19 Arg2:T17
+R16	attacks Arg1:T22 Arg2:T20
+R17	supports Arg1:T23 Arg2:T22
+R18	supports Arg1:T24 Arg2:T3
+R19	supports Arg1:T25 Arg2:T24
+R20	supports Arg1:T26 Arg2:T24
+R21	supports Arg1:T27 Arg2:T24
+R22	supports Arg1:T28 Arg2:T27
+R23	supports Arg1:T29 Arg2:T3
+R24	supports Arg1:T30 Arg2:T29
+R25	restate Arg1:T33 Arg2:T29
+R26	supports Arg1:T34 Arg2:T29
+R27	supports Arg1:T35 Arg2:T34
+R28	supports Arg1:T36 Arg2:T3
+R29	supports Arg1:T37 Arg2:T38
+R30	supports Arg1:T38 Arg2:T37
+R31	attacks Arg1:T39 Arg2:T38
+R32	supports Arg1:T40 Arg2:T39
+R33	supports Arg1:T41 Arg2:T3
+R34	supports Arg1:T44 Arg2:T3
+R35	supports Arg1:T45 Arg2:T3
+R36	supports Arg1:T46 Arg2:T45
+R37	supports Arg1:T47 Arg2:T45
+R38	supports Arg1:T48 Arg2:T47
+R39	supports Arg1:T50 Arg2:T3
+R40	supports Arg1:T51 Arg2:T3
+R41	supports Arg1:T52 Arg2:T51
+R42	supports Arg1:T53 Arg2:T51
+R43	supports Arg1:T54 Arg2:T3
+R44	supports Arg1:T59 Arg2:T3

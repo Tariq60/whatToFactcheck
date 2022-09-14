@@ -1,0 +1,39 @@
+T1	MajorClaim 199 301	the Earth is getting greener, as viewed from space, especially in its rapidly warming northern regions
+T3	Premise 462 579	The roughly three-decade greening trend itself is apparent, the study notes, in satellite images of “leaf area index”
+T6	Premise 1592 1747	the greenhouse-gas filled computer simulations looked much more like the satellite observations than did simulations that only included natural variability
+T7	Claim 1785 2002	the trend of strengthened northern vegetation greening … can be rigorously attributed, with high statistical confidence, to anthropogenic forcings, particularly to rising atmospheric concentrations of greenhouse gases
+T8	Claim 2069 2221	the report is at least the third study in the past several months alone to highlight northern hemisphere greening and to reinforce this basic conclusion
+T9	Claim 2335 2366	global warming won’t be all bad
+T13	Claim 3059 3181	Another factor enhancing plant growth, meanwhile, seems to be more human-induced falling of nitrogen out of the atmosphere
+T16	Claim 3443 3509	the current satellite-based approach represents a blunt instrument
+T17	Premise 3511 3631	An examination of total leaf area, he notes, doesn’t record whether a particular area has changed its type of vegetation
+T18	Premise 3708 3810	the science is less clear about what is happening in the global tropics and in the Southern Hemisphere
+T20	Claim 3945 4099	a key fraction of all the greenhouse gases that humans pour into the atmosphere each year is pulled back into plants through the process of photosynthesis
+T21	Claim 4101 4254	This is happening even as the overall warming of the planet may, by lengthening growing seasons and moistening the atmosphere, further stoke plant growth
+T22	Claim 4313 4434	The key question then becomes how much this process can offset overall global warming over time. And that’s quite unclear
+T23	Premise 4437 4487	There’s a lot, after all, that we don’t understand
+T24	Premise 4503 4710	a recent National Oceanic and Atmospheric Administration report found that while Arctic tundras have indeed been greening over the past 30 years, in the past two to four years, that trend has reversed itself
+T29	Claim 5058 5155	the trend is already prompting more optimistic assessments of our climate future in some quarters
+T30	Premise 5290 5441	despite worsening wildfires and more thaw of permafrost, might still be able to stow away more carbon than it loses over the course of the 21st century
+T31	Claim 5468 5588	greening is emerging as a factor with the potential to blunt some of the worst impacts of human greenhouse gas emissions
+T32	Claim 5604 5715	researchers do not seem to be arguing that it’s enough to counterbalance the entire human-induced warming trend
+T33	Claim 5719 5918	While we are perhaps lucky that CO2 has this effect on plant physiology, in addition to being a greenhouse gas, it is not our ‘get out of jail free’ card when it comes to our ongoing emissions of CO2
+R0	joint Arg1:T3 Arg2:T6
+R1	supports Arg1:T6 Arg2:T7
+R2	supports Arg1:T7 Arg2:T1
+R3	supports Arg1:T8 Arg2:T7
+R4	supports Arg1:T9 Arg2:T1
+R5	supports Arg1:T13 Arg2:T9
+R6	attacks Arg1:T16 Arg2:T1
+R7	supports Arg1:T17 Arg2:T16
+R8	joint Arg1:T18 Arg2:T17
+R9	restate Arg1:T20 Arg2:T7
+R10	supports Arg1:T21 Arg2:T20
+R11	attacks Arg1:T22 Arg2:T9
+R12	supports Arg1:T23 Arg2:T22
+R13	supports Arg1:T24 Arg2:T22
+R14	supports Arg1:T29 Arg2:T1
+R15	supports Arg1:T30 Arg2:T29
+R16	supports Arg1:T31 Arg2:T29
+R17	attacks Arg1:T32 Arg2:T31
+R18	restate Arg1:T33 Arg2:T32

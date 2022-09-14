@@ -1,0 +1,40 @@
+T2	Premise 213 284	According to weather reports, some parts of Delhi soared to 108 degrees
+T5	MajorClaim 529 616	Last month marked the planet's 400th consecutive month with above-average temperatures,
+T9	MajorClaim 741 822	Unquestionably, it’s climate change, caused by humanity's burning of fossil fuels
+T10	Premise 827 978	We live in and share a world that is unequivocally, appreciably and consequentially warmer than just a few decades ago, and our world continues to warm
+T12	Premise 1108 1206	Climate scientists use the 20th-century average as a benchmark for global temperature measurements
+T15	Premise 1398 1544	The thing that really matters is that, by whatever metric, we've spent every month for several decades on the warm side of any reasonable baseline
+T16	Premise 1560 1637	NOAA's analysis found last month was the 3rd-warmest April on record globally
+T17	Premise 1639 1769	The unusual heat was most noteworthy in Europe, which had its warmest April on record, and Australia, which had its second-warmest
+T18	Premise 1772 2017	Portions of Asia also experienced some extreme heat: In southern Pakistan, the town of Nawabshah soared to a scalding 122.4 degrees on April 30, which may have been the warmest April temperature on record for the globe, according to Meteo France
+T19	Premise 2021 2100	Argentina also had its warmest April since national records began there in 1961
+T20	Claim 2103 2184	North America was the one part of the world that didn't get in on the heat parade
+T21	Premise 2186 2354	Last month, the average U.S. temperature was 48.9 degrees, 2.2 degrees below average, "making it the 13th-coldest April on record and the coldest since 1997," NOAA said
+T22	Premise 2379 2435	Last month was USA's coldest April in more than 20 years
+T23	Premise 2443 2524	Earth's carbon dioxide levels continue to soar, at highest point in 800,000 years
+T24	Claim 2526 2601	For the year-to-date, the Earth is seeing its 5th-warmest start to the year
+T25	Premise 2605 2721	A separate analysis of global temperature data from NASA also found last month was the third-warmest April on record
+T26	Premise 2725 2950	Another milestone was reached in April, also related to the number "400": Carbon dioxide — the gas scientists say is most responsible for global warming — reached its highest level in recorded history at 410 parts per million
+T27	Premise 2953 3062	This amount is highest in at least the past 800,000 years, according to the Scripps Institute of Oceanography
+T28	MajorClaim 3064 3110	The Earth had its 3rd-warmest April on record,
+T31	Claim 3171 3260	North America was the one part of the world that saw unusually cool temperatures in April
+R0	supports Arg1:T2 Arg2:T5
+R1	supports Arg1:T10 Arg2:T9
+R2	supports Arg1:T12 Arg2:T10
+R3	supports Arg1:T15 Arg2:T10
+R4	supports Arg1:T16 Arg2:T5
+R5	supports Arg1:T17 Arg2:T20
+R6	supports Arg1:T18 Arg2:T20
+R7	supports Arg1:T19 Arg2:T20
+R8	supports Arg1:T20 Arg2:T28
+R9	supports Arg1:T21 Arg2:T20
+R10	supports Arg1:T22 Arg2:T24
+R11	supports Arg1:T23 Arg2:T24
+R12	supports Arg1:T24 Arg2:T9
+R13	supports Arg1:T25 Arg2:T24
+R14	supports Arg1:T26 Arg2:T24
+R15	joint Arg1:T27 Arg2:T26
+R16	restate Arg1:T28 Arg2:T5
+R17	restate Arg1:T31 Arg2:T20
+T1	SuperAnnotatorClaim 529 615	Last month marked the planet's 400th consecutive month with above-average temperatures
+T3	SuperAnnotatorClaim 3064 3109	The Earth had its 3rd-warmest April on record

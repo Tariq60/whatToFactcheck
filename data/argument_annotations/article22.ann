@@ -1,0 +1,46 @@
+T1	MajorClaim 194 377	The worsening of tidal flooding in American coastal communities is largely a consequence of greenhouse gases from human activity, and the problem will grow far worse in coming decades
+T2	Claim 414 562	emissions, primarily from the burning of fossil fuels, are causing the ocean to rise at the fastest rate since at least the founding of ancient Rome
+T3	Claim 601 682	in the absence of human emissions, the ocean surface would be rising less rapidly
+T4	Claim 711 775	The increasingly routine tidal flooding is making life miserable
+T5	Premise 946 1216	they are straining life in many towns by killing lawns and trees, blocking neighborhood streets and clogging storm drains, polluting supplies of freshwater and sometimes stranding entire island communities for hours by overtopping the roads that tie them to the mainland
+T6	Claim 1219 1280	Such events are just an early harbinger of the coming damage,
+T8	Claim 1471 1516	It’s not the tide. It’s not the wind. It’s us
+T9	Premise 1678 1926	it is most likely rising faster than at any point in 28 centuries, with the rate of increase growing sharply over the past century — largely, they found, because of the warming that scientists have said is almost certainly caused by human emissions
+T10	Premise 1973 2103	if emissions were to continue at a high rate over the next few decades, the ocean could rise as much as three or four feet by 2100
+T11	Claim 2106 2245	Experts say the situation would then grow far worse in the 22nd century and beyond, likely requiring the abandonment of many coastal cities
+T12	Claim 2248 2478	The findings are yet another indication that the stable climate in which human civilization has flourished for thousands of years, with a largely predictable ocean permitting the growth of great coastal cities, is coming to an end
+T13	Claim 2482 2602	I think we can definitely be confident that sea-level rise is going to continue to accelerate if there’s further warming
+T14	Premise 3072 3255	roughly three-quarters of the tidal flood days now occurring in towns along the East Coast would not be happening in the absence of the rise in the sea level caused by human emissions
+T22	Claim 4899 5072	scientists already knew that the sea level rose drastically at the end of the last ice age, by almost 400 feet, causing shorelines to retreat up to a hundred miles in places
+T24	Claim 5249 5318	there were small variations of climate and sea level over that period
+T25	Claim 5391 5491	The paper shows the ocean to be extremely sensitive to small fluctuations in the Earth’s temperature
+T26	Premise 5493 5696	The researchers found that when the average global temperature fell by a third of a degree Fahrenheit in the Middle Ages, for instance, the surface of the ocean dropped by about three inches in 400 years
+T28	Claim 5777 5839	sea-level change and temperature change should go hand-in-hand
+T32	Claim 6119 6234	Due largely to human emissions, global temperatures have jumped about 1.8 degrees Fahrenheit since the 19th century
+T33	Claim 6236 6348	The sea is rising at what appears to be an accelerating pace, lately reaching a rate of about a foot per century
+T34	Premise 6388 6503	Dr. Rahmstorf, had previously published estimates suggesting the sea could rise as much as five or six feet by 2100
+T36	Claim 6621 6750	Dr. Rahmstorf’s forecast is now more consistent with calculations issued in 2013 by the Intergovernmental Panel on Climate Change
+T38	Claim 6990 7091	the rise would eventually reach five feet and far more — the only question was how long it would take
+T39	Premise 7093 7312	Scientists say the recent climate agreement negotiated in Paris is not remotely ambitious enough to forestall a significant melting of Greenland and Antarctica, though if fully implemented, it may slow the pace somewhat
+R0	supports Arg1:T2 Arg2:T1
+R1	supports Arg1:T3 Arg2:T1
+R2	supports Arg1:T4 Arg2:T1
+R3	supports Arg1:T5 Arg2:T4
+R4	supports Arg1:T6 Arg2:T1
+R5	supports Arg1:T8 Arg2:T1
+R6	supports Arg1:T9 Arg2:T8
+R7	supports Arg1:T10 Arg2:T8
+R8	supports Arg1:T11 Arg2:T1
+R9	supports Arg1:T12 Arg2:T1
+R10	restate Arg1:T13 Arg2:T6
+R11	supports Arg1:T14 Arg2:T12
+R12	supports Arg1:T24 Arg2:T1
+R13	supports Arg1:T25 Arg2:T1
+R14	supports Arg1:T26 Arg2:T25
+R15	restate Arg1:T28 Arg2:T25
+R16	supports Arg1:T32 Arg2:T1
+R17	supports Arg1:T33 Arg2:T1
+R18	supports Arg1:T34 Arg2:T33
+R19	supports Arg1:T36 Arg2:T33
+R20	supports Arg1:T38 Arg2:T36
+R21	supports Arg1:T39 Arg2:T38

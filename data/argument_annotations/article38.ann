@@ -1,0 +1,44 @@
+T1	Claim 81 166	Once a year or so, journalists from major news outlets travel to the Marshall Islands
+T2	Claim 333 458	Their dispatches are often filled with raw emotion and suggest that residents are fleeing atolls swiftly sinking into the sea
+T3	Claim 461 539	Yet new research shows that this is not the entire—or even an accurate—picture
+T6	Claim 976 1162	Their peer-reviewed study, published in the September 2015 issue of Anthropocene, revealed that since the middle of the 20th century the total land area of the islands has actually grown
+T9	Premise 1255 1418	However, there is a process of accretion, where coral broken up by the waves washes up on these low-lying islands as sand, counteracting the reduction in land mass
+T11	Claim 1534 1580	This is not only true for the Marshall Islands
+T13	Premise 1582 1747	The researchers write that within the “recently emerging body of shoreline change studies on atoll islands there is little evidence of widespread reef island erosion
+T15	Premise 1948 2138	The most famous of these studies, published in 2010 by Paul Kench and Arthur Webb of the South Pacific Applied Geoscience Commission in Fiji, showed that of 27 Pacific islands, 14% lost area
+T17	Premise 2194 2302	Representatives from the Marshall Islands have been vocal about the need for strong global action on climate
+T19	Claim 2464 2595	It’s true that approximately one-third of the population has relocated to the U.S.—but for reasons more mundane than climate change
+T20	Premise 2598 2672	Some 52.7% of the Marshall Islands population lives below the poverty line
+T21	Premise 2715 2778	Only 39.3% of the population age 15 years and above is employed
+T22	Premise 2780 3060	In its 2015 human-rights report on the island nation, the U.S. State Department said that significant problems include “chronic government corruption, and chronic domestic violence,” along with “child abuse, sex trafficking, and lack of legal provisions protecting worker’s rights
+T23	Premise 3063 3188	Marshallese citizens also have an easy immigration pathway to America and can live, work and study in the U.S. without a visa
+T24	Claim 3191 3281	It is understandable why Marshall Island leaders might prefer to talk about global warming
+T25	Claim 3283 3353	But blaming today’s emigration on rising seas does a disservice to all
+T26	Claim 3356 3528	Telling viewers in the U.S. starkly that they’re “making this island disappear,” as a report from CNN’s John Sutter did in June 2015, makes for good, blame-laden television
+T27	Claim 3534 3763	this reductionist, fact-averse rhetoric contributes to the idea that climate-change discussion should be a two-sided, cartoonish fight between those who say it is not real and those who say it is the worst problem facing humanity
+T28	Claim 3766 3871	Even more insidiously, doom-mongering makes us panic and seize upon the wrong responses to global warming
+T29	Premise 3932 4036	the Paris climate agreement, recently ratified by China, is likely to be history’s most expensive treaty
+T31	Claim 4134 4166	This will achieve almost nothing
+T32	Premise 4260 4494	even if every nation were to fulfill all their carbon-cutting promises by 2030 and stick to them all the way through the century—at a cost of more than $100 trillion in lost GDP—global temperature rise would be reduced by a tiny 0.3°F
+T37	Claim 4902 5116	Policy makers who want to help the residents of the Marshall Islands today should look at improving the islands’ resilience and ability to cope with severe weather by improving infrastructure and storm preparedness
+R0	joint Arg1:T1 Arg2:T2
+R1	supports Arg1:T3 Arg2:T37
+R2	supports Arg1:T6 Arg2:T3
+R3	supports Arg1:T9 Arg2:T6
+R4	supports Arg1:T11 Arg2:T3
+R5	supports Arg1:T13 Arg2:T11
+R6	supports Arg1:T15 Arg2:T11
+R7	supports Arg1:T17 Arg2:T19
+R8	supports Arg1:T19 Arg2:T37
+R9	supports Arg1:T20 Arg2:T24
+R10	supports Arg1:T21 Arg2:T24
+R11	supports Arg1:T22 Arg2:T24
+R12	supports Arg1:T23 Arg2:T24
+R13	supports Arg1:T24 Arg2:T26
+R14	supports Arg1:T25 Arg2:T24
+R15	supports Arg1:T26 Arg2:T27
+R16	supports Arg1:T27 Arg2:T26
+R17	supports Arg1:T28 Arg2:T31
+R18	supports Arg1:T29 Arg2:T28
+R19	supports Arg1:T31 Arg2:T37
+R20	supports Arg1:T32 Arg2:T28

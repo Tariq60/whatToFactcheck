@@ -1,0 +1,89 @@
+T1	Premise 208 309	The average concentration of carbon dioxide in Earth's atmosphere topped 411 parts per million in May
+T2	Premise 315 415	In April — the previous month — the concentration hit 410 ppm for the first time in recorded history
+T3	Premise 421 502	These are the highest CO2 levels in the 800,000 years for which we have good data
+T4	MajorClaim 508 585	This is expected to have a catastrophic effect on human health and the planet
+T5	Claim 589 685	We have a pretty good idea of what Earth's atmosphere has looked like for the past 800,000 years
+T6	Premise 757 854	ice-core records reveal intricate details of our planet's history from long before humans existed
+T7	Premise 856 1032	By drilling more than 3 kilometers deep into the ice sheets over Greenland and Antarctica, scientists can see how temperature and atmospheric carbon-dioxide levels have changed
+T8	Premise 1053 1163	we know the atmosphere and the air that we breathe has never had as much carbon dioxide in it as it does today
+T9	Premise 1206 1296	the average monthly level of CO2 in the atmosphere exceeded 410 parts per million in April
+T10	Premise 1364 1405	In May, that number climbed above 411 ppm
+T11	Claim 1571 1602	The record is not a coincidence
+T13	Premise 1708 1779	In recent years, we've pushed those gas levels into uncharted territory
+T14	Claim 1782 1831	That change has inevitable and scary consequences
+T15	Premise 1871 2106	increased CO2 levels could cause pollution-related deaths to increase by tens of thousands, and lead to the slowing of human cognition (especially when you take into account the fact that CO2 levels tend to be higher indoors in cities)
+T16	Premise 2108 2214	Carbon dioxide also contributes to warming that causes sea-level rise, searing heat waves, and superstorms
+T19	Premise 2674 2793	For the 800,000 years for which we have records, average global CO2 levels fluctuated between about 170 ppm and 280 ppm
+T20	Claim 2795 2881	Once humans started to burn fossil fuels in the industrial era, things changed rapidly
+T21	Premise 2884 2945	Only in the industrial era has the number risen above 300 ppm
+T22	Premise 2947 3025	The concentration first crept above 400 ppm in 2013, and it continues to climb
+T23	Claim 3028 3107	There's a debate among scientists about the last time CO2 levels were this high
+T24	Claim 3109 3241	It might have been during the Pliocene era, 2 million to 4.6 million years ago, when sea levels were 60 to 80 feet higher than today
+T25	Claim 3243 3364	Or it may have been in the Miocene, 10 million to 14 million years ago, when seas were more than 100 feet higher than now
+T26	Premise 3367 3457	In our 800,000-year record, it took about 1,000 years for CO2 levels to increase by 35 ppm
+T28	Premise 3594 3656	CO2 doesn't directly harm human health at these concentrations
+T29	Claim 3658 3788	But because it traps heat on the planet that then cranks up the global thermostat, it can have a very significant effect on health
+T31	Claim 3860 4086	The potential effects of higher average temperatures include tens of thousands of deaths from heat waves, more extreme weather events, and the spread of diseases carried by ticks and mosquitoes — something we're already seeing
+T34	Claim 4276 4355	Higher levels of CO2 and the warming they cause also exacerbate ozone pollution
+T35	Premise 4357 4567	One 2008 study found that for every degree Celsius the temperature rises because of CO2 levels, ozone pollution can be expected to kill an additional 22,000 people via respiratory illness, asthma, and emphysema
+T37	Premise 4629 4754	Increased air pollution has been shown to cause lung cancer, cardiovascular disease, and higher rates of allergies and asthma
+T38	Premise 4756 4899	A recent study found that 9 million people died prematurely from pollution-related diseases in 2015, accounting for 16% of all deaths worldwide
+T39	Claim 4902 4946	Other research has raised even more concerns
+T40	Claim 4948 5014	The average CO2 level doesn't represent the air most of us breathe
+T41	Claim 5016 5105	Cities tend to have far more CO2 than average — and those levels rise even higher indoors
+T42	Premise 5107 5204	Some research indicates that it may have a negative effect on human cognition and decision-making
+T43	Claim 5208 5346	For these reasons, President Barack Obama's EPA ruled in 2009 that CO2 was a pollutant that needed to be regulated under the Clean Air Act
+T44	Claim 5348 5404	But the Trump administration is reevaluating that ruling
+T46	Claim 5629 5713	The human-health effects of CO2 increases are just one part of the bigger story here
+T47	Claim 5716 5812	The change we've seen in CO2 levels recently has been much more rapid than the historical trends
+T48	Premise 5814 5964	Some experts think we're on track to hit 550 ppm by the end of the century, which could cause average global temperatures to rise by 6 degrees Celsius
+T49	Premise 5966 6115	For context, the increase in superstorms, rising sea levels, and spreading tick-borne disease that we're already seeing comes after a 0.9-degree rise
+T50	Claim 6262 6350	Projections of sea-level rise will also get more extreme as CO2 levels continue to climb
+T51	Claim 6353 6405	Right now, carbon-dioxide emissions are still rising
+T52	Premise 6407 6533	The goal set in the Paris agreement on climate change is to limit the global temperature increase to 2 degrees Celsius or less
+T53	Premise 6535 6640	But as a recent feature in the journal Nature revealed, we're on track for more than 3 degrees of warming
+T54	Claim 6643 6767	The latest measurements show that if we want to avoid that dangerous scenario, we need to make dramatic changes very quickly
+R0	supports Arg1:T1 Arg2:T3
+R1	supports Arg1:T2 Arg2:T3
+R2	supports Arg1:T3 Arg2:T5
+R3	supports Arg1:T5 Arg2:T4
+R4	supports Arg1:T6 Arg2:T5
+R5	joint Arg1:T7 Arg2:T6
+R6	supports Arg1:T8 Arg2:T5
+R7	supports Arg1:T9 Arg2:T8
+R8	supports Arg1:T10 Arg2:T8
+R9	supports Arg1:T11 Arg2:T4
+R10	supports Arg1:T13 Arg2:T11
+R11	supports Arg1:T14 Arg2:T4
+R12	supports Arg1:T15 Arg2:T14
+R13	supports Arg1:T16 Arg2:T14
+R14	supports Arg1:T19 Arg2:T20
+R15	supports Arg1:T20 Arg2:T4
+R16	supports Arg1:T21 Arg2:T20
+R17	supports Arg1:T22 Arg2:T20
+R18	supports Arg1:T23 Arg2:T4
+R19	supports Arg1:T24 Arg2:T23
+R20	attacks Arg1:T25 Arg2:T24
+R21	supports Arg1:T26 Arg2:T23
+R22	supports Arg1:T28 Arg2:T29
+R23	attacks Arg1:T29 Arg2:T28
+R24	supports Arg1:T31 Arg2:T4
+R25	supports Arg1:T34 Arg2:T4
+R26	supports Arg1:T35 Arg2:T34
+R27	supports Arg1:T37 Arg2:T14
+R28	supports Arg1:T38 Arg2:T37
+R29	supports Arg1:T39 Arg2:T4
+R30	supports Arg1:T40 Arg2:T39
+R31	supports Arg1:T41 Arg2:T39
+R32	supports Arg1:T42 Arg2:T39
+R33	supports Arg1:T43 Arg2:T39
+R34	attacks Arg1:T44 Arg2:T43
+R35	supports Arg1:T46 Arg2:T4
+R36	supports Arg1:T47 Arg2:T46
+R37	supports Arg1:T48 Arg2:T47
+R38	supports Arg1:T49 Arg2:T47
+R39	supports Arg1:T50 Arg2:T4
+R40	supports Arg1:T51 Arg2:T47
+R41	supports Arg1:T52 Arg2:T51
+R42	joint Arg1:T53 Arg2:T52
+R43	supports Arg1:T54 Arg2:T4
