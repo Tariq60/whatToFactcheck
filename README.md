@@ -5,6 +5,6 @@ Tariq Alhindi, Brennan Xavier McManus, and Smaranda Muresan
 
 The fact-checked segments and argument annotations are available in the data folder.
 
-The articles are collected from LexisNexis, which licenses the use of data for research purposes only. If your entity has a valid LexisNexis license and you need access to the full article texts please email me at tariq@cs.columbia.edu. Alternatively, you can access the articles online. All links are provided in [data/links.txt](https://github.com/Tariq60/whatToFactcheck/blob/main/data/links.txt)
+The articles are collected from LexisNexis, which licenses the use of data for research purposes only. If your institution has a valid LexisNexis license and you need access to the full article texts please email me at tariq@cs.columbia.edu. Alternatively, you can access the articles online. All links are provided in [data/links.txt](https://github.com/Tariq60/whatToFactcheck/blob/main/data/links.txt)
 
 The code and will be posted here soon.
